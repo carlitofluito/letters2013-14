@@ -8,7 +8,7 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: carlitofluito/letters2013_14
-description: "Everything you need (and nothing more) to start a bookdown book."
+description: "This is a compendium of the letters written, sent and received during October 2013 until September 2014."
 ---
 
 # Preface {-}
