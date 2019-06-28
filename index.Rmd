@@ -1,36 +1,17 @@
 --- 
-title: "From my lovers and others. (Letters from 2013-2014)"
-author: "Carlos Alcalá"
+title: "A Minimal Bookdown Book"
+author: "Sean Kross"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [letters-ref.bib]
+bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: carlitofluito/letters2013_14
-# url: 'http\://seankross.com/bookdown-start/'
-description: "This is a compendium of the letters written, sent and received during October 2013 until September 2014."
+github-repo: seankross/bookdown-start
+url: 'http\://seankross.com/bookdown-start/'
+description: "Everything you need (and nothing more) to start a bookdown book."
 ---
 
-# Preamble
+# Preface {-}
 
-Memory, knowledge, lives, even identities, all is distributed. We are socially fragmented. It could be used as an argument for a non-local consciousness theory. Therefore, with this text, I am just trying to compile pieces of what I have been in order to know a bit better what I am know. I have been told in the past that there is wisdom in the text that I wrote, and I am certainly sure that there is wisdom in the texts that I received. I hope you find something that makes your life more meaningful and satisfactory. I hope you find on some of these words a bunch of human beings that, like you, have suffered and have enjoyed moments of their lives.
-
-Wish you the best, 
-
-Carlito Fluito, a.k.a. Carlos Alcalá
-
-2019-03-18
-
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-
-bookdown::publish_book(name = NULL, account = NULL ,server = NULL, 
-  render = "local")
-
-```
-
+This is the very first part of the book.
