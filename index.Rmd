@@ -1,15 +1,14 @@
 --- 
 title: "From my lovers and others. (Letters from 2013-2014)"
 author: "Carlos Alcalá"
-date: ""
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
 documentclass: book
-bibliography: [letters-ref.bib, packages.bib]
+bibliography: [letters-ref.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: carlitofluito/letters2013_14
-url:'https://carlitofluito.github.io/letters2013-14'
+# url: 'http\://seankross.com/bookdown-start/'
 description: "This is a compendium of the letters written, sent and received during October 2013 until September 2014."
 ---
 
