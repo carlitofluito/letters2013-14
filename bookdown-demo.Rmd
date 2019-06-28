@@ -1,0 +1,454 @@
+--- 
+title: "From my lovers and others. (Letters from 2013-2014)"
+author: "Carlos Alcalá"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [letters-ref.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a compendium of the letters written, sent and received during October 2013 until September 2014."
+---
+
+# Preamble
+
+Memory, knowledge, lives, even identities, all is distributed. We are socially fragmented. It could be used as an argument for a non-local consciousness theory. Therefore, with this text, I am just trying to compile pieces of what I have been in order to know a bit better what I am know. I have been told in the past that there is wisdom in the text that I wrote, and I am certainly sure that there is wisdom in the texts that I received. I hope you find something that makes your life more meaningful and satisfactory. I hope you find on some of these words a bunch of human beings that, like you, have suffered and have enjoyed moments of their lives.
+
+Wish you the best, 
+
+Carlito Fluito, a.k.a. Carlos Alcalá
+
+2019-03-18
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+bookdown::publish_book(name = NULL, account = NULL ,server = NULL, 
+  render = "local")
+
+```
+
+
+<!--chapter:end:index.Rmd-->
+
+# The depths (October - December) {#depths}
+
+
+## 2013-11-10. To Tomás
+
+Leuven, 10th of November of 2013
+
+
+
+## 2013-11-11. From Tomás
+
+Valladolid, 11th of November of 2013
+
+
+
+## 2013-11-14 To Tomás
+
+
+
+<!--chapter:end:01-depths.Rmd-->
+
+# The re-connection (January - March) {#reconnect}
+
+## 2014-02. Letter to the deaths. 
+Hello Tom (1991 - 2007)
+Hello Monica (1989 - 2011)
+
+
+## 2014-02-11 From Paloma
+
+## 2014-02-11 To Paloma
+
+## 2014-02-17 To Tomás
+
+## 2014-02-19 To Tomás
+
+## 2014-02-20 To Lucía
+
+<br>
+
+it went off 
+
+she is not here
+
+she is not now and she hasn't been
+
+she never was here
+
+she could even be dead right now
+
+or she could have been 
+
+<br>
+
+you were talking with pixels
+
+with a screen
+
+it was a recording
+
+at its own time 
+
+<br>
+
+time 
+
+<br>
+
+********************
+<br>
+
+Hello Lucía
+
+
+## 2014-02-21 To Sheila
+
+## 2014-04-22 From Tomás
+
+## 2014-02-24 From Lucía
+
+## 2014-02-24 To Laura
+
+## 2014-02-24 To my Mother
+
+## 2014-02-24 To my future self
+
+## 2014-02-25 To Carlota
+
+## 2014-02-25 From my Mother
+
+## 2014-02-26 To Carlos
+
+### Advantages of distant and non-immediate communication (Letters)
+
+## 2014-02-27 To Josú
+
+## 2014-02-28 From Sheila
+
+## 2014-03-02 To Sheila
+
+## 2014-03-04 To Lucía
+
+## 2014-03-04 To Tomás
+
+## 2014-03-05 To Lucía
+
+## 2014-03-06 To my Mother
+
+## 2014-03-07 To Fernando del Val
+
+## 2014-03-10 From Álvaro
+
+## 2014-03-13 From my Morther
+
+## 2014-03-13 From Carlota
+
+## 2014-03-15 From Fernando del Val
+
+
+## 2014-03-18 To David
+
+## 2014-03-18 To Álvaro
+
+## 2014-03-18 From David
+  
+## 2014-03-18 From Paloma
+
+## 2014-03-18 To Carlota
+
+## 2014-03-18 To Fernando
+
+## 2014-03-18 To Sergio
+
+## 2014-03-18 From Lucía
+
+## 2014-03-18 To my Mother
+
+## 2014-03-18 To Paloma
+
+## 2014-03-18 To Sergio
+
+## 2014-03-19 From Fernando del Val
+
+## 2014-03-25 From Sergio
+
+## 2014-03-26 To Lucía
+
+## 2014-03-28 To Tomás
+
+## 2014-03-29 From Tomás
+
+## 2014-03-29 To Tomás
+
+## 2014-03-31 To Álvaro
+
+
+
+
+
+You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+
+
+<!--chapter:end:02-reconnect.Rmd-->
+
+# Impatience (April - May) {#impatience}
+
+## 2014-04-01 To Carlota
+
+## 2014-04-02 From Lucía
+
+## 2014-04-02 From Lucía
+
+## 2014-04-09 To Fernando del Val
+
+## 2014-04-09 From Fernando del Val
+
+## 2014-04-09 To Fernando del Val
+
+## 2014-04-09 From Fernando del Val
+
+## 2014-04-10 To Fernando del Val
+
+## 2014-04-09 To Paloma
+
+## 2014-04-10 From Tomás
+
+## 2014-04-10 To Tomás
+
+## 2014-04-10 From Tomás
+
+## 2014-04-11 To Paloma
+
+## 2014-04-21 To Tomás (Gratitude)
+
+## 2014-05-02 To Lucía
+
+## 2014-05-04 From Silvia
+
+## 2014-05-05 From Lucía
+
+## 2014-05-06 From JuanPa
+ 
+## 2014-05-09 To JuanPa ?
+
+## 2014-05-11 From Paloma
+
+## 2014-05-19 To Tomás
+
+## 2014-05-25 To ??
+
+## 2014-05-25 From Ana Cantarranas
+
+## 2014-05-26 From Freyia
+
+## 2014-05-26 To Freyia
+
+## 2014-05-26 To Laura
+
+## 2014-05-26 To Sophie
+
+## 2014-05-30 To Sara
+
+
+## 2014-05-30 To Sheila
+
+
+## 2014-05-31 From Sheila
+
+
+
+
+<!--chapter:end:03-imaptience.Rmd-->
+
+# Love and lonlinnes (June - August) {#love}
+
+## 2014-06-01 From Sara
+
+## 2014-06-04 To Sara
+
+## 2014-06-10 From Tomás
+
+## 2014-06-10 To Mar
+
+## 2014-06-13 To Laura
+
+## 2014-06-20 From Silvia
+
+## 2014-06-21 To Silvia
+
+## 2014-06-22 From Paloma
+
+## 2014-06-22 From Silvia
+
+## 2014-07-02 To Sergio
+
+## 2014-07-08 To Agnese
+
+## 2014-07-13 To ??
+
+## 2014-07-13 To Viki (Farewell)
+
+## 2014-07-15 To Viki
+
+## 2014-07-16 From Viki
+
+## 2014-07-17 To Ana Cantarranas
+
+## 2014-07-17 To Paloma
+
+## 2014-07-17 To Sheila
+
+## 2014-07-17 To Tomás
+
+## 2014-07-17 To Viki
+
+## 2014-07-18 From Sheila
+
+## 2014-07-18 To Viki
+
+## 2014-07-18 To Viki (unsent)
+
+Leuven 18th of August, 2014
+ 
+Viki, you are now just ink on the paper. There is an amazing blond guy of 2 years old and a half.
+
+
+He is discovering life.
+
+
+He smiles, he laughs. It’s wonderful.
+
+
+Knowing. Everything is new. Llama, es listo. Lo sabe todo sin saber. Oye sin oir. Siente sin sentir. Se ríe. Observa. Aprende. Comunica con la cara.
+
+
+## 2014-07-23 To Viki
+
+## 2014-07-25 From Tomás
+
+## 2014-07-26 To Viki
+
+## 2014-07-27 To Sheila
+
+## 2014-07-27 To Tomás
+
+## 2014-07-28 To Viki
+
+## 2014-07-30 To Javier/Antoñin
+
+## 2014-07-31 To Viki
+
+## 2014-08-08 To Lucía
+
+## 2014-08-09 To Viki
+
+## 2014-08-16 From my GrandMother
+
+## 2014-08-23 To Tom Tom and co.
+
+## 2014-08-23 To Viki
+
+## 2014-08-27 To my GrandMother
+
+## 2014-08-28 To Carlos
+
+## 2014-08-28 Gratitude template
+
+## 2014-08-28 To Danikas (Gratitude)
+
+## 2014-08-28 To Lucía (Gratitude)
+
+## 2014-08-28 To Sergio (Gratitude)
+
+## 2014-08-29 To Silvia (Gratitude)
+
+## 2014-08-29 To Paloma (Gratitude)
+
+## 2014-08-29 To Teleco?
+
+## 2014-08-29 To Tom Tom and Petra (Gratitude)
+
+## 2014-08-29 To Petra and Tom Tom
+
+## 2014-08-30 To Viki
+
+Leuven 30th of August, 2014
+ 
+This is not a postcard, this is an SMS. Yesterday I smoked weed with Teleco and Rober, I will let you know the whole experience one day. Today, I just want to say that there was a moment yesterday that Roberto asked to me.
+
+ 
+-For you, what is your first pleasure?
+
+
+Almost automatically, I answered:
+
+-Making people happy (Hacer a la gente feliz)
+ 
+Carlito Fluito,
+ 
+Have a nice day
+
+
+
+
+
+<!--chapter:end:04-love.Rmd-->
+
+# An end and a beggining (September) {#end}
+
+## 2014-09-02 To Carlos
+
+## 2014-09-03 From Juan
+
+## 2014-09-06 From Lucía
+
+## 2014-09-08 From Silvia
+
+## 2014-09-08 Frase Silvia ?
+
+## 2014-09-09 To Viki
+
+## 2014-09-11 To Valladolid
+
+## 2014-09-11 From Lucía
+
+## 2014-09-11 To JuanPa (Danikas' friend)
+
+## 2014-09-11 From JuanPa (Danikas' friend)
+
+
+## 2014-09-12 To JuanPa (Danikas' friend)
+
+## 2014-09-11 To Viki
+
+## 2014-09-12 To Lucia (Unsent)
+
+## 2014-09-21 To Dorina (Viki's friend)
+
+## 2014-09-27 From Donia (Viki's friend)
+
+## 2014-09-24 From Lucía
+
+## 2014-09-24 To Lucía ??
+
+## 2017-09-27 To Viki
+
+
+<!--chapter:end:05-endbeggining.Rmd-->
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+
+<!--chapter:end:06-references.Rmd-->
+
