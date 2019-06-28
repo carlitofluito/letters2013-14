@@ -1,5 +1,11 @@
-book_filename: "bookdown-demo"
+book_filename: "letters2013CarlitoFluito"
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: ""
 delete_merged_file: true
+repo: https://github.com/carlitofluito/letters2013_14
+output_dir: docs
+rmd_files: ["index.Rmd", "01-depths.Rmd", "02-reconnect.Rmd", "03-impatience.Rmd",
+"04-love.Rmd","05-endbeggining.Rmd", "06-references.Rmd"]
+clean: [packages.bib, letters-ref.bib]
+new_session: yes
