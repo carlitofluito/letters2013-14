@@ -11,7 +11,7 @@ github-repo: carlitofluito/letters2013_14
 description: "This is a compendium of the letters written, sent and received between October 2013 and September 2014."
 ---
 
-# Preamble
+# Preamble {-#preamble}
 
 We are socially fragmented. 
 
