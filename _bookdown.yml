@@ -2,6 +2,6 @@ book_filename: "letters2013CarlitoFluito"
 chapter_name: ""
 repo: https://github.com/carlitofluito/letters2013_14
 output_dir: docs
-rmd_files: ["index.Rmd", "01-depths.Rmd", "02-reconnect.Rmd"]
+rmd_files: ["index.Rmd", "01-depths.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
