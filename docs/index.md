@@ -25,3 +25,7 @@ Wish you the best,
 Carlito Fluito, a.k.a. Carlos Alcalá
 
 2019-03-18
+
+## A bit of context
+
+In September 2013, I moved to Leuven (Belgium) to study my fourth and last year of Bachelor in Psychology. Many people warned me about the dangers of getting lost in the wild parties of the city, and how much a year as Erasmus student could teach me about the world. However, no one warned me about the perils I would encounter, or about how one given evening could actually change my whole life, being, and spirit… 
