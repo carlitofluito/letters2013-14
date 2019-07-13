@@ -3,6 +3,22 @@
 
 ## 2013-11-10. To Tomás {-#totomas20131110}
 
+Greetings Tomás,
+
+How is everything going? I hope that well and without too many frights.
+
+I attach a letter explaining some of the thoughts I have had in my mind during these months.
+
+I mentioned my intention to call you during my stay in Barcelona but, as I explain in the letter, I preferred to use writing as a means of communication.
+
+My trip to Barcelona has left me in a rather strange state of longing, melancholy, and loss of comfort... I do not know if these beautiful three days I have spent there have been beneficial or harmful.
+
+Greetings and thanks,
+
+Carlos
+
+--
+
 Leuven, 10th of November of 2013.
 
 Greetings Tomás,
@@ -57,7 +73,42 @@ Carlos
 
 
 
-## 2013-11-11. From Tomás {-#fromtomas20131111}
+## 2013-11-11 to 13. From Tomás {-#fromtomas20131111}
+
+Carlos, good morning.
+
+I read your letter at dawn, I have reread it afterward, and in both moments I have been worried. I had to take the dog out and clean the house, so I delayed sending you a first response. I have to write slowly, and this morning I have it a bit complicated, with some commitment that cannot be postponed. I hope to sit down this afternoon so I can send you an answer that can help you. For now, I just want you to feel that your mail has not gone to outer space and that its recipient is entangled with other things as if friends did not occupy the first step of life at the level of priorities. Leibniz, Pierre Bayle, and some other things can wait. While I sit down and order my head a little, it occurs to me to send you a couple of readings that I hope will help you to reconsider some things, especially that dark and pessimistic tone in which your letter moves. The risk of depression is always there, close to the edge of any step. It's what it takes to be human. But depression is a disease, I'm not going to be the one to analyze it to the psychologist you are and who understand it well. You know very well where and how you are, and I am very happy that you come out of yourself and that you trust your friends, in me, although I am not sure that it will be able to be that crutch that will help you to walk. I will try, although you know very well that the way you have to walk it yourself; the others will not be more than a minor walking stick in the best of the cases.
+
+Searching in my memory for things that I have read and that can serve you, I have thought about authors like Bertrand Russell, who won the Nobel Prize for Literature in 1950, and who has been one of the most important mathematicians and philosophers of the 20th century. He wrote with a wonderful English. There I send you a Spanish version and the original in English of his *Conquest of happiness*, in case you want to practice English, with the literature and the thought of someone who had a very complicated life, more difficult than it seems at first sight, but that always maintained the control of himself and the pulse of life. The second reading is by Erich Fromm, *The Revolution of Hope*, whose original English I do not have and not found on the Internet, to download for free. Anyway, I hope that the Spanish copy will be useful. I hope these readings serve you, which I imagine will counterbalance Bukowski's stark realism. Writers write how they live, although some say they are transfigured. Bukowski is a clear example of how a writer manifests in his literature as he lives, and the life of this person was not exactly an interesting life or deserving of imitation, although it has contributed to literature a work that deserves to be analyzed. But not all readings are the most appropriate at any time. The same thing happens with music: there is music for every instant or, better, for every moment, situation or state of mind. I would balance a depressive mood with Mozart or Haydn, for example. In any case, depending on how you see yourself, you may have to seek help and put a lot of effort on your part to get out of depression.
+
+Well, let’s see if this afternoon I can sit with time ahead and I can answer you from the rationality and with the heart in the hand.
+
+When I tried to attach Russell's file in English, I saw that it is very large, so I can not send it to you in this same email, which has a sending limitation of ten megabytes; therefore, I send it to you in another email.
+
+A hug.
+
+Tomás
+
+--
+Tomás, 
+
+Thank you very much for your very quick response and your concern for me.
+I go to the library to read Russell (I have an e-book, but it is for occasions when the paper is scarce). I think that is exactly what I was looking for. I hope it does not take more than a couple of days to read it. I'll tell you if it's making a mark on my character.
+
+The road is walked alone. And you sent me a pair of good shoes to start walking. If you have priorities, accomplish them. I'll be busy with Russell and Fromm.
+
+Health and thanks.
+
+Carlos
+
+--
+
+Carlos, good morning. We have a sunny morning around here; I hope you can also enjoy a sunny day and, above all, I hope and wish that today you are better than three days ago when I received your letter. I send you in Word format the answer to your letter. I do not know if I have elaborate on it too much, I simply hope that my meditations can serve you, although I know that in those, as in yours, I address many questions. With that purpose, I have written it. It has taken me longer than I would have liked and what I envisioned three days ago, but I have not been able to finish it before. I hope to see you soon, to be able to drink coffee together - you know, I will take a small juice... Oh! I should not say it, but you know that you have me at your complete disposal.
+
+
+A hug.
+
+
 
 Valladolid, 11 November 2013
 
@@ -92,7 +143,9 @@ The tensions to which we subject ourselves, increased by the pressures and uncer
 I think I've elaborated on a lot and I'm not sure I've written anything that you may find valuable or, at the very least, useful. I, therefore, offer you my reflections made in the thread of some of your reflections, which have seemed to me significant, among those you address or suggest in your letter. I know I've been on my toes about the problems you're raising, but I don't know if this is the right time to take each of them one by one and extend myself thoroughly. I am satisfied if my meditations help you return to yourself and, now, calmly, slowly and looking for objectivity, you will reorient your state or situation.
 
 A hug.
+
 Thomas.
+
 (Valladolid, 13 November 2013)
 
 ## 2013-11-14. To Tomás {-#totomas20131114}
