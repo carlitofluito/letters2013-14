@@ -17,7 +17,7 @@ Greetings and thanks,
 
 Carlos
 
---
++++
 
 Leuven, 10th of November of 2013.
 
@@ -89,7 +89,8 @@ A hug.
 
 Tomás
 
---
++++
+
 Tomás, 
 
 Thank you very much for your very quick response and your concern for me.
@@ -101,7 +102,7 @@ Health and thanks.
 
 Carlos
 
---
++++
 
 Carlos, good morning. We have a sunny morning around here; I hope you can also enjoy a sunny day and, above all, I hope and wish that today you are better than three days ago when I received your letter. I send you in Word format the answer to your letter. I do not know if I have elaborate on it too much, I simply hope that my meditations can serve you, although I know that in those, as in yours, I address many questions. With that purpose, I have written it. It has taken me longer than I would have liked and what I envisioned three days ago, but I have not been able to finish it before. I hope to see you soon, to be able to drink coffee together - you know, I will take a small juice... Oh! I should not say it, but you know that you have me at your complete disposal.
 
