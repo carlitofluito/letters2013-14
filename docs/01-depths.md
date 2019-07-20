@@ -67,6 +67,7 @@ I am surprised that the oldest of my friends retains hope and believes in the fu
 Could we pick up the towel we threw away?
  
 I'm sorry again for reading my problems and stealing your time.
+
 Eternally grateful.
  
 Carlos
@@ -145,12 +146,87 @@ I think I've elaborated on a lot and I'm not sure I've written anything that you
 
 A hug.
 
-Thomas.
+Tomás.
 
 (Valladolid, 13 November 2013)
 
 ## 2013-11-14. To Tomás {-#totomas20131114}
 
-Coming soon...
+Thank you very much Tomás, 
 
+I attach my answer. It provokes a very hopeful sensation the fact of communicating by letter more than by e-mail in the 21st century. 
 
+Greetings.
+
++++
+
+Leuven, 14th of November of 2013
+ 
+Greetings Tomás,
+ 
+Thank you very much for your very complete response. I have been extremely satisfied with its reading and I will read it again as soon as I have time. Your sincere and felt writing is also appreciable. I value filled with gratitude the exercise of empathy and esteem you have performed.
+ 
+Tomás, my letter is not as worked as your answer, because I write it almost in one go and without too much revision. The last paragraphs of your letter deserve a mandatory rereading, and subsequent reflection and answer. Just to mention, although I probably haven't fully understood them, I've been moved. Emotion always ahead.
+ 
+Your tips are affecting me in a pretty fast and powerful way. It may be that being able to express myself, organize my thinking and look for and find a reason for my situation, are helping me to modify it. The sensation of feeling understood and heard that you transmit to me is undoubtedly a powerful effect on my mood.
+ 
+I think the music I've been listening to, almost uninterruptedly, since I read your first message (Mozart's symphonies), is playing a pretty crucial role. His music is elegant and subtle, jovial and full of life. It penetrates more gently and respectfully within me than Bukowski's literature did, and its impact is, for the moment, quite powerful. I'm letting myself get soaked. I avoid the Requiem and Lacrimosa. There are moments and moments. Even without any technical knowledge in music, I can notice the impact of grim songs on my emotional state.
+ 
+Concerning getting soaked, fine rains and solar radiation. I have long compared the temperature in Leuven and Valladolid. They seem to be weather-connected, as it is surprising the climatic similarity between these two cities. My source of information is the weather predictor, so I can't trust too much either. Here, I suppose, it rains a lot more. Therefore, the sky is usually greyer. But
+ 
+*after it rains*
+
+*like after crying*
+
+*faces*
+
+*like the sunny skies*
+
+*unwrap*
+ 
+Del Val, F. *Ice Tongues*
+
+(There are moments and moments, poems and poems)
+ 
+And if it rains intensely the sky usually gives us a bright afternoon, (when there was afternoon, now the sun dies at 18.00).
+ 
+I quote the previous poem, also concerning your reflection on poetry, conscious understanding and the affectation of this on emotion. I don't think I've come to understand all the symbology or the full meaning of Fernando's poem, but of all the ones I've read, this is one of those who stuck to my memory. He likes to appear from time to time, in situations where, after suffering, I see more clearly both present and past facts. I may be starting to see the light after this period of continuous fine rain, with heavy intermittent showers.
+ 
+I've started reading Russell. It was a brilliant recommendation. I read it as long as time permits. I'm in the second chapter and it's amazing how well his arguments fit into my concerns. It seems that he would have written it tailor-made for me, for the contemporary man. Knowing you're not the only one helps, too.
+ 
+I know the relationship you had with your friend. I don't think I'm going to imagine the suffering you've had to go through, the one you're going through right now, and the one you're going to go through in the future. These kinds of ideas and thoughts go deep, but in moments of emotional weakness they attack us and try to sink us. As the older person that you are, and given the different situations in which you have lived, you know death better than I do: its presence in various contexts, or in people you appreciated to a different extent. The little I can know about death has been taught to me by poetry, mainly that of Fernando, as in the poem *the slowness and the absolute*, or in:
+ 
+*lie the ashes when they settle on the rooftops*
+
+*lies the death*
+
+*lie the lies*
+
+*all is finishment*
+ 
+*we're made of premeditated unreality*
+ 
+Del Val, F. *Orpheus in New York.*
+ 
+A couple of years ago, I also received a very hard and heavy lesson. The death of my cousin Monica, at her 22 years old, while in France, performing her end-of-career internship as a chemical engineer at a European company. An immaculate, beautiful, incredibly sweet, intelligent, hard-working, dedicated, cheerful person. The death that, at the wrong time, snatches huge, very precious people. The failure of life. These are lessons that we will not forget, Tomás. They will accompany us for as long as we are in this world. Now, my uncles are the ones who are really suffering from it. They do have depressions and anxiety attacks. My thing is passing sadness.
+ 
+As for Fernando, I see that you have not wanted to underline what we have already said on other occasions about his ideas and thoughts. Although I detect throughout the letter a powerful argument to tear down his ideas, or at least to face them. I like to believe that Fernando still has a lucid and clear spirit, that is why I like to quote his poems. Besides, I like the rocker's ideal about poetry: literary genre, and something else. But there are moments and moments. I'm going to stop reading poetry for a while. At least until the exams are over, which will be in February, more or less. With Russell, Fromm and the syllabus readings, I'll have quite a believe.
+ 
+I link this idea with the one you raise about resources, the need for specialization and focus in a field of knowledge. As the wise and intelligent person you are, you've detected something that, even myself, had overlooked. Indeed, I usually relate to people older than me, and as Festinger defends in the *Theory of Social Comparison*, human beings seek information in their environment to know themselves. I wanted to compare myself to people who, in addition to being exceptional in their field and outside of it, like you, Carlos or Fernando, are older than me. You have had more time to work on your specialties and poke around other corners of knowledge. It's my learning greed that guides me to these relationships, but I can't let the comparison bore through my self-esteem comparison. Here in Leuven, I like to visit exhibitions and have coffees with a girl who, for a few weeks, is 30 years old. It is surprising how much knowledge he has. But even she reminds me (and her) that many differences in our ways of thinking, and the content of our ideas are determined by the age of each of us and the books that we have found time to read.
+ 
+Reading your letter has renewed my strength. I add here, that when quality is as remarkable as it is in your reflections, it's never too much. It drew a smile on my face when I saw that with a three-sheets letter you had answered an eight-pages one.
+Your answer has helped me remember what I had decided in the past, but sadness had clouded and prevented recovering it from my memory. I like social networks. I would like to achieve the master's degree, to which we have previously referred, in this field. Physical social networks, the tool through which, among many other things, ideas and attitudes are disseminated. I used to be a dreamy teenager who wanted to change the world. Social networks knowledge is a powerful tool to be a little closer to my utopian goal. But I'm a little afraid of knowledge. Tools can be used for different purposes, many of them outside of ethics and morals. To what extent, knowing how an idea spreads and manages to change the view of the majority is a too powerful weapon for the times of moral laxity in which we live? This is a question that I beg you to help me answer it. I read Skinner's *Beyond Freedom and Dignity*, which raised some of these dilemmas. I read two summers ago, and in English, thus without the right tools. Then, I can't get much back from that reading. But I remember an argument in the book: *the tool is free of morals*. The knife is created as a tool, morale lies in the person who uses it. I also remember one counter-argument by you and another teacher: *there are immoral tools*. Atomic bombs, or torture tools, were designed to destroy and damage. I don't know what to think about social media, a tool with countless applications, for good and for evil.
+ 
+I also have the strength now to defend my arguments and ideas. It used to be more influential, and quickly yielded to the arguments of others. Fernando undermined my hopes, soaking me up with his ideas during the last conversations we had.  On many occasions, I abide by them without excessive critical thinking. Now, I want to build and defend patterns and guides that can lead me towards my goals. The rigid is weak, and the flexible, resistant. But I want to have a solid structure, despite the flexibility and modifiability that I may possess.
+ 
+I really liked your reflection on the whining spirit of many modern intellectuals. I think that you defend a very complete idea, oriented towards analysis, shaping, and understanding of the situation, rather than an empty complaint whose effects will not lead to the solution of the problem. Another attitude I'd forgotten: look for whys, know the factors, and try to modify them if they should be modified. You helped me remember the optimistic person I used to be. I also thank writing for this result. As you have well suggested, writing is a mirror in which, some days we can look old and tired, and others rejuvenated and splendid.
+ 
+The morals shared by Plato, Aristotle, and I suppose many other great thinkers are extremely interesting and gainable. I have spoken to Carlos, a great admirer of Chopin, Lao-Tse or Kandinsky, among others. After explaining him your reflection on the moral obligation to help the people inside the cavern, which he took as a personal attack (even having indicated that it was not!); he admitted to be socially selfish. I raised the act of generosity that Kandinsky, Chopin, and Lao-Tse, among so many others, had performed and for which now he can enjoy them. I will develop these ideas in our future conversations, which I will suggest to be made through letters, such as yours and mine because it allows a clearer and more thorough presentation of the arguments.
+ 
+Finally, simply thank you. You already know the admiration and respect I feel for you, which are increasing every time we know each other better. I will try to maintain an objective view of the situation and avoid social comparison. I know your age, older than mine, and your almost limitless abilities. I do not want to compare the knowledge that a person as exceptional as you possess, with those that a 21-year-old average person, as I am, can have. I also don't want to think if when I become your age, I'll even reach half your faculties.
+ 
+Thank you very much for your support and help, and as you have already noticed in the style and content of my letter, my mood is improving. I wanted to change, and the individual will with a significant dose of social assistance is getting me there.
+ 
+A warm hug.
+ 
+Carlos

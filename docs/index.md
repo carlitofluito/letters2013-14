@@ -1,7 +1,7 @@
 --- 
 title: "From my lovers and others. (Letters from 2013-2014)"
 author: "Carlos Alcala a.k.a. Carlito Fluito"
-date: "2019-07-13"
+date: "2019-07-20"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
