@@ -1,8 +1,27 @@
 # The re-connection (January - March) {#reconnect}
 
-## 2014-02. Letter to the deaths. 
+## 2014-02. Letter to the deaths. - Self-deception
 Hello Tom (1991 - 2007)
+
 Hello Monica (1989 - 2011)
+
+I’m writing to you in a selfish way. Because I need you. I need to write to someone. I need to tell someone what I’m learning . I’m self- deceiving  myself, thinking that I’m not taking time out from you, because for you there is nothing left. You have plenty of time now that you’re not here. I’m deceiving myself because I need you. I need to write to you.
+
+I think I’m giving you something, and even  dead, I’m taking away from you. I hope you are in peace, and I’m not bothering you with this letter.  I need people, I need the lies. Still. I just realise that I am not going to be able to study the Social Networks Master’s Degree next year, since I missed the deadline. It seems even  funny to know that I was already dead. I had been dead for a month and I didn’t know it. That I had one of the happiest weeks of my life and my future was dead. That I was living the present, happy. Filled with wellbeing . Helping the world. All of this thanks to my past, thanks to forgetting my past, to emptying my heart, filling my stomach, weakening my ambitions and strengthening my bones. I was happy, infinitely happy. Blooming, productive. In less than a week I went from consuming cannabis to considering seriously not killing  animals for my own benefit or consumption.
+
+I abandoned my self,  my egoism. I have emptied myself, my morality is now  focused on the other.  I couldn’t steal if its other’s belongings, I couldn’t steal knowing that somebody needs  more than me. I couldn’t breathe if my oxygen would cause someone else’s death. I’ve given in, I’ve emptied myself. But I fill myself. I fill myself often.
+
+Ambitions. I need this letter for working for the world, for them, for those alive. For every person that is still here. I needed to talk to those over there to realise that I have to work for this world. I must share this happiness and wellbeing that I have achieved. To spread and to give. Life is giving, therefore I’m begging to the Death. So that the Death gives to life what it takes from it.  
+
+From a cemetery,I’m writing. From a cemetery, I learn. Because the living, with thedead, are still connected. That is why I want to study Social Networks becausekeeping my happiness is selfish because watching suffering calmly is selfish,being willing to change is ambition, but enjoying other’s suffering is egotistic.
+
+And I’m alone, and I’m not alone. Because people exist. Because I cannot change anybody. The change is within each one, and outside, through writing. Talking to the dead and taking from the Death what it takes from us every day. We want It to give our life back. But prayers are selfish, writing is sharing. I’m writing for myself and on behalf of others. Because my letters have a receiver, even if they’re dead. Because it remains written, and any alive person will read it. Because I empty myself giving, and I fill myself back by emptying other people. Because I search for calm, and I give calm. I don’t hold it. 
+
+Icreate emptiness in my body, so I can host others within me. 
+
+And I don’t ask for anything in return. I don’t ask for anything they aren’t willing to give. I have air, water, food, and people. I have an empty glass to be filled.
+
+
 
 
 ## 2014-02-11 From Paloma
