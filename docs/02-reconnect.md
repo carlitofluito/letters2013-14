@@ -22,11 +22,25 @@ Icreate emptiness in my body, so I can host others within me.
 And I don’t ask for anything in return. I don’t ask for anything they aren’t willing to give. I have air, water, food, and people. I have an empty glass to be filled.
 
 
-
-
 ## 2014-02-11 From Paloma
 
+Hello Carlos, how's it going? 
+
+The missing one... I guess you've been traveling, haven't you? Morocco, isn’t it?? Ui, ui, that healthy envy. Surely it has been an experience, tell me things. 
+
+I'm going to Bristol this week to see some friends and see if I can disconnect a little. What's that about you losing your phone? I hope that you solve it soon. You are such a mess!!
+
+Well, how were the exams? I suppose fucking nicely or at least well. You're probably already handling yourself speaking English very very well, Manuel. Hahahahahaha. And what plans do you have for this quarter?? 
+
+I've finished the exams and I did nice although I haven't yet been given the psychosocial mark. They're so slow. And nothing… All subjects pass and that. Although I am aiming for more. Now starting the next quarter and I think that the party is gonna be over… Many assignments and many classes to which I have to go necessarily. In fact, right now, I am in "Psychology of personality", and it seems to me that participation and ass-kissing count more than anything else. Hahaha. I also wanted to ask you for an opinion on how to work on the subjects and all that, and which are themost interesting and so on. But well, you will tell me if you remember. I have: personality, critical thinking, health, linguistic and cognitive development, and psychological evaluation. When you can and feel like it, you tell me what you want. I relied too much on your advice that has always been good for me.
+
+Regarding my life, not so much novelty: living in Salamanca and disconnected a little bit from my life from before, honestly... I want to do new thingsssss!!!! So that's what I tell youuu. I hope you enjoy the quarter and we talk soon, ok? Be happy!!
+
+A huge kiss, freak!
+
+
 ## 2014-02-11 To Paloma
+
 
 ## 2014-02-17 To Tomás
 
