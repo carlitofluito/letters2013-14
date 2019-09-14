@@ -41,6 +41,46 @@ A huge kiss, freak!
 
 ## 2014-02-11 To Paloma
 
+Hello Paloma,
+ 
+I'm all very well. I arrived yesterday from Morocco. A fantastic experience. I'm writing a chronicle of the trip, so when I finish it I will send it to you so that you give me your opinion before posting it on the blog. 
+ 
+When you travel, open your eyes, talk to people, ask them the most basic and absurd thing you can think of. The world is full of nuances to taste. Leave your phone in airplane mode during the day. Enjoy the moment. Others can wait for a while for them to know how you're doing. Take pictures of everything that deserves a photo. Good pictures, you know how to take them. But leave the best moments for your memory. Don’t photograph those.
+ 
+The stars of the Sahara sky cannot be photographed with the smartphone. The sunset on the mountainous horizon while I was meditating/praying on a dune, can't be photographed either. I got goosebumps every time I think about it.
+ 
+If you really want to disconnect, don't worry about others. Your time is yours. You can tell them you're going to be out there and when you get back, you'll let them know.
+ 
+The cell phone has appeared. It's at Charleroi Airport. It's 20€ transport to go back and forth. So, I will see if I can find someone who can pick it up for me. It makes me think it showed up. I think a lot about how I have behaves in the past with the goods that didn't belong to me. I need time to think about that...
+ 
+My grades are given to me on the 13th of February. Everything went pretty good. I'll tell you when I know numerically. English works in ups and downs, oscillating.
+ 
+Plans for the quarter: too many. But at least I'm getting used to not using the computer/smartphone, writing by hand and sleeping less than six hours. We will see what are the results...
+ 
+Don't use your smartphone/computer when you're in class. Look at the professor's face. They will have already explained to you how important feedback is at this point. Live in the moment. Technology is a tool, not a part of you. You don't go with a hammer to class and you start hitting the table. Even if you can. Every tool has its moment. Control the tool so the tool won't control you. Look with your eyes and think with your brain. Write with your hands.
+ 
+About the subjects of this quarter.
+ 
+Personality. I got a distinction with honors. It's true it's about "ass-kissing". Interest, curiosity, participation are prettier words, though. Palenzuela is a pretty active, nocturnal person, like me.  We got and get along pretty well. He's not the best teacher, he gets messy with the ideas quite often. But it makes you think twice as much, so you can build on your own what he means. Take it as a challenge, not as a threat.
+ 
+Critical thinking. I did almost every assignment with an incredibly hard-working girl. She did most of them. Read the book and take it as a guide. It's all there. Silvia was my teacher. Very friendly, nice and accessible. We got along very well.
+ 
+Health. Góngora also gets messy by himself. Sometimes he explains things in one practice group that he doesn't explain in another. Compare your notes with people from other groups and take lots of notes in the theoretical class. He knows a lot. If you're interested, ask questions. However, well, it's clinical psychology, and it wasn't my favorite subject.
+ 
+Evaluation. If Cristina Genaro is your teacher, go to class and copy everything she says. Looks like a dictation. It's kind of ridiculous for a university class, but it's what he asks on the exam. Go to the practice class. If it Genaro is not your teacher, I have no idea.
+ 
+Cognitive development. Read the articles before you go to class. Go to the library one afternoon, no phone or computer. Take a couple of hours to read it. You're going to make the most of the class and save time in May. The work is long and tiresome. Try to anticipate and get it done with time. It's pretty methodical, so you don't have to think too much, but you have to work a lot. It takes time.
+ 
+Live the present, Paloma. Quit technology and meet people. You don't tell everyone everything you do. Write something for yourself. Handwrite. Do things one at a time. Focus on what you're doing and forget problems you can't fix right now. Note them up so you won't forget about them and you'll fix them in the future.  Learn and let yourself be influenced. Don't prejudge, as much as it is possible. You're smart enough to make your decisions on your own. But if you need help, ask for it. Always.
+ 
+We're in touch, Paloma.
+ 
+I also attach to you the work I did in Personality. It's two pages. Palenzuela quite liked it, so you can trust it to be fine. But he'll remember, so don't copy it. I hope it will guide you. Don't get stuck with the writing question. Read it slowly, and if you don't understand something it's normal. You haven't studied it yet. I think the terms “personality process” and “personality in action” are reversed. That's what he corrected when I gave it to him. Personality in action is the operation of the personality in process and the personality state is the result of the personality process. Don't trust me too much, wait for May. When you read it again everything will make more sense and you can correct my work.
+ 
+A kiss,
+ 
+Carlos.
+
 
 ## 2014-02-17 To Tomás
 
