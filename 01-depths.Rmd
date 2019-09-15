@@ -230,3 +230,40 @@ Thank you very much for your support and help, and as you have already noticed i
 A warm hug.
  
 Carlos
+
+## 2014-01-19 To Tomás {-#totomas20140119}
+
+Hello Tomás,
+ 
+I know this is going to look like a draft, I'm sorry. It is what it is.
+ 
+I'm writing to you in a hurry. It’s the exam period. So forgive me for the stumbling of words, ideas and forms.
+ 
+I just want to tell you that this is the first letter of many more that will come in the future.
+ 
+I discovered the puzzle piece that didn't fit. The computer, the Internet. I was completely trapped by technology. I had to give all my tech gadgets to a roommate so I could study at ease and calmly. I promise you it's been one of the most liberating experiences of my life.
+ 
+I am extremely comfortable and very focused, and I notice that I take much more advantage of the time. I'll explain the more detailed experience in the future.
+ 
+These days have been very fruitful. I have a lot of projects and ideas that I'm jotting down as they appear in my mind. At the same time, I am moving forward with my studies at an incredible speed and with incredible efficiency.
+ 
+I read an article about positive emotions that deserves a letter apart (Fredrickson, 2001). I'm much better.
+ 
+Now I have to ask for your help, Tomás. 
+ 
+I want to share this experience with the world and influence them so that people can experience this technological liberation. To be able to produce and create. I know there are a lot of people with the same problem as me, but some of them know it and some don't. But we're stuck in this tech network. A lot of untapped potentials. 
+ 
+I write to you with tears of passion, pain, and joy. Tomás, I have a plan, an idea, a project. I can, we can make this change. But I need you to confirm that I can count on your support. I need your enormous knowledge so that the project grows and people can develop and grow on their own.
+ 
+I have named the project "*Do you really need it? Plug off. Handwriting.*" (Later, it came to my mind, "*Does it really matter?*") "*Do you really need it? Does it really matter? Disconnected. Write by hand.*" I don't know if *Plug off* is correct or not, I didn't check it because I was disconnected. I'm not going to do it now, that I have internet access and I could, because I have to study for exams. More than 4 days writing *Plug off* in numerous sheets and I do not know if it is right or wrong. Best of all, I don't care. The idea grows and its content and details are a matter of science, which will be solved later.
+ 
+Tomás, I will work and sort ideas, exposing them with calm, order and coherence. I have some doubts in some respects that I will expose you. But for now, I'd just like to know if I can count on you.
+ 
+I hope you're doing all right. I'd like to hear from you. But until the 29th I can't give you the time you deserve. I am sorry.
+ 
+From 1 to 10, I will be in Morocco, so the letters and the project will be delayed a few days.
+ 
+A huge, excited hug,
+ 
+Carlos
+Fredrickson, B. L. (2001). The role of positive emotions in positive psychology: The broaden-and-build theory of positive emotions. *American psychologist, 56*(3), 218.
