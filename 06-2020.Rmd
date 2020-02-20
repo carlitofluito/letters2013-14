@@ -15,6 +15,8 @@ So, I wake up about 20 minutes ago in the office. I stayed here last night becau
 
 And for the record, that is my face after waking up in the office:
 
+knitr::include_graphics("images/ofi.jpg")
+
 This is my life, as I told you in the Facebook conversation. Getting entertained with work, close to becoming an addict, and fighting my express depressions with whatever I can find. I have been recently in probably my worst period in Brussels. I was giving so many fucks that I wasn’t taking care of myself the minimum amount, not even the least. For example, Saturday, after struggling with leaving home, I finally went to a café, making myself believe that I was going to work there, but in the last minute changed my plan, got into a bus, and read about the ills of civilization (Civilized to Death by Christopher Ryan). After an hour of public transport reading, I entered the café, write a half-page about my inability to carrying on with my life, and then struggle to put my brain in order again.
 
 I have been masturbating more than ever, systematically skipping exercise, using meditation to fight back my thoughts and my loneliness, sporadically indulging in junk food and overeating sugar, spending almost full days in my bed, tapping the phone and reopening social media apps like a Pavlovian dog craving dopamine. Just because I have ADHD and this highly positive nature, it couldn’t score clinically as a major depressive episode. I see a friendly colleague, and my social needs are supplied for the day. I exercise 15 minutes in the morning, and I felt that the morning was a success. I am able to write some pages about my story with A., and I have a feeling of accomplishment. Really, my standards have been lowered to unsuspected levels. I am in such deep shit, that taking one hand out of it and feeling the air on my palm feels as if I were clean.
@@ -110,6 +112,12 @@ Answering your Facebook comments. (Again, realizing that we talk a lot on Facebo
 First of all, thanks for your support and your presence in my life B. You are one of those people that believe in me today when I am still picking up dog shit in my landlord’s patio. I thought about it yesterday. No matter where I reach in life, the people that are believing in me now, are highly valuable social connections to keep into my future. Thus, I keep on saying and repeating to you that you will end up in my community, reading, chilling, writing, improving our SEO, or gardening. Whatever you feel up at a given moment.
 
 You say that you are not brave enough to do the changes I am doing, but maybe it is just that you lack the right circumstances. That is why I told you that I am paving the way, so it is easier for others to follow. If I offer you a place to live where I guarantee that I can cover your basic needs in exchange of some work and that I will help you accomplish whatever is your purpose in life, I guess you would be brave enough to live your current situation and come to decide your future and buy your freedom. I don’t want to sound as a sect, or guru, because seats are limited since Sapiens groups split over 150 people. I am choosing nature as guidance, and I will keep its limits as well.
+
+```{r fig.align='center', echo=FALSE}
+knitr::include_graphics("images/depre.jpg")
+```
+
+
 
 Yes, this is the face that people don’t see. The one I have when I feel miserable and lonely. The one that not even the person I am sharing my miseries with can see because when I am communicating my pains, I am already with another being, so my suffering is lower. When I am alone, it is when I suffer. That is the face of my suffering.
 
