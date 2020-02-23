@@ -15,7 +15,9 @@ So, I wake up about 20 minutes ago in the office. I stayed here last night becau
 
 And for the record, that is my face after waking up in the office:
 
+```{r fig.align='center', echo=FALSE}
 knitr::include_graphics("images/ofi.jpg")
+```
 
 This is my life, as I told you in the Facebook conversation. Getting entertained with work, close to becoming an addict, and fighting my express depressions with whatever I can find. I have been recently in probably my worst period in Brussels. I was giving so many fucks that I wasn’t taking care of myself the minimum amount, not even the least. For example, Saturday, after struggling with leaving home, I finally went to a café, making myself believe that I was going to work there, but in the last minute changed my plan, got into a bus, and read about the ills of civilization (Civilized to Death by Christopher Ryan). After an hour of public transport reading, I entered the café, write a half-page about my inability to carrying on with my life, and then struggle to put my brain in order again.
 
