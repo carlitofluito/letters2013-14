@@ -1,9 +1,7 @@
 bookdown::gitbook:
   css: style.css
-  split_by: chapter
   config:
     toc:
-      collapse: subsection
       before: |
         <li><a href="./">Letters 2013-2014</a></li>
       after: |
@@ -14,5 +12,5 @@ bookdown::pdf_book:
     in_header: preamble.tex
   latex_engine: xelatex
   citation_package: natbib
-bookdown::epub_book:
-  stylesheet: style.css
+  keep_tex: yes
+bookdown::epub_book: default

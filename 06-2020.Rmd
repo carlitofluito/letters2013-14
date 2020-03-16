@@ -252,12 +252,16 @@ So, that is the idea. Visualize with me, and the visions will become truth faste
 Coming back to our story. I met T. T. at the Antwerp Train Station.
 
 ```{r fig.align='center', echo=FALSE}
-knitr::include_graphics("images/ofi.jpg")
+knitr::include_graphics("2020/tom-break.jpg")
 ```
 
-**![ADD LINK PICTURE]**(path/to/image.jpg)
+If you have Instagram, [follow me](https://www.instagram.com/carlitofluito/?hl=en) to be updated with my journey. I usually post some stories about the different steps. Several layers of meaning and information in each story. It is not my goal to create irrelevance for the shake of irrelevance. I already did that in my *24-hours social media experiment*^[Under working process]. I try to cheer up life with some stupidity and from time to time share some useful information.
 
-If you have Instagram, [follow me](https://www.instagram.com/carlitofluito/?hl=en) to be updated with my journey. I usually post some stories about the different steps. Several layers of meaning and information in each story. It is not my goal to create irrelevance for the shake of irrelevance. I already did that in my [24-hours social media experiment]**(ADD LINK)**. I try to cheer up life with some stupidity and from time to time share some useful information. Anyways, the core of my valuable information is shared through my texts and [YouTube videos]**(ADD LINK)**. Go ahead, subscribe, and support.
+```{r fig.align='center', echo=FALSE}
+knitr::include_graphics("2020/antwerp.jpg")
+```
+
+Anyways, the core of my valuable information is shared through my texts and [YouTube videos](https://www.youtube.com/channel/UC5Q8igPq_lE1JQNwbjjy7wA). Go ahead, subscribe, and support.
 
 ### Last morning in Brussels with K.
 
