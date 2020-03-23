@@ -169,7 +169,7 @@ P.S. You know I would like to hear from you. (General and extremely open questio
 
 2014-02-21
 
-Sheila
+S.,
  
 Patience is a really beautiful virtue that gets corrupted by the abuses of technology. Sincerity is the delicious fruit of patience.
  
@@ -193,5 +193,95 @@ Out of respect; towards me, but much more important, out of respect for you; I h
 I would like you to answer me, please. Slowly and sincerely. If you do not want to answer me, I perfectly respect your decision.
  
 Carlos
+
+## 2014-02-22 From T. {-#fromT20140222}
+
+2014-02-22
+
+Carlos, good morning.
+
+Congratulations!! for that first term that you have passed as a good Erasmus, not as some have led us to believe that you were, Erasmus students ... Not even Flemish has been a problem, from what I see, which means that you have jumped into the pool since the first day, without fear of the waters and their turbulence.
+
+Do not think I have many things to tell that you do not know or suppose. These last days, and I am going to continue like this until the writing of the paper is finished, I have dedicated the whole time to [Leibniz]( https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) or, more specifically, to deepen the [conception of the will of God]( https://en.wikipedia.org/wiki/Th%C3%A9odic%C3%A9e) in Leibniz and in the government of the world. There I am, rummaging, with the magnifying glass on - and even the microscope -, alone with his texts, basting ideas and asking questions. I have gone from having things half clear to clarify myself conceptually, but to see how doubts grow in me about Leibniz himself and his philosophical environments. Right now, although I think I will not raise it in the congress - perhaps I can only point something - I have more and more doubts about the concept of God in Leibniz and in modern philosophy and, through them, about metaphysics, to which I still consider it a fundamental discipline, but whose content depends excessively on the medieval tradition. I leave it there, because you cannot walk with hypotheses and doubts.
+
+Your lack of time - and everyone's - is typical of our time and I am afraid it has been the fate of all the intellectuals who have populated the earth. In any case, in this time of weak, mercantile thought, lost amidst the superficiality of appearance, of manipulations everywhere, of manipulative and adolescent media, of *palabreros, truhanes, mercachifles*, in short, cynics; at this time, to the obligations and commitments of studies and knowledge, we usually combine the time-eater media, which dilute our time, the ability to think, manipulate us and even shape our moral conscience. In the face of all this - the liquid society that [Bauman]( https://en.wikipedia.org/wiki/Zygmunt_Bauman) talks about - one must select a great deal and be faithful to the schedules that one has drawn up. [@bauman2013liquid] Liquid society, liquidates... In other words, when you set timetables and follow them, you are on the right track. We usually fall, I have been, and I am a victim of this, in the temptation to peck at everything, which in the end leads us to delve little or nothing into almost nothing. If it works for you, you who are young can avoid the defects into which many have fallen.
+
+There I continue with the essay reading workshop and forcibly committed to the Parkinson's association, which is taking me much longer than I thought and wanted. At the moment, I have written the contents of the new website, which are mainly medical content, I have already visited a good number of official offices begging, as they say. You go into offices that have plenty of luxury to ask for something that is fair and whose responsibility is the administration, because those affected by Parkinson's have to finance their therapies themselves, since Social Security washes their hands with them. But these sick people are there, with a degenerative disease that lacks a cure. Very strong, but real. They even have the association in some premises, an apartment on a ground floor, which some nuns have left for them. We are fighting there. Let's see what we get. Look! The association is thirteen years old. I have my brother-in-law affected by Parkinson's, who has had to take the presidency of the association, because they had led it to bankruptcy due to mismanagement and the malfunction - I am going to leave it only there - of some worker, especially the psychologist, who until now have not dared to put her on the street, as I think they should. As you see, I walk everywhere, but not as God but lost in what unknown worlds...
+
+Well, Carlos, you do your thing. Learn in someone else's head, in the head of those who, like me, lose themselves by multidisciplinarity - how good I am with myself! - and do not just "squeeze", as the saying goes, in nothing. It is very important to delimit the territory well, since it will be life - the circumstances, [Ortega]( https://en.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset) would say – who will invite and even force you to dispersion.
+
+I'm going to see if I practice a bit in the kitchen now ... and surprise the family with something, although I don't know with what ...
+
+Health, peace and happiness.
+T.
+(February 22, 2014)
+
+PS: I have made sea bass with a mushroom sauce. Well, it didn't go wrong ...
+
+
+## 2014-02-24 From L. {-#fromL20140224}
+
+2014-02-24
+
+Good morning, good afternoon or good night.
+
+Today I start writing without knowing the day I will finish. I want to emphasize that, at this very moment, the time I am using to write this letter should be used for other priority reasons. However, today I feel like thinking and writing.
+
+I think the time here is consumed vertiginously, which makes me dread. The embarrassment unnerves and weakens me. I need to plant time and thus collect hours with fruits. Incurring in relatively “absurd time-killers” may not be a good option, given that I regret my limited time. I want to achieve a greater deepening and internalization of the university contents to acquire.
+
+I admit that the commitment that I have guaranteed in the scout group in which I have signed up, is not in accordance with my real "free" time, which dissipates or evaporates an excessively necessary time. I may not be mature enough to deny proposals (both from friends and the group). Maybe I shouldn't be securing projects that I can't commit to.
+
+The other day they called me something between "hypocritical and false" at the same time for this very reason. I don't have the capacity to deny a purpose that they make me. It seems like wanting to give 100, without sometimes being able to reach 50. This is how I end up doing it: badly, in a hurry and running. Still, I step back, stop, and think. Organization is the solution, or maybe the first remedy is to learn to say no?
+
+You who seem to know me, tell me what you consider. Today, I let you be what you like to be.
+
+Greetings Dr. Alcalá,
+
+
+## 2014-02-24 To La. {-#toLa20140224}
+
+2014-02-24
+
+Hello La.,
+ 
+I know you live in Leuven and I know face-to-face, oral communication, it's invaluable. Still, I wish we could write to each other quite frequently. Of course, the social and emotional nature of our relationship will be maintained face-to-face but debating more purely intellectual content with you in writing can be very fruitful for both of us. I think it will be useful to clarify some of the ideas that we have put forward in recent days.
+ 
+There is a possibility that you may not have time to write. I understand that writing is patience and not rush, so I don't mind if your response is delayed if the quality deserves it. New technologies are in a hurry. Haste produces mistakes and stumbles. With what, ironically, in the long term, cause waste of time. On the other hand, I consider that by using writing continuously, cognitive processes are streamlined, and time ends up being gained.
+ 
+For this reason, I sincerely ask you to dedicate a part of your day and your time to disconnect the distant-communication devices of your room, mainly mobile phone and computer. Then, you can write without interruption and concentration, by hand and from memory. Without data or unnecessary references at the time of the original creation of written thought.
+ 
+The first question I would like to ask you is (assuming your extensive knowledge of, among other things, linguistics) whether you could expose to me the most important differences between the written word and the spoken one. In order not to overflow us with the size of such a question, which I suppose has originated countless books throughout history, I ask that you please do not exceed 2 or 3 pages. For you and for me. Try to condense everything that reflection allows you. To encourage your intrinsic motivation, you can take it as a great summary of everything you have learned so far related to this topic.
+ 
+I hope to receive your reply soon.
+ 
+A warm (and not intellectual) hug,
+ 
+Carlos
+ 
+P.S. If you want, you can take the opportunity to correct grammar, spelling and punctuation errors, among others.
+
+## 2014-02-24 To my mother. {-#tomother20140224}
+
+2014-02-24
+
+Hello mother,
+
+You have worked for a fairly long time of your life, and now you have free time and money. With what you have right now, you have the necessary factors to go on a trip. Having a child abroad, you have the perfect excuse to spend some time in Belgium.
+
+Come to Leuven to spend a few days with me, mother. I am in a moment in which I spread peace, happiness and calm around me. A few days here may be perfect for you. We both know that you love to travel, see the world, learn and have new experiences. I think I can guarantee that your time here will not be wasted. The only objective I have with your visit is to learn and that you learn everything that you have taught me.
+
+I can affirm that you are a perfectly independent person, with the necessary skills to operate freely in Belgium and Europe. Don't worry about me, I will take my time to do whatever I need or want, if I need or want it. So, I would not like you to think that you can be a nuisance, annoyance, or a burden. Don't worry about me: I know hoe my mother is like and I know I won't have to take too much care of her. ;-)
+
+Personally, I have the feeling of showing my gratitude and being thankful for everything you have taught me. But I don't know when or how often I will return to Valladolid, (Spain). The opportunity of continuing learning from you while giving back part of everything you have given me may not come easily. It seems to me that right now is the right time. I would like to spend as much time as possible with you in these moments, because in the future I do not know the distance that will separate us nor the ease and frequency of our meetings.
+
+Since I don't want you to spend excessive money to come here, we can talk about different possibilities. As for the accommodation and other amenities, don't worry, you can sleep in my room and I can go to a friend's house. Or we can sleep, if you want, the two of us in the same room. We will be deciding by sharing our points of view.
+
+“*You have to go empty to return full. You have to go back empty, to fill yourself*”. At the moment, neither you nor I know how to do it, but we try to learn enough to make it happen.
+
+A warm and comforting hug,
+
+Carlos
+
+## 2014-02-24 From L. to herself {-#fromL20140224}
 
 
