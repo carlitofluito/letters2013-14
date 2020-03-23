@@ -341,7 +341,6 @@ A warm and comforting hug.
  
 Estrella
 
-
 ## 2014-02-25 To C. {-#toC20140225}
 
 2014-02-25
@@ -357,6 +356,61 @@ I will be your most attentive reader. If you have any concern or doubt about a t
 A big hug,
  
 Carlos
+
+## 2014-02-26 To Ca. {-#toCa20140226}
+
+2014-02-26
+
+Hi Ca.,
+ 
+At last, I have found a moment to write to you. Something that I have wanted to do for quite some time.
+ 
+First of all, I highly recommend reading [*Flourish*](https://archive.org/details/flourishvisionar0000seli) by [Martin Seligman]( https://en.wikipedia.org/wiki/Martin_Seligman) [@seligman2012flourish]. You should know that the book I recommend is not a self-help best seller, much less. Before making a criticism of positive psychology, you should bear in mind that the affirmations sustained in the book are methodologically obtained conclusions. Therefore, I consider the book of sufficient scientific validity to be respected. In this book, Seligman develops his [Theory of Well-Being]( https://en.wikipedia.org/wiki/Martin_Seligman#Well-being). According to this theory, one of the factors that directly influences individual well-being is positive interpersonal relationships. I consider our relationship as positive; and that is why I believe it is necessary to make the effort to maintain it, to improve the well-being of both. Yesterday I fully realized that the fundamental thing about human relations consists in giving and not asking or taking.
+ 
+So, I'll start by giving you a little bit of me (apart from the book's recommendation):
+
+In these moments of my life, I am very calm and at ease with myself. Today, for example, I had an incredibly sociable and happy day. Full of well-being. I am being honest with myself, on a personal and spiritual level (I am reading the [Tao Te King](https://en.wikipedia.org/wiki/Tao_Te_Ching) [@ta1984tao]. We will talk about the Tao in the future if we consider it necessary.
+
+My use of technologies is gradually approaching what I consider to be correct and measured. I have found time to read, write, learn and maintain the relationships that really matter to me and bring me; at the same time, I meet people who are incredibly amazing.
+
+In this letter I would like to write to you about some of the advantages of remote letter communication. I will focus more specifically on the advantages of written communication, leaving aside the subject of writing as a reflective element and support for thought. What I write below, I hope, is part of a larger, more detailed and refined reflection, which may become part of an essay. I want to polish and improve this thinking as much as possible, to give it a much more perfect shape in the future. Therefore, I also hope that you will detect my argumentative weaknesses and the possible conditional clauses necessary to refine my ideas.
+ 
+I would like to underline the fact that I want to discuss this topic with you because of some of the conversations we had in the past, about oral and written communication; or the value of writing as a the little sister of thought and support of it.
+
+I hope to be able to cover the topic of writing and thinking with you in the future, since you also demonstrated to have a quite formed position on it^[Following I shared with C., my now [classical text about the advantages of writing letters]( https://www.carlitofluitoideas.com/writing-letters/).].
+
+>ADVANTAGES OF LONG-DISTANCE, NON-NSTANT WRITTEN COMMUNICATION (BY LETTER) ^[Original post in Spanish published here.].
+>
+> There are some characteristics of written, non-immediate communication (by mail) that I consider advantages. Next, I will highlight some of them.
+>
+> Firstly, as an anecdotal fact, consider that written communication (by mail) has been the main, and practically the only, way of distant communication throughout long distances for most of our history as human beings. Moreover, some of the greatest thinkers have left us, as an essential sample of their thoughts, their epistolary texts with contemporary thinkers. In those letters, we can approach their thoughts and ideas, since writing offers an invaluable mechanism to transform a thought into something lasting and stable through time.
+>
+>From a more affectionate and relational perspective, I want to highlight the true interest shown on someone when a letter is written to them. Just the act of sitting down and write implies a prioritization of the interpersonal relationship upon multiple other possibilities. In essence, a fair amount of personal and individual time is dedicated to the other person, as well as your almost full attention.
+>
+>As proof, I am writing this text thinking about you right now. It feels as if I had you in front of me as if we were talking. I am dedicating my time and my attention entirely to you. My phone and my computer are shut down. [The original letter is hand-written, and it has suffered a process of digitalization and correction.] The reason to be hand-writing is to achieve a representation as pure and reliable as possible of my thoughts and feelings. Ultimately, to allow the flow of ideas and emotions subjected to minimal hindrance or modifications. This detail about handwriting seems essential to me in true long-distance communication. ^[2018-09-07, Erratum: We all change. I change. Nowadays, I type much more, and I sent most of my letters by email. I can elaborate on those aspects in a future post.]
+>
+>Secondly, I want to emphasize the freedom that writing gives both the writer/transmitter and the receiver. In the case of the transmitter, it has the freedom of taking as much time as needed to think, ponder, manifest and revise the content and format of the message. Thanks to this reviewed writing, the likability that the receiver (the other person) is going to read the actual message that was intended to be transmitted augments, decreasing the chances of the receiver decoding the message incorrectly. Therefore, the writer or transmitter needs to dedicate time to use the language appropriately, choosing correctly, with care and moderation the words and sentences in which the message is going to be shared. I presume that, in this way, a fair amount of misunderstandings are avoided. Misunderstandings occur easily in both oral and instant-messaging communication. I wouldn’t like to be interpreted as contrary to oral communication or instant messaging; since both of them are going to be discussed in future texts with calm, details, and nuances.
+>
+>In connection with my previous thoughts, it would be easy to use, as a counterargument, the slowness of handwriting, as compared to other communication channels. Surprisingly, using the hand-written communication channel in long-distance relationships can actually save time, given the fact that it helps to avoid errors or mistakes that tend to appear in oral communication and instant messaging. The transmitter has the possibility of reading the message as many times without needing to involve the receiver. Due to the lack of an expected and immediate feedback, the transmitter also saves time, since it doesn’t need a passive awaiting of an answer, but could dedicate this time to much more productive activities, such as sleeping.
+>
+>Another advantage, directly related to this idea of freedom that writing gives, is the independence that both the transmitter and the receiver enjoy when their communication is based on hand-written letters. Let’s use a reliable example: the moment when I’m writing this letter it’s a bright day and I am in Leuven. But when you read it, it won’t be necessary for you to be in Leuven or to be during the day. In fact, this freedom is so wide, that you could read this letter when and wherever you wanted to. When and wherever it suits you because it is already written. You don’t even have to answer it afterward, you don’t even need the transmitter to be alive to receive and decode the message. Besides, you could always recall this information whenever you needed it because it is already written. In addition to what has been previously mentioned, it is worth mentioning the incorruptibility of the message. In our particular case, with different time zones and locations that separate us, I find especially useful a hand-written communication channel. Personally, I believe that this particular characteristic of hand-written communication, the possibility of escaping the limits of time and space, places it in a privileged position when it comes to transmitting thoughts and ideas. The instantaneity of the communication, either oral or by instant messaging (WhatsApp, Facebook, Skype…) doesn’t grant any freedom neither to the transmitter, nor to the receiver: neither time to reflect upon their message, nor to use their spare time in different activities since they are both waiting for instant feedback from the other side.
+>
+>For these reasons, non-instant communication is the most suitable when the content of the message is prioritized over the feedback of the receiver (which is very egoistic). In other words, Instant messaging prevails when the consequences and the utility of the message gain importance over the value of the content. The new technologies have made us come to believe that speed is more important than the message itself. They’ve confused us by making us rush, driving us to an incomprehensible superficiality in personal relationships. The new technologies of immediacy, that claim to save time are, in my opinion, those actually stealing it. In future texts, I ’ll inquire deeply into this statement, sustained by different subordinate sentences.
+>
+>As a closure to my argumentation, I’ll expose a possible counterargument for the loss of spontaneity in interpersonal communication, or worse, the loss of spontaneity in the relationship between the transmitter and the receiver. I consider that this affirmation needs to be explained: I believe in written communication as a refinement and not as a loss of spontaneity. I do consider myself an active, vivacious and energetic person that treasures to a large extent the spontaneity of life. Written language could continue expressing a fair amount of this “spontaneity of life” despite the reflection and refinement attached to it. It is possible to deal with a minimal loss of this spontaneity at the expense of improving the expression and exposition of ideas. This is a price I am willing to pay. This way, we could concentrate this spontaneity in face-to-face relationships, which I consider fundamental for human beings’ emotional well-being. But this kind of spontaneity that technologies are defending seems to be a cheap imitation of actual communication, that doesn’t involve actual face-to-face spontaneity, neither reflection nor the refinement of expression that proper writing achieves.
+>
+>All things considered, I defend non-instant, long-distance written communication (by letter or mail) is the most accurate communication channel to keep positive interpersonal relationships at a long distance. With letters, a true bonding and interest towards the other person are shown, alongside a search to deeply engage in the relationship; while using the new technologies from the immediacy era what is actually pursued is utilitarianism and superficiality in personal relationships, including also the telephone or video conferences.  I believe that a connection made through shared written thoughts is more real, deeper and true than one created with on different colored pixels forming some image similar to a face on a screen and a robotic voice coming out of the speaker. Referring to sensations, I would rather look at a photograph (if printed, better) of me and a friend in some lost place in the world and then try to listen to his or her voice in my head while I read his words. Also, why the rush? What for? If you really care about keeping the relationship alive you ought to give some of your time exclusively to that person, stop and think of him or her and write them. This should be a clear proof of devotion and interest for the reader, and not any ‘How’s going?’ sent by Whatsapp.
+
+Well, C., I think I have made a good argument about the value of distance communication, not immediate, by letter. I hope to receive your answer in the future.
+ 
+Now simply, conclude this letter by saying that I would like to hear from you. As you will have detected throughout my argumentation, I am not in a hurry. I hope to receive your emails with a variable frequency. Take the time you want and need. You already know that I am very tranquil and calm. I hope that out of respect for me, and more importantly, for you, you write something that lives up to your potential and intellect, which we both know, is not at all scarce. Furthermore, your usage of Spanish is admirable. With which I would very much like to be able to read an exhibition of ideas stylistically speaking, impeccable. You can comment on any of the topics that I suggest throughout the letter if you wish, starting with your presentation of ideas.
+
+In future letters, we will catch up on more mundane and personal matters, whenever you like. But I consider this first introductory letter as a fundamental element for the future and development of our relationship.
+ 
+A big hug,
+ 
+Your Friend-Brother Carlos
+
 
 
 
