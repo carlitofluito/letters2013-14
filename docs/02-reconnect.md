@@ -105,15 +105,25 @@ Carlos
 ## 2014-02-20 To L. {-#tolucia20140220}
 
 >it went off
+>
 >she is not here
+>
 >she is not now and she has not been
+>
 >she could be dead right now
+>
 >or have been
 >
+>
+>
 >you were talking with pixels
+>
 >with a screen
+>
 >it was a recording
+>
 >in its due time
+>
 > 
 > time
  
@@ -131,22 +141,36 @@ Even if I am writing this letter at night, you may read it tomorrow, in a week, 
 Poetic parenthesis.
  
 >... And I will leave. And the birds will stay
+>
 >singing;
+>
 >and my garden will remain, with its green tree,
+>
 >and with its white well.
 >
+>
 >Every afternoon the sky will be blue and placid;
+>
 >and they will play, as they are playing this afternoon,
+>
 >the bells of the bell tower.
 >
+>
 >Those who loved me will die;
+>
 >and the town will become new every year;
+>
 >and in the corner, that of my flowery and whitewashed garden.
+>
 >my spirit will wander, nostalgic ...
-
+>
+>
 >And I will go away; and I'll be alone, homeless, treeless
+>
 >green, without white well,
+>
 >without blue and placid sky ...
+>
 >And the birds will stay, singing.
 
 >Wild poems (1910-1911). [Juan Ramón Jiménez]( https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez). [@jimenez1970tercera]

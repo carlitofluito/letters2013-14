@@ -183,7 +183,8 @@ Concerning getting soaked, fine rains and solar radiation. I have long compared 
 >*like the sunny skies*
 >
 >*unwrap*
- 
+>
+>
 >Del Val, F. *Ice Tongues* [@val2012hielo]
 
 
@@ -207,6 +208,7 @@ I know the relationship you had with your friend. I don't think I'm going to ima
 > 
 >*we're made of premeditated unreality*
 > 
+>
 >Del Val, F. *Orpheus in New York.* [@val2011orfeo]
  
 A couple of years ago, I also received a very hard and heavy lesson. The death of my cousin Monica, at her 22 years old, while in France, performing her end-of-career internship as a chemical engineer at a European company. An immaculate, beautiful, incredibly sweet, intelligent, hard-working, dedicated, cheerful person. The death that, at the wrong time, snatches huge, very precious people. The failure of life. These are lessons that we will not forget, T.. They will accompany us for as long as we are in this world. Now, my uncles are the ones who are really suffering from it. They do have depressions and anxiety attacks. My thing is passing sadness.
