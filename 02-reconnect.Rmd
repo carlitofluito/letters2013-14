@@ -260,6 +260,41 @@ Carlos
  
 P.S. If you want, you can take the opportunity to correct grammar, spelling and punctuation errors, among others.
 
+
+## 2014-02-24 From L. to herself {-#fromL20140224}
+
+2014-02-24
+
+01/22/2014
+
+Dear future ME:
+
+Who would know about my today self in my past and how funny period I have put her through. The past me has not had a good period years ago, but this year, the proposed objectives have been set. Maybe I wouldn’t have thought I'd get here, but hey, you did it!
+
+You study dance, your life is dance. Today is not too late to improve and train yourself. You can become better than you were yesterday. (And so much compared to your younger years.) I should scold you for too much letting yourself go in your crazy adolescence, since today I regret such a time. However, one writer told me not to be afraid of being the person I have become. That one should not be discouraged by the wrong decisions one made. I must trust my old self. Maybe my thirteen-year-old self could have been mistaken for not studying enough or for being too carried away with that high school boy. But it was I who made the decisions and surely spent some time making them.
+
+Why do you think you now have the right to judge what she (your old self) decided? Accept who you are, don't be afraid to be the person you have become with your decisions. Bad decisions weather, bad decisions, in time, will be good decisions. Accept that and you will be very happy in life and, above all, with yourself. About 80%, you are a consequence of your decisions. Love yourself for the result of what you are. Love yourself because that is what you have become. And above all, recognize that sometimes you are wrong. And that 20% of mistakes, you have to recognize and accept them. It is important that we recognize that we are wrong in order to become aware of where the errors are and not make them anymore. Perhaps many are afraid of the punishment that this can entail, but the punishment is the least of it, the only important thing is to give our brains the correct items.
+
+Maybe without those years, you would not be what you are today.
+
+However, look at where you have arrived. University? At what point did it cross your mind the idea of not-trying it?
+
+Remind you of our family, you should spend more time with them. They have given you everything, today give for them. Love them more, show them more. You are their fruit, do not regret it. (Although I must add that it would be good if you boost trust and interact with them, I consider it essential for your good communication.)
+
+I think that the greatest significance that there has been in my history has been thanks to friendships that I have been collecting over time. (Someday I will write to them). Most are old ones, from always, many others were passing by and wanted to stay awhile. They are surreal stories, but they are the ones that are recorded in mind and skin. They are part of your past, present and expected future self. They are the base, your bases and your being. They complement you. Who would you be if not? You collect bits and form yourself; but not only with them. Today they have marked you and you are what you are for them.
+
+I think you should also be grateful every day for the tortilla turns that they gave you one summer, maybe you weren't here today if it weren’t for those.
+
+Keep all your memoirs, memories and moments. Today you are, because you were yesterday. 
+
+Value yourself, love yourself. They already do, now only you are left. I am already working on it.
+
+Tomorrow, I hope this makes you think, and you like it. Until then, I look forward to great achievements. I think your time has come to take advantage of the untapped. And what the hell, you're in Madrid! Thousands of affairs, to a metro subscription. You know, your time has come. I hope you have gone as far as I want today, and if you have gone further, the better.
+
+LOVES YOU,
+
+Your previous self
+
 ## 2014-02-24 To my mother. {-#tomother20140224}
 
 2014-02-24
@@ -282,6 +317,46 @@ A warm and comforting hug,
 
 Carlos
 
-## 2014-02-24 From L. to herself {-#fromL20140224}
+## 2014-02-25 From my mother. {-#frommother20140225}
+
+2014-02-25
+
+Hello, dear Carlos.
+ 
+I greatly appreciate your letter and the encouragement that conveys and comforts me.
+ 
+I am glad you are in such a plethoric moment, of well-being and happiness, with high expectations on the way to achievement. I am also encouraged to know that the small or great efforts we have been able to make for you and for your brothers have served you; that they have transmitted you knowledge and experiences; above all, I hope, of affection, emotion and love -which, on the other hand, it costs me so much to show sine a few years-; I hope that the moments lived during the first years of childhood and happiness weigh more.
+ 
+Your offer fills me with satisfaction and I am sure that those days with you would be, as you say, of benefit, rest, and perfect for my state of mind, and, thus, be able to appreciate the many things that have been going through my mind lately. I agree with what you tell me and you propose -I think it is the right/necessary time and although it may serve as an excuse I would never feel like this-, I would love to take that trip and share with you the moments that your daily activity allows you, and your room , that you do not have to leave for me, with a sleeping bag I have enough. But it is possible that this is not the time, I went this morning to a selection test for an Ecyl teaching course, which I have wanted to do for years and I have the interview on the afternoon of the 27^th^. Until that moment, or one day later, I will not be able to seriously consider the trip, which causes a small conflict of interest, as I would undoubtedly prefer to be with you, but if I were selected it would be a great opportunity that I should not miss. We will see.
+ 
+On the other hand, there is one more inconvenience. Your brothers have not finished the course they are doing and your father is working, things that morally bind me to this place, although it is not a great thing that I do for them, which on the other hand I do not feel be recognized, requested, or claimed.
+ 
+In addition, you already know your father and his economical ideas, that so many inconsistencies and inconveniences pose to me in day to day and coexistence, not only with him, especially with you and in relation to my family. Something that would not pose any inconvenience, or doubt, if you really needed my help and/or presence.
+ 
+I thank you very much for the effort and time you dedicate to me, especially when you are so busy, and the recognition or feeling of gratitude that you transmit, of positive value for what we do or try. And although I would like to have you close - you know that it really lasts little when you are physically- what really comforts me is that you are growing and achieving what you are interested in and you propose and what your future reward means. The disadvantage of distance is bearable when you see and value the benefit it provides, even if it is not always easy to accept or carry.
+ 
+We continue in communication, accompanying ourselves in the search for the best, in continuous learning, on a daily basis, in the experiences of "emptying and fullness".
+ 
+A warm and comforting hug.
+ 
+Estrella
+
+
+## 2014-02-25 To C. {-#toC20140225}
+
+2014-02-25
+
+Hello C.,
+ 
+We haven't talked in a while and I'd like to hear from you. (General and extremely open question that you can answer with the degree of detail and specificity that you want).
+ 
+Please, if you find some time, I would appreciate it if you could write me a letter (by hand) and then send it to me by mail in an attached Word document. You can tell me how you are, how your studies are progressing or how you feel your life is evolving.
+ 
+I will be your most attentive reader. If you have any concern or doubt about a topic, you know that you can always count on some of my clumsy advice.
+ 
+A big hug,
+ 
+Carlos
+
 
 
