@@ -219,7 +219,7 @@ T.
 PS: I have made sea bass with a mushroom sauce. Well, it didn't go wrong ...
 
 
-## 2014-02-24 From L. {-#fromL20140224}
+## 2014-02-24 From L. {-#fromLa20140224}
 
 2014-02-24
 
