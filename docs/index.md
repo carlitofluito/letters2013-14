@@ -1,10 +1,10 @@
 --- 
 title: "From my lovers and others. (Letters from 2013-2014)"
 author: "Carlos Alcala a.k.a. Carlito Fluito"
-date: "2020-03-16"
+date: "2020-03-23"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
+bibliography: [bibliography.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: carlitofluito/letters2013_14
