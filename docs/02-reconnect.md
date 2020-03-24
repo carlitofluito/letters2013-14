@@ -448,7 +448,7 @@ In this chapter Seligman makes a brief description of the [*Theories of Authenti
 I attach the summary of the chapter to guide you in my argument.
  
  
-> <center**SUMMARY OF WELL-BEING THEORY**</center>
+> <center>**SUMMARY OF WELL-BEING THEORY**</center>
 > 
 >Here then is well-being theory: well-being is a construct; and well-being, not happiness, is the topic of positive psychology. Well-being has five measurable elements (PERMA) that count toward it:
 >
