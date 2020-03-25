@@ -202,7 +202,7 @@ Carlos
 
 Carlos, good morning.
 
-Congratulations!! for that first term that you have passed as a good Erasmus, not as some have led us to believe that you were, Erasmus students ... Not even Flemish has been a problem, from what I see, which means that you have jumped into the pool since the first day, without fear of the waters and their turbulence.
+Congratulations!! For that first term that you have passed as a good Erasmus, not as some have led us to believe that you were, Erasmus students ... Not even Flemish has been a problem, from what I see, which means that you have jumped into the pool since the first day, without fear of the waters and their turbulence.
 
 Do not think I have many things to tell that you do not know or suppose. These last days, and I am going to continue like this until the writing of the paper is finished, I have dedicated the whole time to [Leibniz]( https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) or, more specifically, to deepen the [conception of the will of God]( https://en.wikipedia.org/wiki/Th%C3%A9odic%C3%A9e) in Leibniz and in the government of the world. There I am, rummaging, with the magnifying glass on - and even the microscope -, alone with his texts, basting ideas and asking questions. I have gone from having things half clear to clarify myself conceptually, but to see how doubts grow in me about Leibniz himself and his philosophical environments. Right now, although I think I will not raise it in the congress - perhaps I can only point something - I have more and more doubts about the concept of God in Leibniz and in modern philosophy and, through them, about metaphysics, to which I still consider it a fundamental discipline, but whose content depends excessively on the medieval tradition. I leave it there, because you cannot walk with hypotheses and doubts.
 
@@ -711,7 +711,7 @@ Carlos.
 
 2014-03-04
 
-Hello T.,
+Hello Tomas,
  
 I answer following the order of your letter.
  
@@ -729,10 +729,169 @@ I could and, of course you could, write an entire essay with just this sentence:
 
 >“*In any case, in this time of weak, mercantile thought, lost amidst the superficiality of appearance, of manipulations everywhere, of manipulative media and incensed, of word-laborers, rascals, market-goers, cynics, in short; at this time, to the obligations and commitments of studies and knowledge, we usually unite the eating of the media, which dilute our time, the ability to think, they manipulate us, and even shape our moral conscience.*"
 >
-> [2014-02-22 From T.]
+>  [2014-02-22 From T.]
 
 So, I can't afford to comment on it. For now, let's move on to the next one.
  
 [Bauman's](https://en.wikipedia.org/wiki/Zygmunt_Bauman) liquid society [@bauman2013liquid] is an idea that I will try to discover when it fits into my busy interior. If it ever fits. “*Liquid society liquidates...*” (Interesting, but I lack information) For me, the most liquid thing is water, and water adapts to any situation. But even water has a social conscience.
 
+Thanks for your advice about pecking everything and digging deep in little. But I think that contrary to being a defect is your wonderful virtue. T., you are a very knowledgeable person and in the contemporary world I think that are needed more varied and complete heads instead of squared specialists, experts in a single field. It is easy to fool the engineer with politics and the politician with engineering. Education makes us free T., and being an expert in nothing and wise in everything (just like you, but you are also an expert in Leibniz), is one of the cures of our sick society. Even so, I have made a decision, that like water, I do not know how long it will last. I am going to try to focus on only, (on only!), 3 or 4 things: social networks, positive psychology, and read in my spare time the classics of Eastern and Western philosophy (I do not like to discriminate). I am very sorry for arts and international politics. But one does not have time for everything. I will try to enjoy the delights of art in an ignorant way and see the political passing from the stands, without intervening too much. It is all I can do. Still, I would like that my artistic part would help me financially. I am preparing a couple of performances and looking for centers to give dance classes. So, I can leave the free time to the intellect.
+ 
+By the way, it is convenient to speak in future letters about the classics, which, I have noticed, first-hand, that save a lot of time.
+ 
+This part of the letter is a little more serious.
+ 
+If something I tell you or write about this subject unleashes your intellect, please write to me, in the same way that you have taught us. Write, but I ask you to keep it. Save it for when I'm ready for your words. Moment which, I don't know if it will come.
+ 
+One classic in particular, [Lao Tzu](https://en.wikipedia.org/wiki/Laozi), is saving me entire volumes on ethics and science, human morals, self-help best sellers, and even psychology books. I am reading the [*Tao Te Ching*](https://en.wikipedia.org/wiki/Tao_Te_Ching) and my mind is reaching new places. "*It's the best drug I've ever taken,*" I was surprised telling a friend the other day. I don't want to tell you about the experience because:
+ 
+>"*The Tao that can be expressed is not the eternal Tao*"
+>
+> [@ta1984tao].
+ 
+> "*He who talks more is sooner exhausted
+>
+> It is better to keep what is within himself.*”
+>
+>[@ta1984tao]
+ 
+The negative effects of this drug, if any, are yet to be discovered.
+ 
+But right now, I don't want objective (western) criticism or analysis of something infinitely subjective. I do not want relationships or ties between philosophy or western and eastern religions. I don't want a teacher. I want to think for myself. ("[*Sapere Aude*](https://en.wikipedia.org/wiki/Sapere_aude)"... It went out already...). I want to develop my own ideas.
 
+The thoughts and ideas that occur to me, I try to support them with the most resistant arguments that I find. I try to soak up everything I know, without trying to close myself to anything. As with [Bukowski](https://en.wikipedia.org/wiki/Charles_Bukowski), if I need help at any time, I will let you know. But now, I want to enjoy this knowledge, these ideas and feelings so holistic that the reading of the Tao is causing my body. Something completely new to me.
+ 
+Sorry if that fear that I have bothers you. But I remember the brief [analysis on that song]( https://www.youtube.com/watch?v=M2A2Na2wIA8) that I sent to you and F., where a [Hindu spiritual thinker](https://en.wikipedia.org/wiki/Rajneesh) (Eastern Philosophy) spoke about [love and hate]( http://yaqui.co/music/2013/2/8/klangkarussell-netzwerk). I remember the harshness, criticism and, unfortunately, apparent success that you expressed with your words. I don't want to know yet your probably western and correct interpretation of the Tao. I prefer to know and investigate on my own, before westernizing and criticizing. Furthermore, I am completely ignorant of both the western and eastern parts of philosophy, its culture and an infinity of other things. So, I am a very influential person and, not even by chance, I can criticize anything.
+ 
+To appease any of your possible concerns, I assure you that I am still a person committed to the planet and the human species. My social sense has grown exponentially. I am not going to go to live to Tibet the rest of my life, because the world needs me. Still, I know I could be happy there until death reached me. I'll pay F. the plane ticket, let’s see if he leaves us alone for a while and calms down a bit. (He has been very angry lately, but I keep quiet.) If at any time you notice that I stray too far from ethical principles and put an individual and self-fulfilling pleasant experience before a collective well-being, please, I would also like you to warn me.
+ 
+Attached in the mail is a poem written the morning of February 23, 2014; and another written on February 20, 2014. I hope you can appreciate my growth in such a short space of time.
+ 
+I am pleased to hear that you continue with the reading and essay workshop, which I would love to attend. But, I think, for now, I don't need to put more information in my head. At least until I’ve emptied it a little more. I am going to use my social network a little: I would like to ask you about essay methodology. I'm thinking of writing an essay, one of those where one pecks a lot and doesn't eat anything. I want to ask you about which structure of exhibition of ideas, you prefer, is the most appropriate, or the most used. This is a comparison of two possibilities. The first exposition consists on the presentation of a posture with pros and cons, followed by the other posture, with the same argumentative order, following the order of the respective pros and cons. The second is to follow a plot order, analyzing both positions simultaneously.
+ 
+I will give you an outline because I am not sure I have explained myself well.
+
+**EXHIBITION 1**
+ 
+*Posture 1*
+
+Argument a.  Argument b. Argument c. Argument d.
+
+*Posture 2*
+
+Argument a. Argument b. Argument c. Argument d. 
+  
+**EXHIBITION 2**
+ 
+Posture 1 Argument a. Posture 2 Argument a.
+
+Posture 1 Argument b. Posture 2 Argument b.
+
+Posture 1 Argument c. Posture 2 Argument c.
+
+Posture 1 Argument d. Posture 2 Argument d.
+ 
+I will pass you some texts so you can give me some opinion or advice. The second thing I want to ask you about is about your language skills. I don't know if you can read comfortably in English, but if you could, I'd appreciate the time you would save me by not translating; either from Spanish to English or from English to Spanish. And if you couldn't, I would appreciate the Spanish/English lesson that I would learn with each translation. No worries. The water adapts.
+ 
+Thank you for your opinion and advice in advance.
+ 
+Regarding your thousand messes. If it's of any consolation, I also want to change the world. But I understand that it is not a task to perform alone. In fact, these are my reasons to study social networks, and to communicate by letter (to see if I stick the habit on someone...)
+ 
+You will be pleased to know that there are a huge number of people without too much to do. More importantly, without much to do and eager of doing. For example, my mother had to leave her work (she got kicked out) and now she is at home, looking for what to do with her free time. I have invited her to sit down to write, but at first it is difficult and the computer does not help. I also offered her to come to Leuven for a few days, but it had some complications. The last thing I know about her is that she was going to attend a job interview, I still don't know how it has been. Talk and discuss the Parkinson's association case with her. My mother knows who you are and knows who I am (I hope). Do not have any objection, I will notify her in advance if you want. Send her a letter and ask for her help. My mother is a beautiful person, enormously hard-working and altruistic. She has a degree on social work and has worked within the health system for more than 5 years. I think it can help you and remove some of your workload. Also, I guarantee you would do her a huge favor. Last aspect, selfishly positive, you would have more time for Leibniz, and for me, which, I hope you already know, I am in a less hurry than Leibniz.
+
+(Small parenthesis: There is a study by Granovetter [@granovetter1983strength] in which it shows that almost 70% of people find work through the social network. I leave it there)
+ 
+Seriously Tomás, don't miss out and ask for help. This is the social network. What I want to "squeeze". Because together we can cover a lot and squeeze a lot. Anyway, the water adapts, to the dispersion or to the concentration, the important thing is to empty it, so that the glass does not overflow.
+ 
+To conclude, I consider you to be the ideal person to debate different views on ethics and morals. At the moment, I am preparing a text on morality that I would like you to read in general. I will send it to you when you answer the questions about the language and the structure.
+ 
+Tao,
+ 
+Carlos
+ 
+March 4, 2014
+ 
+P.S. I keep waiting for your invitation to pass by and eat together one day. I know you are an excellent cook. (Don't forget that I have more patience than Leibniz. I am learning to wait).
+ 
+>"*Therefore the Sage rules*
+>
+>*By* […],
+>
+>* Filling their stomachs, *"
+>
+>
+>[@ta1984tao]
+-----
+
+2014.02.20 
+
+><center>**sunset **</center>
+>
+>and Aristotle is dead
+>
+>but I talk to him
+>
+>and Lao-tzu is reincarnated
+>
+>lost in the world
+>
+>
+>I have been taught that then
+>
+>it only remains to sit
+>
+>to enjoy the beauty
+>
+>of the sunset
+>
+>
+>since the creation everything has been sunset
+>
+>
+>because if the interior is calm
+>
+>the external storm does not affect the spiritual delight
+>
+>of the contemplation of the ephemeral and momentary
+>
+>sunset
+>
+>
+>(forget, feel and enjoy)
+
+-----
+
+2014.02.23 
+
+><center>**learn **</center>
+
+>it’s learning
+>
+>it's light
+>
+>
+>it’s communication
+>
+>it's thought
+>
+>
+>it’s expression
+>
+>it's movement
+>
+>
+>it's respect
+>
+>it’s love
+>
+>
+>it's harmony
+>its timing
+>
+>
+>beauty and life
+>
+>
+>are limits
+>
+>it’s learning
