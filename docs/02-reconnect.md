@@ -749,9 +749,9 @@ One classic in particular, [Lao Tzu](https://en.wikipedia.org/wiki/Laozi), is sa
 >
 > [@ta1984tao].
  
-> "*He who talks more is sooner exhausted
+> "*He who talks more is sooner exhausted*
 >
-> It is better to keep what is within himself.*”
+> *It is better to keep what is within himself.*”
 >
 >[@ta1984tao]
  
@@ -815,13 +815,14 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
  
 >"*Therefore the Sage rules*
 >
->*By* […],
+> *By* […],
 >
->* Filling their stomachs, *"
+> *Filling their stomachs,*"
 >
 >
->[@ta1984tao]
------
+> [@ta1984tao]
+
+---
 
 2014.02.20 
 
@@ -836,6 +837,7 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
 >lost in the world
 >
 >
+>
 >I have been taught that then
 >
 >it only remains to sit
@@ -845,9 +847,11 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
 >of the sunset
 >
 >
+>
 >since the creation everything has been sunset
 >
 >
+> 
 >because if the interior is calm
 >
 >the external storm does not affect the spiritual delight
@@ -856,10 +860,11 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
 >
 >sunset
 >
+> 
 >
 >(forget, feel and enjoy)
 
------
+---
 
 2014.02.23 
 
