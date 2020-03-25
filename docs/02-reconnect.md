@@ -60,9 +60,9 @@ A kiss,
 Carlos.
 
 
-## 2014-02-17 To T. {-#totomas20140217}
+## 2014-02-17 To T. {-#tot20140217}
 
-Hello Tomas
+Hello T.
  
 Today I feel a little tired, I suppose it is because it is already night, my throat hurts and I am considering taking some caffeine or going to rest.
  
@@ -206,7 +206,7 @@ Congratulations!! for that first term that you have passed as a good Erasmus, no
 
 Do not think I have many things to tell that you do not know or suppose. These last days, and I am going to continue like this until the writing of the paper is finished, I have dedicated the whole time to [Leibniz]( https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) or, more specifically, to deepen the [conception of the will of God]( https://en.wikipedia.org/wiki/Th%C3%A9odic%C3%A9e) in Leibniz and in the government of the world. There I am, rummaging, with the magnifying glass on - and even the microscope -, alone with his texts, basting ideas and asking questions. I have gone from having things half clear to clarify myself conceptually, but to see how doubts grow in me about Leibniz himself and his philosophical environments. Right now, although I think I will not raise it in the congress - perhaps I can only point something - I have more and more doubts about the concept of God in Leibniz and in modern philosophy and, through them, about metaphysics, to which I still consider it a fundamental discipline, but whose content depends excessively on the medieval tradition. I leave it there, because you cannot walk with hypotheses and doubts.
 
-Your lack of time - and everyone's - is typical of our time and I am afraid it has been the fate of all the intellectuals who have populated the earth. In any case, in this time of weak, mercantile thought, lost amidst the superficiality of appearance, of manipulations everywhere, of manipulative and adolescent media, of *palabreros, truhanes, mercachifles*, in short, cynics; at this time, to the obligations and commitments of studies and knowledge, we usually combine the time-eater media, which dilute our time, the ability to think, manipulate us and even shape our moral conscience. In the face of all this - the liquid society that [Bauman]( https://en.wikipedia.org/wiki/Zygmunt_Bauman) talks about - one must select a great deal and be faithful to the schedules that one has drawn up. [@bauman2013liquid] Liquid society, liquidates... In other words, when you set timetables and follow them, you are on the right track. We usually fall, I have been, and I am a victim of this, in the temptation to peck at everything, which in the end leads us to delve little or nothing into almost nothing. If it works for you, you who are young can avoid the defects into which many have fallen.
+Your lack of time - and everyone's - is typical of our time and I am afraid it has been the fate of all the intellectuals who have populated the earth. In any case, in this time of weak, mercantile thought, lost amidst the superficiality of appearance, of manipulations everywhere, of manipulative and adolescent media, of *palabreros, truhanes, mercachifles*, in short, cynics; at this time, to the obligations and commitments of studies and knowledge, we usually combine the time-eater media, which dilute our time, the ability to think, manipulate us and even shape our moral conscience. In the face of all this - the liquid society that [Bauman]( https://en.wikipedia.org/wiki/Zygmunt_Bauman) talks about - one must select a great deal and be faithful to the schedules that one has drawn up. [@bauman2013liquid] Liquid society liquidates... In other words, when you set timetables and follow them, you are on the right track. We usually fall, I have been, and I am a victim of this, in the temptation to peck at everything, which in the end leads us to delve little or nothing into almost nothing. If it works for you, you who are young can avoid the defects into which many have fallen.
 
 There I continue with the essay reading workshop and forcibly committed to the Parkinson's association, which is taking me much longer than I thought and wanted. At the moment, I have written the contents of the new website, which are mainly medical content, I have already visited a good number of official offices begging, as they say. You go into offices that have plenty of luxury to ask for something that is fair and whose responsibility is the administration, because those affected by Parkinson's have to finance their therapies themselves, since Social Security washes their hands with them. But these sick people are there, with a degenerative disease that lacks a cure. Very strong, but real. They even have the association in some premises, an apartment on a ground floor, which some nuns have left for them. We are fighting there. Let's see what we get. Look! The association is thirteen years old. I have my brother-in-law affected by Parkinson's, who has had to take the presidency of the association, because they had led it to bankruptcy due to mismanagement and the malfunction - I am going to leave it only there - of some worker, especially the psychologist, who until now have not dared to put her on the street, as I think they should. As you see, I walk everywhere, but not as God but lost in what unknown worlds...
 
@@ -215,8 +215,10 @@ Well, Carlos, you do your thing. Learn in someone else's head, in the head of th
 I'm going to see if I practice a bit in the kitchen now ... and surprise the family with something, although I don't know with what ...
 
 Health, peace and happiness.
+
 T.
-(February 22, 2014)
+
+February 22, 2014
 
 PS: I have made sea bass with a mushroom sauce. Well, it didn't go wrong ...
 
@@ -538,7 +540,7 @@ We can let science discover the world without destroying it, without fear of ann
  
 Regarding your letter, I have to tell you that I am incredibly amazed at the great wisdom of your words and your potential as a person and writer. You capture the essence with few words and little information. You go beyond what I mean. Sometimes, even beyond what I had thought myself. You help me a lot to organize my ideas and that's why also, selfishly, I find myself writing to you again.
  
-I love that you talk about the contradiction. The knowledge that I am discovering these days is the paradoxical one. The contradiction in the contradiction. I think the only truths that exist are lies. From ["*I only know that I know nothing*"](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing), through "*The Love and the Death" [@val2011orfeo], to ["*The name that can be defined is not the unchanging name.*"]( https://en.wikipedia.org/wiki/Tao_Te_Ching) [@ta1984tao].
+I love that you talk about the contradiction. The knowledge that I am discovering these days is the paradoxical one. The contradiction in the contradiction. I think the only truths that exist are lies. From ["*I only know that I know nothing*"](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing), through "*The Love and the Death*" [@val2011orfeo], to ["*The name that can be defined is not the unchanging name.*"]( https://en.wikipedia.org/wiki/Tao_Te_Ching) [@ta1984tao].
 
 I share your point of view about our communication in the past. I think it was never a quality communication. This deficiency, in part, caused by haste. I am discovering the reward of waiting, of patience. To get out of my comfort zone. From being water, from enjoying any situation, from learning in the desert. 
 
@@ -628,7 +630,7 @@ P.S. I would like to know a very absurd detail about your habits, if you continu
  
 March 2, 2014
 
-## 2014-03-04 To L. {-#toS20140304}
+## 2014-03-04 To L. {-#toL20140304}
 
 2014-03-04
 
@@ -687,4 +689,34 @@ Well it looks like this is all I can tell you. I hope I have helped you as what 
 A kiss.
  
 Carlos.
+
+
+## 2014-03-04 To T. {-#toT20140304}
+
+2014-03-04
+
+Hello T.,
+ 
+I answer following the order of your letter.
+ 
+Thank you for your letter and thank you for the congratulations on my studies, but I would not like you to overestimate me. Overvaluations lead to disappointment. Personally, I prefer not to have too many expectations and that when things happen, I simply thank the actors in the action for their wonderful performance. Ambitions, even if they come from other people, are usually not too beneficial for the organism.
+ 
+Regarding Erasmus, and the population in general, every day I believe more in individual differences, so the generalizations about Erasmus or other social groups do not make me very happy, even if they are positive. The only generalization that I like to make is that of the capacity to love of the human being, and still, I know that there are exceptions.
+ 
+I have not the remotest idea of [Leibniz]( https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz), nor of the government of the world, nor of God. But I believe that the world belongs to the world, and [nature is a loan from our children and not an inheritance from our parents]( https://quoteinvestigator.com/2013/01/22/borrow-earth/). So, on a personal level, God makes little. I can only congratulate you on the great work you do as a philosopher and student of Leibniz. I, personally, am already learning to walk with doubts and without them. To write, to forget the past, to learn from the past, to empty myself, to remember the past, to fill myself up again and to empty myself again. Life is change. We are water.
+ 
+On the matter of time. From my point of view, the problem is that, now, time is not only lacking for intellectuals, among whom I do not include myself. Time is lacking for everyone (except Africans, horrible generalization). Asking around me, (I do not know if it will happen to you, that you frequent much less mundane circles), if they believe that people have time, or if they themselves have time, they respond quickly that they don’t, as they lower their heads towards their new Smartphone or keep on looking at a screen, infinitely entertained and empty (or overwhelmed?). The lack of time of the current population, I can almost assert, is caused, among many other factors, by an excessive use (abuse) of instant communication technologies. These technologies were gifted by the gurus of speed and design ([Steve Jobs]( https://en.wikipedia.org/wiki/Steve_Jobs)) as if it were humanity's new panacea. A gift that, by the way, is expensive inside and outside the store.
+ 
+To this day, I sit down to watch the sunset and savor the seconds if that is what my spirit needs. Still, I suppose, you'll be pleased to hear that I don't waste time. At least, not as much as before. I take more care of my social relationships and I am more productive. Maybe I should follow the schedule that I set for myself a little more verbatim. But for now, being water is not bad for me. And I usually meet deadlines. Minus one ... I'll tell you ... There is another deadline, the only one I would say, that speeds me up. It forces me not to lose my, our, and their time. I work for humanity, and humanity has many pending problems and tasks that have to be solved. At least, trying to avoid causing new problems and mishaps that, if we let them grow, will be much more difficult to solve in the future.
+ 
+I could and, of course you could, write an entire essay with just this sentence: 
+
+>“*In any case, in this time of weak, mercantile thought, lost amidst the superficiality of appearance, of manipulations everywhere, of manipulative media and incensed, of word-laborers, rascals, market-goers, cynics, in short; at this time, to the obligations and commitments of studies and knowledge, we usually unite the eating of the media, which dilute our time, the ability to think, they manipulate us, and even shape our moral conscience.*"
+>
+> \@ref(#fromT20140222)
+
+So, I can't afford to comment on it. For now, let's move on to the next one.
+ 
+[Bauman's](https://en.wikipedia.org/wiki/Zygmunt_Bauman) liquid society [@bauman2013liquid] is an idea that I will try to discover when it fits into my busy interior. If it ever fits. “*Liquid society liquidates...*” (Interesting, but I lack information) For me, the most liquid thing is water, and water adapts to any situation. But even water has a social conscience.
+
 
