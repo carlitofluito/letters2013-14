@@ -223,25 +223,6 @@ February 22, 2014
 PS: I have made sea bass with a mushroom sauce. Well, it didn't go wrong ...
 
 
-## 2014-02-24 From L. {-#fromLa20140224}
-
-2014-02-24
-
-Good morning, good afternoon or good night.
-
-Today I start writing without knowing the day I will finish. I want to emphasize that, at this very moment, the time I am using to write this letter should be used for other priority reasons. However, today I feel like thinking and writing.
-
-I think the time here is consumed vertiginously, which makes me dread. The embarrassment unnerves and weakens me. I need to plant time and thus collect hours with fruits. Incurring in relatively “absurd time-killers” may not be a good option, given that I regret my limited time. I want to achieve a greater deepening and internalization of the university contents to acquire.
-
-I admit that the commitment that I have guaranteed in the scout group in which I have signed up, is not in accordance with my real "free" time, which dissipates or evaporates an excessively necessary time. I may not be mature enough to deny proposals (both from friends and the group). Maybe I shouldn't be securing projects that I can't commit to.
-
-The other day they called me something between "hypocritical and false" at the same time for this very reason. I don't have the capacity to deny a purpose that they make me. It seems like wanting to give 100, without sometimes being able to reach 50. This is how I end up doing it: badly, in a hurry and running. Still, I step back, stop, and think. Organization is the solution, or maybe the first remedy is to learn to say no?
-
-You who seem to know me, tell me what you consider. Today, I let you be what you like to be.
-
-Greetings Dr. Alcalá,
-
-
 ## 2014-02-24 To La. {-#toLa20140224}
 
 2014-02-24
@@ -263,6 +244,25 @@ A warm (and not intellectual) hug,
 Carlos
  
 P.S. If you want, you can take the opportunity to correct grammar, spelling and punctuation errors, among others.
+
+
+## 2014-02-24 From L. {-#fromLa20140224}
+
+2014-02-24
+
+Good morning, good afternoon or good night.
+
+Today I start writing without knowing the day I will finish. I want to emphasize that, at this very moment, the time I am using to write this letter should be used for other priority reasons. However, today I feel like thinking and writing.
+
+I think the time here is consumed vertiginously, which makes me dread. The embarrassment unnerves and weakens me. I need to plant time and thus collect hours with fruits. Incurring in relatively “absurd time-killers” may not be a good option, given that I regret my limited time. I want to achieve a greater deepening and internalization of the university contents to acquire.
+
+I admit that the commitment that I have guaranteed in the scout group in which I have signed up, is not in accordance with my real "free" time, which dissipates or evaporates an excessively necessary time. I may not be mature enough to deny proposals (both from friends and the group). Maybe I shouldn't be securing projects that I can't commit to.
+
+The other day they called me something between "hypocritical and false" at the same time for this very reason. I don't have the capacity to deny a purpose that they make me. It seems like wanting to give 100, without sometimes being able to reach 50. This is how I end up doing it: badly, in a hurry and running. Still, I step back, stop, and think. Organization is the solution, or maybe the first remedy is to learn to say no?
+
+You who seem to know me, tell me what you consider. Today, I let you be what you like to be.
+
+Greetings Dr. Alcalá,
 
 
 ## 2014-02-24 From L. to herself {-#fromL20140224}
@@ -753,7 +753,7 @@ One classic in particular, [Lao Tzu](https://en.wikipedia.org/wiki/Laozi), is sa
 >
 > *It is better to keep what is within himself.*”
 >
->[@ta1984tao]
+> [@ta1984tao]
  
 The negative effects of this drug, if any, are yet to be discovered.
  
@@ -821,9 +821,7 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
 >
 >
 > [@ta1984tao]
-
 ---
-
 2014.02.20 
 
 ><center>**sunset **</center>
@@ -863,13 +861,11 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
 > 
 >
 >(forget, feel and enjoy)
-
 ---
-
 2014.02.23 
 
 ><center>**learn **</center>
-
+>
 >it’s learning
 >
 >it's light
@@ -900,3 +896,23 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
 >are limits
 >
 >it’s learning
+
+
+
+
+
+## 2014-03-05 To L. {-#toT20140305}
+
+2014-03-05
+
+I let you know that I have been touched reading “*Dear future ME*”. [2014-02-24 From L. to herself]
+
+You have reached a conclusion that no one needed to explain to you. You have accepted yourself. You have assumed all your mistakes, not as mistakes, but as necessary consequences in the learning and development of your life and of the person you currently are. Without those mistakes, lessons, you couldn't have become who you are.
+
+It is perfect, L. Beautiful that you love yourself, that you accept yourself.
+
+Probably many of your problems have been automatically solved by writing that letter. The ones that don't, you know, you have friends to tell them about.
+ 
+Regards
+ 
+Carlos
