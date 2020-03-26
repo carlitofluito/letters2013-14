@@ -471,11 +471,13 @@ Regards,
 Carlos
 
 
-## 2014-02-28 From S. {-#toJ20140228}
+## 2014-02-28 From S. {-#toS20140228}
 
 2014-02-28
 
-Oh Carlos! You make me feel an expert in contradiction ... Well, in truth it has been almost always like that. And precisely for that reason that you call quality communication. Communication that, between us, has been quite poor in my opinion.
+Oh Carlos!
+
+You make me feel an expert in contradiction ... Well, in truth it has been almost always like that. And precisely for that reason that you call quality communication. Communication that, between us, has been quite poor in my opinion.
  
 Recently, a wise man told me that we end up loving those who transmit us tranquility and we end up hating those who stress us. And so, it goes!
  
@@ -821,7 +823,13 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
 >
 >
 > [@ta1984tao]
+
+
+
 ---
+
+
+
 2014.02.20 
 
 ><center>**sunset **</center>
@@ -861,7 +869,13 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
 > 
 >
 >(forget, feel and enjoy)
+
+
+
 ---
+
+
+
 2014.02.23 
 
 ><center>**learn **</center>
@@ -898,14 +912,11 @@ P.S. I keep waiting for your invitation to pass by and eat together one day. I k
 >it’s learning
 
 
-
-
-
 ## 2014-03-05 To L. {-#toT20140305}
 
 2014-03-05
 
-I let you know that I have been touched reading “*Dear future ME*”. [2014-02-24 From L. to herself]
+I let you know that I have been touched reading “*Dear future ME*”^[[2014-02-24 From L. to herself]].
 
 You have reached a conclusion that no one needed to explain to you. You have accepted yourself. You have assumed all your mistakes, not as mistakes, but as necessary consequences in the learning and development of your life and of the person you currently are. Without those mistakes, lessons, you couldn't have become who you are.
 
@@ -916,3 +927,145 @@ Probably many of your problems have been automatically solved by writing that le
 Regards
  
 Carlos
+
+## 2014-03-05 To my mother. {-#tomother20140306}
+
+2014-03-06
+
+Hello mother,
+ 
+How is everything? I hope more or less well. I'm fine.
+ 
+I would like to know how was the job interview. I have written a letter to T., my former philosophy teacher, offering him your help, since he is quite involved with an association of Parkinson's affected. In case you have time, it can be quite interesting for you.
+ 
+I would also like to know what plans or ideas you have about the trip that I proposed to you. Neither money nor family are a real inconvenience for you to come. The money thing is ridiculous; and A. and D. have to wake up and get by themselves. I would like you to write to me about them and dad. How do you see them? What are they doing? And, how are they? Once you tell me I will write something especially for them.
+ 
+Regards,
+ 
+Carlos
+
+## 2014-03-07 To F {-#toF20140307}
+
+2014-03-07
+
+Greetings F.,
+ 
+I just meditated and I don't know if I see lighter or darker. But I am emptier. My interior is clearer.
+ 
+First of all, thank you. Thank you for all that you have taught me and continue to teach me. Since the day I met you, every chat, conversation, or email with you has been very fruitful for me. The last lesson you have given me has been to recognize that lots of work remains to be done with humanity. Even so, we are still on the right track. Thank you.
+ 
+I'm sorry to tell you this, it grieves me greatly, but lately you make me sad. I am sorry to see that the person T. introduced me at *El Gallinero* about 4 years ago (time flies, isn’t it?) Has changed so much. That person for whom I put on a shirt, to give a good image. That person that appeared in espadrilles, with a mane, earrings and white pants that looked like pajamas. T. incorruptible. Without prejudice, he accepted us and admired who we were and what we could be; not because of what we appeared to be. It didn't matter the attire if our spirit was on the path we had chosen, or that we still had to choose. Each his, his own way. Way to be discovered and traveled, which to this day we continue discovering and traveling.
+ 
+I am sorry to tell you that you have disappointed me greatly. Seriously, I'm sorry. It was my fault, I admit it. For not being empty. For having expectations. Expectations about educated people, about wise people. To think that these would keep their humanity intact through the passing of the years.
+ 
+At first, I thought about sending you a text full of authors and references, but, I suppose that like [Watson](https://en.wikipedia.org/wiki/James_Watson#Comments_on_race), discoverer of DNA, the references and the previous and subsequent demonstrations do not have much depth in your iron spirit. Also, by the way, I don't want to give you any references: because I don't know them, because I don't have time to look for them, and because you could answer me with ten references in response to each one I put.
+ 
+So I will try to appeal to your humanity, which, as a human being, I am sure you still have. As ignorant as I am, I will ask questions. I want to ask you if human beings do not deserve equality and respect just because they are human beings. If they do not deserve to be treated fairly, justly, because they belong to the human condition. If, due to their inherent and intrinsic human dignity, they do not deserve the love and appreciation of other people. If we should not fight to try to achieve equality, even if it is artificial and invented, but that allows all people to try to find their way without others putting obstacles in their way and prevent it. Even if we show that blacks are dumber, and that women write worse. Don't they both deserve to have the same opportunities to study or write? Aren’t they human beings too? Aren’t they people?
+ 
+I will believe the lies of equality, if the consequences are positive for humanity. And I will forget the truths of the differences if they lead us to segregation and violence between people, between brothers. The world, like science, is built by people. And we all decide whether we want to live in a world where blacks are dumber and women write worse (even if it's true), or one where we are all equal and have access to the same opportunities in a fair and impartial way (even if we aren’t the same). Sometimes I need to lie to myself and fool myself. Then I empty myself and forgot about self-deception. I forget the truth. I give myself new opportunities. Unprejudiced.
+ 
+I consider that segregation and prejudice are not beneficial for humanity, and cause behaviors guided by hatred and ignorance in human beings. On the contrary, curiosity, even if it kills cats, brings people closer to each other. Curiosity and knowledge prevent the development of prejudice and are medicine for racism. Respect and love are forged with trust and cooperation. Opportunities for learning and experiences are needed. It is essential to look into the unknown. Observe each situation with new eyes.
+ 
+I think that people are in the world to help each other and not to trip us up. The person you are helping today may be vital to you in the future. It can be the fundamental help that removes the obstacle that you alone cannot move. I like to think that the human being has come this far for his ability to love, and not for his ability to destroy. For his altruism, for putting the common interest before his own. For focusing on others.
+
+Blacks are black because you are white. Just as women are women because you are a man. I am trying to abandon my point of view centered on myself. Stop comparing myself with the world, taking as a reference my point of view, my characteristics, the person that I am. I don't want to compare, neither with me, nor between them, nor with anything. I want to take people as individual beings. What they are. Leave the categories, stereotypes and prejudices aside.
+ 
+Thus, I want to empty myself and be able to fill myself over and over again. Be empty. Forget all the science and references. For or against equality. Run into the living beings of the planet, with each object and with each new experience free of past influences. As if it were the first time. New water over and over again. Trying that my only prejudice is lack of prejudices.
+ 
+I have been educated as a Scout, and the motto “*Leave this world a little better than you found it.*" has made quite an impact on my personality. In part, that's why I'm sending you this letter.
+
+I have no time left. Sorry Fernando.
+ 
+As a last thought, appreciate what you have accomplished. It's easy to blame you, but I decided to breathe. From the hatred that your emails caused me at first, I have been able to pass to a deep sadness when I realized the transformation you have undergone these years. Now there is only left an infinite gratitude to the beautiful person who has caused me to write this letter.
+ 
+Thank you very much F.
+ 
+Carlos
+ 
+Leuven 2014-03-07
+
+
+## 2014-03-10 From Al. {-#fromal20140310}
+
+2014-03-10
+
+Dear Carlos,
+
+Finally I venture to put into practice my gift for writing ... It is rare not to know about you for so long, and the fact that now I am writing a letter to put remedy to the situation. But well, everything be for knowing about you.
+
+I suppose that living in another country you will be a little isolated from the latest news about your home country, but come on, it is not that it matters too much what is happening around here ... In Canary Islands we face the great oil titan, with no apparent possibilities of stopping it, as much as the government and the Canarian people have joined forces to stop it... [Repsol enters our coasts](https://en.wikipedia.org/wiki/Repsol#Canary_Islands), takes our oil (if there is any) and we are promised to become the new Dubai, but nobody believes it.
+
+Without downplaying the above, I would like to tell you about myself.
+
+"*I am a normal, simple boy, just looking to have fun and what comes up, for a sporadic relationship or... who knows if I can be the love of your life?*"
+
+Well yes, although it seems funny, that's me, more normal every day, and with the strangest life... Sometimes I feel that the script of the things that happen to me is written by [Almodóvar]( https://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var). I began a romantic relationship on January 26, with a boy whom I hardly knew, but who, after crossing a couple of words in a shopping center, I went completely crazy for him, and I waited two months for him to return from his work in Switzerland. Once the relationship began, everything seemed to be going well, until for some reason of fate, I insisted that things were not going well, and I left him. After 5 days I regretted it, and I went back to him... But it's not what I expect from a relationship at all. Now on top of that it happens that I have met a Valladolid student of French Philology in Salamanca at the carnivals, with whom I have been madly amazed, but today he has returned to his life, and I really do not know whether to do something crazy and take a trip to the peninsula. Before that, I have to think what I do with my relationship, because things are not going well at all...
+
+I think all of the above is due to a prolonged accumulation of lack of affection, and which now makes me give myself 100% with people who perhaps are not appreciating everything I have, and they only see me as a pretty face and a gaze that lately speaks by itself about sadness and depression.
+
+You will have seen my photos with makeup, I suppose... They are the work of my "*boyfriend?*", in his determination (not rejected from my side) to make me some kind of a model. I don’t truly know if that image benefits me, given the encounters I have lately when facing people’s comments assuring that I am "*someone empty*". It’s is not that I care about what people think, because I know how I really am, but I feel a little bad ...
+
+The degree in general is going quite well, although I can't really focus on my studies when so many things happen in my life. Next year I think I need a change, but I'm still afraid to leave the nest ... I don’t know what I will do, but it would be nice to finish my studies.
+
+So, I can't think of anything else to tell you… I've enrolled into a scout group in Gran Canaria, and this year I'm going to present myself to *Ruta Siete* again.
+
+I really don't know what I feel like doing this summer. The other day the movie [*Into The Wild*](https://en.wikipedia.org/wiki/Into_the_Wild_(film)), reminded me a lot about you ... And now, I think I want to go to Alaska... Hahaha
+
+And you what about?
+
+How is your project going? Internships?
+
+I look forward to your response!
+
+Al.
+
+
+## 2014-03-13 From my mother. {-#frommother20140313}
+
+2014-03-13
+
+Hi Carlos.
+
+The interview went very well, I was selected, but it was not for a job, but to take a vocational training course for employment. I have already started it, last Thursday, and, although there are moments that seem a little heavy to me – it’s 5 hours daily without changing the subject and the first module is very theoretical and structured, based on laws and concepts, acronyms ... - has created many expectations for me.
+
+As I told you in the previous letter, the trip was subject to the realization of the course, since attendance is compulsory, and does not allow absences, even if justified, of more than a variable percentage according to the module and its duration. If I miss, it hinders one from passing and going to the next, not achieving the official training, certification and qualification, valid for the entire EU. Passing the course gives you a professional certificate as a teacher of level three, which gives you access to teach for vocational trainings. So, the trip is postponed until the end of the course, on June 30.
+
+What you are proposing to me about the Parkinson APARVAL Association, I made a contact years ago to work (because of a maternity leave from a social worker) and I was not selected. I would not mind collaborating with them, as I did with others (Aficrovall or Fundamay) but I promised to return to Fundamay when I could do it with continuity-stability. When the time comes, I will assess whether it is possible to collaborate with both. Anyway, if it is a specific collaboration, at a time or with a specific action, tell him because perhaps I can carry it out, without committing myself to something permanent or continuous that at this moment is not possible.
+
+We have already reached the most important and difficult point to deal with, that of the family relationship. We are currently in a moment of crisis, between your father and I there are hardly any words of greeting. We are in a dynamic of wanting-not wanting, power-not power... Due to many misunderstandings and lived situations that have placed us in our point of view - partial- and lack of dialogue, difficult to solve when you are unmotivated and tired, entering and maintaining oneself in a dynamic of non-communication.
+
+But this should not worry you, do not let it influence your daily activity, when you come and we have some time we can talk together, mediate and try to resolve, in case the same situation continues.
+
+Your brothers are with the practices of the course that they are finishing, at the end of the month it closes. From that moment on, we’ll see what opportunities they have. A. wants to enroll in professional formation of sports activity, if he decides so, he should try it in Segovia and Ávila, where he did not want to go years ago. So, an important step for his training and future.
+
+I have to go to the Social Security Institute to solve some things. I will continue telling you when I have receive your reply letter.
+
+Kisses and a very strong and heartfelt hug.
+
+E.
+
+
+## 2014-03-05 To my mother. {-#tomother2014030}
+
+
+
+## 2014-03-05 To my mother. {-#tomother2014036}
+
+
+
+
+## 2014-03-05 To my mother. {-#tomother2014006}
+
+
+
+
+## 2014-03-05 To my mother. {-#tomother2014306}
+
+
+
+
+## 2014-03-05 To my mother. {-#tomother2010306}
+
+
+
+## 2014-03-05 To my mother. {-#tomother2040306}
