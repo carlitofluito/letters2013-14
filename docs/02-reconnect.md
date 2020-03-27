@@ -1138,7 +1138,7 @@ P.S. Friend's advice. You use the computer a lot. We don't want you always avail
  
 Leuven, 03/18/2014
 
-## 2014-03-18 From Z. {-#toZ20140318}
+## 2014-03-18 From Z. {-#fromZ20140318}
 
 2014-03-18
 
@@ -1160,6 +1160,44 @@ Here, a kiss...
 
 Have it very well. 
 
+
+
+## 2014-03-18 To Z. {-#toZ20140318}
+2014-03-18
+
+Z.,
+ 
+I prioritize the response of your letter over that of others, (I have a few to answer ...), because [every day that you are sad, you cause other people to be sad]( https://www.bmj.com/content/337/bmj.a2338)[@fowler2008dynamic; kramer2014experimental; coviello2014detecting], among them, me. It is not at all a negative thing. The human being is made in an empathetic way to sympathize, take pity and help people who need it. Don’t blame yourself. The sadness you express has exactly [served its purpose]( https://en.wikipedia.org/wiki/Sadness): sadden me. The request for help and the mobilization of social resources is the evolutionary explanation for the sadness that has reached us [@nesse1990evolutionary]. Evolution is ruling, the human being obeys. So, I help. Do not thank me. Evolution is ruling.
+ 
+I hope I can help you to be better with this letter, less sad and happier. In this way, you can spread happiness on your social network, which will spread it to you in the future. In the case of infect sadness, later it will return, causing you to be sad again. (Thank goodness there are many sad people and many happy people on the planet.) Call it [Karma]( https://en.wikipedia.org/wiki/Karma), call it [social network]( https://en.wikipedia.org/wiki/Social_network), or call it [positive feedback]( https://en.wikipedia.org/wiki/Positive_feedback). Call it nature, evolution.
+ 
+As I have already told you, read something about [positive psychology]( https://en.wikipedia.org/wiki/Positive_psychology). [Seligman]( https://en.wikipedia.org/wiki/Martin_Seligman) and others. Use your scientific mind and check the sources and references. Follow the links, but don't get lost. Dig deeper, or you'll end up being shallow. The simple fact of reading positive psychology will make you happier, (it will increase your emotional [well-being](https://en.wikipedia.org/wiki/Well-being), that is the correct term). You will flourish. I am reading *Flourish* [@seligman2012flourish]. The book comes with several exercises, used in [Positive]( https://positivepsychology.com/positive-psychotherapy-research-effects-treatment/) Psychology [Psychotherapy]( https://en.wikipedia.org/wiki/Positive_psychotherapy) that have been shown to be very effective in people clinically diagnosed with depression[@seligman2012flourish]. Why wouldn't they work with you? 
+
+If you do not have time, nor the opportunity to take a look at it, I will tell you about one of the exercises that I am carrying out. At the end of the day, reserve some time for yourself. I repeat: *For yourself*. Technology doesn't help. Disconnect your room, or go to a park, without a phone, without anything. You and some sheets of paper. Write three good things that happened to you on that day and tell why they happened to you. Now you will have the honor, and suffer the boredom, of reading my three good things today (03/18/2014). I hope they serve as your guide and example. (It's all re-apraissal)
+ 
+1. **I have had an interesting and very enriching conversation with a Chilean, older than 55, who has opened my eyes and shown me how much I am left to learn in this life**; (this is the good thing) BECAUSE, (the “because” is fundamental) *I am a receptive person, who loves to learn, I am curious and I have no prejudice about what kind of people can teach me what.*
+
+2. **I was able to control myself in [Client Centered Therapy]( https://en.wikipedia.org/wiki/Person-centered_therapy) class** when the teacher was making me nervous because she was destroying my creativity and forcing me to use a theory without references, which I do not know, and with which I disagree; BECAUSE *every day I get to know myself a little more, I am discovering myself little by little, I begin to understand how my body reacts, I am receptive to my environment and I use meditation to control my mind, and breathing to control my body, which I have developed myself to get relaxed. (My only reference is Tao Te Ching[@ta1984tao] and my past experiences.)*
+
+3. **I am writing a letter to Paloma**; BECAUSE *she is my friend and I like to take care of my friends*, BECAUSE, *when another person needs me I am available even if it is 2.26 in the morning and I have slept 4 hours and I am going to sleep 3 hours*, BECAUSE, *if Z. is happy, she will spread her happiness , and therefore, her social network, including me, we will be happier.*
+ 
+What about that? Are you getting the idea? I think it took me 10 minutes. 10 minutes a day you can find, right? Those are for you, they are for increasing your emotional well-being. Make a journal if you want with the blessings of each day, and do not forget to look for explanations. Find out “because’s”.
+ 
+Very important, reminding you of what I have said a thousand times. I don't know if I told you, but I tell everyone I can. Write. Writing is key to clear up your head and ideas. I am writing about it. It takes time because I want to do something that has a certain value, and that people can believe. I am looking for powerful arguments, stringing them together properly, looking for references where possible, etc. For now, make it as an act of faith, and write to clarify your doubts. If you need someone to write to (as I do) and you don't know whom, write to me. I am delighted to read you. But don't be selfish, you have many friends ...
+ 
+If you need an excuse, C. recently returned from Punta Cana with many things on her mind. A head that needs to get empty, to tell everything that has lived and experienced on the other side of the ocean. With a bit of luck, she can start a travel blog, a novel with her experience, or an essay on the inhumane inequality of the island of [La Española]( https://en.wikipedia.org/wiki/Hispaniola) (curious, isn’t it?) caused by a wretched border. Yesterday or today, I don’t know (March 18, 2014) was Al.’s birthday. A letter as a gift for the gay Canary friend you always wanted to have isn't a very bad idea, is it? I think he will thank you more than another "*CONGRATULATIONS !!!! I hope we will see soon!!!!*" on his Facebook wall. Do you value the message or the relationship?
+ 
+About me, to tell you that I continue learning, considering what to do with my future, and how to face the years that I have ahead. I am in a time of swing and confusion. Money is the only anchor that does not let me freely jump into the sea, with the poorly ship built out of my mind and body. I would be a writer if I knew I am not going to starve. I would be a dancer if my health lasted a lifetime. I would be a social media expert if I could have free time to write. I would travel all my life, if all the people on the planet opened their home to me and their hearts wherever I go. I would meditate the rest of my life on a mountain if every human being on the planet could do it as well. But right now, I'm writing this letter to you, and I like what I do. I like to think that I can do it, and I don't care if I sleep less. I like to think that I make you write and that your use of technology, even for a little while, has been reduced because of me. Showing you that you can communicate with me without us having to use is WhatsApp or Facebook. I can be even more proud if you can get a friend of yours to write you a letter, too, and make him give up the slavery of instant communication for a little while. (Hint, reread). 
+
+The impatience of Al., gay friend from the Canary Islands, and C., created by the instant communication of the here and now ("*I want it, now!*") depletes my energy. And probably theirs. Unfortunately, this impatience is not the best way to wait for a letter that comes from me, that I sleep six hours on average and do not find time even under stones. Impatience that causes stress, and as you already know, [it is not too good for the body](https://en.wikipedia.org/wiki/Psychological_stress#Physical_effects). Both write very well, they have a lot of ability and many things to tell that they don't know who to tell. We all have problems. Thinking, writing and telling our friends helps a lot to solve them. Another clue: *positive psychology exercise*. [Helping others increases personal well-being]( https://en.wikipedia.org/wiki/Prosocial_behavior#Relation_to_mood_and_emotion)[@ passmore2015positive]. By writing to Al. and C., you will help them and me, because it will give me a couple of more days to answer them while they are entertained with your letters. You follow me, don't you?
+ 
+I'm done, I don't have much time and there are more people to write to. You don't need to answer me. I prefer that you write to Al. and/or C.. If you find time, you will tell me if something of what I am telling you works out or not.
+ 
+By the way, travel and discover yourself; go on Erasmus and write; create, produce, and build; grow, exploit your potential, and while all this is going on: FLOURISH. There is nothing wrong with being sad but being happy is cooler.
+ 
+A huge kiss.
+ 
+Carlos
 
 
 ## 2014-03-18 To Al. and to C. {-#toAlandC20140318}
@@ -1207,8 +1245,7 @@ I hope to receive your reply soon.
  
 Carlos.
 
-## 2014-03-18 From my mother. {-#tobrther20140318}
-
+## 2014-03-18 From my brother . {-#frombrther20140318}
 
 2014-03-18
 
@@ -1226,8 +1263,48 @@ I hope to see you soon,
 
 D.
 
+## 2014-03-18 From L. {-#fromL20140318}
+
+2014-03-18
+
+**LOADING… (Processing my future)**
+
+Lately I've been worrying a lot about my final byproduct. Maybe I shouldn't be stalking so much that outcome or finishing of my degree, to focus my day to day in my moral and academic learning. However, I consider it imperative to cope with my routine; with this I do not want to mean that is heavy for me, but I would like to occupy as much as my time as possible in taking advantage, and thus, merging my weeks. (I omit my complaints for lack of time, I remain with the actions that occupy it, and thus, notice what I live and exploit).
+
+I have realized that I definitely want to teach. I like to educate. I like to be a pedagogue. I want to create new pedagogies that educate, that really teach, to believe in real learning (the main purpose of every educator). Establish my own system where bulimic methods are legends, where students effectively store a small part of the content, and thus, eliminate multiple invalid academic certificates for many. A small revolution in education. Uprising, transforming, innovating. Overriding invisible pedagogies. Promote "*education by action*" (as [Scouting]( https://en.wikipedia.org/wiki/Scouting) taught me) where practices dominate the academic process so that the content persists in a more dynamic way.
+
+Visual arts, dance, and ethics are my main interest. That is why I keep my objectives equidistant around them. I believe in the interrelationship of the three, and for this reason they worry me and increase their size. I believe in creativity, objectivity and the power of criticism. Keeping in mind empathy and tolerance forms personal and individual personalities. My purpose is not to found new people, but to unsettle them so that they discover themselves and turn their goals and identities. Getting to know oneself after exploring various complementary and rewarding fields that one ends up building based on tastes and interests. The understanding of other mentalities, avoiding the cultural ethnocentrism that we suffer, establishes minds capable of conceiving other ways of thinking, which entails a degree of maturity as well as an opening of mentality in it. Today, I consider that much of society lacks many of the qualities that I seek to exploit (excuse the audacity). Perhaps, it is this situation that pushes me most energetically to the need to "re-educate". We live in an educational decline where values are replaced by social networks and electronic devices. The great existential concerns become not following the fashion, not having the best phone, or not being able to show the physical appearance that one wishes to have.
+
+Honestly, it is sad. However, they say it is never too late. Later is always after, and now, I can act so that later I can distinguish the results. If we are able to add our grain of sand to make a mountain, I propose to put one every day, and then, transcend.
+
+Now I just write my script of goals. I hope I can carry them out and achieve some success, so that they are not in vain. I channel my life, my days, my purposes; what satisfies me and makes me know my personality (one of my goals: to create identities based on inquisitiveness). Great challenge, but I know I am getting one of my hardest-fought wins.
+
+Today I know myself. Today, I like myself. Today, I love myself. Today, I build myself.
+
+L.
 
 
 
 
+
+
+
+
+## 2014-03-18 To my mother {-#tomother20140318}
+
+2014-03-18
+
+Hi Mom,
+ 
+I am quite concerned about your letter. Right now, I do not have it in front of me, and I would like to read it with more time and calm, to answer you in detail and in the way you deserve. But I am quite caught up in time. So, I can only consume, more than produce. But I think, and my ideas are being built. Please tell me how you feel in general, how you feel about the relationship with dad right now, what positive and negative things you detect in the relationship, what you would like to change. Explain yourself as much as you can.
+ 
+Another good idea would be to tell dad to send me a letter as well, telling me how everything is going in general and what he's doing. It is better to start with superficial matters. Don't go straight to the point, you know ...
+ 
+The more I know about what you think or how you feel, the better I can advise you and the more information I have to express my opinion. Don't you mind bothering me. I am learning to focus on what I do and forget everything else for a while. So, there is no problem in worrying me. I worry when I have to worry, and I don't waste time on loops and rumination that doesn't lead to anything.
+ 
+Please, I am looking forward to a long and lengthy response.
+ 
+Thank you
+ 
+Carlos
 
