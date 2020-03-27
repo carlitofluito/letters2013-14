@@ -1112,7 +1112,121 @@ I imagine where things are going in life. And where should they go. But what I s
 I have not changed. I think more or less the same, but I am less gullible, and I recognize intelligence wherever it occurs. And I thought before that women should be at home, for example. And from not respecting their place many evils have come out. I also understand that they want financial independence to be able to separate. But the man is the man,  and the woman is the woman. If that scandalizes you, I can't do anything. I do not want a feminist girl by my side, but a classic one in the most classic sense of the word. And when [Zapatero]( https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero) said that he was a feminist himself, I felt sorry for him. A pitiful guy. The nothing.
 
 
-## 2014-03-15 To F. {-#toF20140315}
+## 2014-03-18 To F. {-#toF20140318}
+2014-03-18
+
+Fernando,
+ 
+All right. I lower my shield. (Jokingly of course, I have my own ideas about shields and people who are more knowledgeable and intelligent than me, who can influence me. I am easily influenced. Everything works with me: psychological, persuasive, rational, emotional strategies. In short, any type of dialectic, especially eristics. Besides, the last time I started conforming to you, I ended up with a little minor depressive episode. Conditioning and that **P**sychologist’s bullshit (I'm a rebel from the [RSA]( https://en.wikipedia.org/wiki/Royal_Spanish_Academy)), you know.) ([Check this]( http://etimologias.dechile.net/?sicologi.a). Written by a woman, ojito)^[**Spanish nuance.** *Sicología* is the science that study figs, while *Psicología* is the study of the *Psyque*, the soul, or the mind. The reference is originated by a comment of F. in a non-published email.]
+ 
+> "* I have not changed. […] And I thought before that women should be at home, for example. And from not respecting their place many evils have come out. I also understand that they want financial independence to be able to separate. But the man is the man, and the woman is the woman.*” 
+>
+> [2014-03-15 From F.]
+
+I want arguments. Tell me things I don't know and stop with the fixist bullshit of “*the man is man and woman is woman*”. Do not come with dickhead stuff, that I crack up.^[**Spanish nuance**: “*No me vengas con polladas, que me descojo*” in the original. To keep the manly speech.] (I feel like [Reverte]( https://en.wikipedia.org/wiki/Arturo_P%C3%A9rez-Reverte), the one from the [RSA]( https://en.wikipedia.org/wiki/Royal_Spanish_Academy), those of the figs ...) Fernando, a couple of very simple questions that I hope you can answer me. What is the "place" of women? Why should women be "in their place"? Why the leaving of “her place” has caused so many ills? What ills? The man is a man, and the woman, a woman? Please develop the idea. Your idea, I don't have time for references.
+ 
+Don't go beat around the bush, please. Stick to my questions. I know that you, fascists and *fallaciests* (how cool is categorizing, isn’t it?), love recurring, unrelated and fixist argumentations. Do not worry, I will avoid that you end up with the gelled hair, suit, tie and as panelist from [Intereconomia]( https://en.wikipedia.org/wiki/Intereconom%C3%ADa_Corporation). Time will tell. And hope. (Young-old man without humility, you know. Hubris, grandiose word. But with hope. And a little faith, because I studied in a priest's school. The priests in class and the nuns in the infirmary. Subtleness.)
+ 
+By the way, I save your letter to subject it to a slower shelling if necessary. In private, of course^[But 6 years later… You, anonymous public person, are reading this.]. I also learn, respect and, understand. People are different.
+ 
+Regards,
+ 
+Carlos
+ 
+P.S. Friend's advice. You use the computer a lot. We don't want you always available. You start to look like a teenager posting on Facebook everything you find online. Don't get caught by the net.
+ 
+ 
+Leuven, 03/18/2014
+
+## 2014-03-18 From Z. {-#toZ20140318}
+
+2014-03-18
+
+Hi Carlos,
+
+How are you?
+
+I don't know where to start telling you, I don't even know if I have something to tell you that might interest you. I am in the library of the faculty, very overwhelmed with things, I think that in the end, I will be running out of time. But well, the truth is that I don’t care much. My head is on other things. 
+
+I am quite sad with my life in general, I do not know if I have solid reasons or not to be sad, but unfortunately my way of being is like this... I worry a lot about things, and I am not able to move forward. I have stagnated in my life... On the other hand I am a f\*cking great, in S.. I do what I want, I do not depend on anyone, and I have a good time. Although, I honestly do not know if I that is worth it. I think I aspire to more in my life, to deeper things... But right now, I am empty.
+
+I miss J., although I have to make decisions that are not easy for me. Tomorrow, I'm going on a trip to C. for a few days with some friends, to see if I can clear my mind up. Although, right now, today, I'm not feeling like going anywhere. I am bipolar. 
+
+Tell me about yourself, because, honestly, to tell you about about my not-so-interesting shits, pfff……… I am already thinking of going on Erasmus, but for the 3^rd^ year, of course. Any recommendation?
+
+I am so eager to get out of here, although I also tell you, thank goodness I am in S. because in V., I get really embittered. I will tell you other things because I am writing to you in a shitty moment, and I only say baaaaaaaad things, and not happy ones. Haha.
+
+Here, a kiss...
+
+Have it very well. 
+
+
+
+## 2014-03-18 To Al. and to C. {-#toAl&C20140318}
+
+2014-03-18
+
+Hello Al./C.,^[Yes, I was doing recycling some letters back on the days. I was sending them separatedly, though]
+ 
+This letter is just to reassure you. Tell you that now I don't have enough time to answer your letter as you deserve. Just tell you that you write very well.
+ 
+The beauty of writing letters is the patience and freedom that you gain as a sender and that you grant to your interlocutor. This is not a WhatsApp message that I can or you can reply to immediately. This is for you, and I take some of my time to give you my best. Because you deserve it. But this requires patience, it requires my time.
+ 
+New technologies have destroyed patience and waiting, and time. But I, writing to you by letter, give your time back to you. The time left until my answer comes, the real one, the one that is for you, you don't have to stay passively in front of a screen eager to receive my message. You can do a thousand other things. (Study, read, walk, sunbathe...). Write more letters to your friends, for example, P. (from Pisuerga) is not in her best moments lately. But instead of running and sending her a WhatsApp saying “*How are you?*”, I would prefer, and probably she’d too, that you will spend a little more of your time sending her a letter telling her how you are, and that you would like to know how she is. She is also your friend, and she will be pleased to know something about how your life is going.
+ 
+I have no time left. So, I ask you for a few days of patience so that I can answer you more appropriately. In addition, I give you the wait, so you can fill it with productivity and creation, reading, writing, studying, walking, sun, light ...
+ 
+A hug,
+ 
+ 
+Carlos
+
+Leuven, March 18, 2014.
+
+
+
+
+## 2014-03-18 To my brother. {-#tobrother20140318}
+
+2014-03-18
+
+Hello D.,
+ 
+I would like to know from you. How are you, how do you feel and what are you doing? I would also like to tell you that I often remember you, even if I don't tell you. I remember the conversations we have had in the past. I remember blaming you for what you did and how you did it. Now I'm realizing how wrong I was and how wrong I was in blaming you for what you were doing
+ 
+I wanted to apologize to you. I have been very hard on you. I have not accepted you as the person you are. As the person that today you have managed to be. Like everything you have achieved despite the difficulties that life has imposed on you. How have you overcome all those obstacles and inconveniences. I was only looking at the bad things and I couldn't see all the good ones you have achieved thanks to your own merits.
+ 
+All your past experiences have been key for you to be here today. Accepting your past experiences and the environment in which you were born, grown and lived, I can accept and understand who you are today and why you are the way you are. I can accept all your virtues and understand your flaws. But I don't blame you for any of them. Because in the past they have been adaptive and, evolutionarily speaking, they have been necessary for your survival. I understand them and I don't blame you for them.
+ 
+Your strengths and weaknesses are intrinsic to the person you are. They are part of you. Without them you would not be who you are. Therefore, I accept you as a brother and as a person. I accept all your facets. I don't judge you and I don't blame you. Anyone else in your same situation and having experienced your same situations, would be where you are, or would not even have gotten as far as you have. That is something very valuable of you, and it says a lot about the person you are. For this reason, I want to apologize. My sincere apologies for all the bad words I have said to you in the past, for my bad behavior towards you, for having been hard on you. Really, I'm so sorry.
+ 
+I would like you to answer me, if you want, writing me a letter as I have done. Telling me how you are doing, how you feel, and what you are doing. I send it to you by email because the technology is faster to send the information. But to write, I think, it is better to do it by hand, as I did it. I think that writing by hand one thinks better and has purer ideas and feelings. Therefore, I ask you please, if you want to answer me with a letter, firstly, write it by hand. Do not worry about the mistakes you make, and if the ideas do not come out ordered the first time. You will have time later to organize it. At the end, when it is finished, you can write it to your computer and see if everything is in order.
+ 
+I hope to receive your reply soon.
+ 
+ 
+Carlos.
+
+## 2014-03-18 From my mother. {-#tobrther20140318}
+
+
+2014-03-18
+
+Hi Carlos
+ 
+Thanks for the sent letter sent. As you surely know, I do not have as much vocabulary as you do (and that is a quality of yours to admire) and you will notice it when you see how small this letter has become. I hope that the feelings expressed in it are worth the same as in yours.
+ 
+I would also like to tell you that I also remember you, and that it would be a pleasure to see you again, your advice, and your warnings about the mistakes I was making. Every good or bad situation has helped me get through everyday life and get where I am now.
+ 
+I also want to ask you for forgiveness for everything that I have also done wrong and somehow left a bad mark on your life.
+ 
+For all this: THANKS
+ 
+I hope to see you soon, 
+
+D.
+
+
 
 
 
