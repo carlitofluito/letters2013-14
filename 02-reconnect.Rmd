@@ -944,7 +944,7 @@ Regards,
  
 Carlos
 
-## 2014-03-07 To F {-#toF20140307}
+## 2014-03-07 To F. {-#toF20140307}
 
 2014-03-07
 
@@ -1044,28 +1044,76 @@ Kisses and a very strong and heartfelt hug.
 
 E.
 
+## 2014-03-13 From C. {-#fromC20140313}
 
-## 2014-03-05 To my mother. {-#tomother2014030}
+2014-03-13
+
+Good ones, little sir! 
+
+Sorry for the delay but with one things and another, I could not find the time to sit quietly and write the long-awaited letter... Hahaha.
+
+How is everything over there? Where exactly are you now? Because since you don't stop, I don't even know where you are... Hahaha. Anyway, wherever you are, I hope that everything goes smoothly, and you learn many things so that later you can teach us.
+
+I'll tell you a little bit about my busy life... Hahaha. I was a couple of weeks ago in [PUNTA CANAAA](https://en.wikipedia.org/wiki/Punta_Cana) for the grad trip, amazing, the paradise that every person has to visit at least once... We were also lucky that a friend of mine had another friend there and she took us out one entire day out of the hotel complex and we were seeing the poorest area around, known as ["*El Hoyo*"](https://www.youtube.com/watch?v=cvfWWfLgpgw) where the poorest people of Punta Cana live... There, I also learned about the difficult life that especially Haitians have, because after having several problems with the government, they have no right to practically anything. Those who do not have their documentation and therefore are considered illegal are thrown out of the country. Also, among them, they are super racist. A Dominican cannot even practically speak with a Haitian. They are like the poor brothers, those whom nobody loves... It was tormenting. We met a single father and a little boy of about 3 years old, Haitian both of them. Since Haitians do not have the right to public education, the father had been fighting for his child to go to school for 2 years and after multiple tricks of various lawyers, he had finally gotten him accepted into a private school, where he had to pay about 50 euros a month. His salary is 150 €/month.
+
+I learned thousands of amazing stories... And I was horrified by the great economic and social difference between each other... There, either you are rich or poor... There is no middle ground...
+
+On the other hand, we took a lot of gifts that we had the opportunity to give to the little kids we met on the streets, so we made them happy. Things as simple as pencils, rubbers, balls, little notebooks... They were always enormously grateful and with a bright smile on their face. It was truly an amazing experience.
+
+For the rest, the trip was impressive. We coincide with a group from telecommunication, and another from IT. All of them very nice. A lot of party, a lot of dancing, the one I like, and eating constantly. Hahaha. Me… In my own element. Hahaha
+
+For the rest... I am going to see if I get the summer instructor certificate for the summer. I think I will... I passed everything... And now, I am practicing at a children's residence called [“*José Montero*”](http://www.jcyl.es/web/jcyl/Portada/es/Plantilla100Directorio/1248366924958/0/1142233565782/DirectorioPadre). I am with about 8 children in the afternoons. Children whose families cannot take care of them, and the residence helps them with their maintenance. They eat there, they take a shower, they do their homework, they play, they have dinner ... The truth is that there are some of them that are very difficult to bear, but you find out about family stories and you can't ask for more... But they are generally very cute. They have a good nature and a huge lack of affection... Besides, I have a great time. There are gypsies, and among the “*chacho*”, “*payoponi*”, “*God bless you*”, and “*aggguela*”... One cannot help but laughing.
+
+For the rest, I need to stop and reflect calmly on my future, which I don’t have very clear. I am not very aware about the fact that this year everything is already over, and that I must continue... My idea, you know, is to leave this place... I need it, and you know it, and I know it.  And nothing else… I'm looking at some things and others. This week, I have to renew the curriculum and start making a living like crazy!!!
+
+I need a change of scenery, and I realize more and more that I can be of great help in multiple places It is time to get started and help in any way I can.
+
+Well, I think I have spoken too much... I hope it helps you a little to know my current reality Hahahahaha
+
+Now, time to continue dreaming, to seek life, and to undertake all personal projects,. Time flies!!! We are young and we must take advantage of it!!!!
+
+I wait for your answer, that I also want to know about you, and that you tell me different anecdotes and experiences!!!
+
+A little kiss from [PUCELA](https://en.wikipedia.org/wiki/Valladolid)!!!!!
+
+Muaaaaaaa
 
 
 
-## 2014-03-05 To my mother. {-#tomother2014036}
+## 2014-03-15 From F. {-#fromF20140315}
+2014-03-15
+ 
+I know that the unique thought is sectarian, and Taliban, and that the correction believes of itself with the moral monopoly of the West. Despite the repetitive softness - and therefore harmless, deactivated beforehand - that it manages in its ‘argumentations’.
+ 
+This week, I was with a Greek professor from the [UVA]( https://en.wikipedia.org/wiki/University_of_Valladolid). We spoke, by chance, about bulls. He justified the bullfights elegantly. We converse for two hours. My starting position is against, but I understand that there are contrary and educated visions, usually more educated than those of the animalists. I open my ear, dude, I open my ear. I learn. I respect. I think. I rethink. I get it. Or I try it. You go with a shield.
+
+I'm not saying I'm a university professor. But when someone who uses half a neuron speaks, the first thing I do is paying attention, place myself on their board, rethink, etc. not leaving, like a vulgar panelist or naive commentator of the current times, from their prejudices, without listening, defensively, with blinders.
+ 
+But, Carlos, have you ever wondered that things may not be as you think? It is amazing the power that you arrogate to yourself. I say a small, methodical, non-destabilizing doubt. I issue opinions, not judgments. You seem to speak from a dais, and you haven't even reached twenty-five. It's surprising.
+
+In short, I am tired of arrogance. And personally, your thoughts about me being wrong forces me to raise my eyebrows. Everything is very basic. I can think the same of you. I do not know if I will make myself understood because I have told you more times. If you do not respect the person in front of you, what you are doing is collecting tickets to win the lottery of intellectual defeat.
+ 
+Lastly, the correction has the elegance of accepting the different, making the other an “*equal*”. The left-wing is supposed to be tolerant. Well, all those things are missing from your speech. You have not once reasoned against my invective; you say things of the type “*may Allah come*” or the like. Not even half an argument, it is always ‘Go, go’.
+
+?
+
+And in the letter, you sent me, you speak again from the same position. It never ceases to amaze me. But if you have not understood before that this is not the way to act, as you had not noticed that you should not cycle on the sidewalks, or that you have to be more discreet, and that it is ugly to plot under the table, or talk about one in the way you do it, with third parties; these words will not contribute anything either.
+ 
+Did I do wrong? Yes. I give each one his own. To each one, one thing. I can be saying one thing to you and the opposite to another. You don't need to get your spine caressed, but to get you sobered up.
+
+Let me give you an example: [11-M]( https://en.wikipedia.org/wiki/2004_Madrid_train_bombings). My official position is that it was [Al-Qaeda]( https://en.wikipedia.org/wiki/Al-Qaeda). It is what I have reflected in my logbook blog. But then, I have sent emails with the dark spots, which are many. Exasperation is not advisable for the Spanish population. I prefer not to ask many questions. However, I have strong suspicions that behind, even in a third level, were [ETA]( https://en.wikipedia.org/wiki/ETA_(separatist_group)) and the [NIC]( https://en.wikipedia.org/wiki/National_Intelligence_Centre). Of course, it does. Each terrorist gang uses an explosive and the remains of the trains have traces of the one used by ETA. On the other hand, the Asturian miner. And a lot of hidden evidence. A lot. And a month earlier, a document in which an action like that of 11M was planned was detained in ETA. It would be verbose to elaborate further.
+ 
+What the leftist hooligan does is starting with the denial of the doubt. I'm not that stupid. What I aspire to is calming the “*conspiranoic*” and make him see that not everything is so clear, by noooooo means. But I have told you this - and I have stated it in the meetings with the brotherhood - many times. People are one-eyed. They need other versions.
+ 
+I see people, from my point of view, of course, very lost, some with a current potential and other with past one. I'm not going to tell you things as soon as I meet you - spontaneity and “naturalness” have to do with lack of education. Neither after two months. And less at your age. But, I assumed you liked to think and question things and be picky and strive for excellence. Obviously, you had no age to be spoken frankly. Elsewhere, ellipsis.
+ 
+I imagine where things are going in life. And where should they go. But what I see clearly is that the official left has turned to good faith and correctness and that it is a shame to hear its thoughtless clichés. Faced with this, the right has built different programs and has an intellectual elite that the left does not even reach. It hurts, but as long as it continues licking its wounds and talking about emigrants, etc., it is on its way to settling itself in ridiculousness. And look how much I'm sorry. But the balls of the [Frankfurt School]( https://en.wikipedia.org/wiki/Frankfurt_School) or [Walter Benjamin]( https://en.wikipedia.org/wiki/Walter_Benjamin) are history. I only see “Go, go”, denigrations without arguing, empty adjectives, and light thinking. Training is lacking.
+
+I have not changed. I think more or less the same, but I am less gullible, and I recognize intelligence wherever it occurs. And I thought before that women should be at home, for example. And from not respecting their place many evils have come out. I also understand that they want financial independence to be able to separate. But the man is the man,  and the woman is the woman. If that scandalizes you, I can't do anything. I do not want a feminist girl by my side, but a classic one in the most classic sense of the word. And when [Zapatero]( https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero) said that he was a feminist himself, I felt sorry for him. A pitiful guy. The nothing.
+
+
+## 2014-03-15 To F. {-#toF20140315}
 
 
 
 
-## 2014-03-05 To my mother. {-#tomother2014006}
-
-
-
-
-## 2014-03-05 To my mother. {-#tomother2014306}
-
-
-
-
-## 2014-03-05 To my mother. {-#tomother2010306}
-
-
-
-## 2014-03-05 To my mother. {-#tomother2040306}
