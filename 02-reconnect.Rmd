@@ -1457,3 +1457,33 @@ Cheers
 
 
 ## 2014-03-29 From T. {-#FromT20140329}
+
+2014-03-29
+ 
+Carlos, good morning.
+ 
+Even if it's early, I have to answer you almost telegraphically. Yesterday I managed to adjust the two texts that I will take to [Granada]( https://en.wikipedia.org/wiki/Granada), the one for the presentation (20 minutes) and the one for the publication (maximum 6,000 words). It was not easy to do it, because, especially in the publication, it started from a text whose writing led me to almost nine thousand words. After spending so much time reading and thinking about such a central issue in [Leibniz's](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) metaphysics and that he had had such a great historical journey, which is full of substantial details, it was not an easy operation to write the article and, even less, to condense it in so few words, although they may seem like many. I still have to go over them, to give them the final touch, prepare an text to present the [Pierre Bayle’s]( https://en.wikipedia.org/wiki/Pierre_Bayle) [*Dictionary*](https://en.wikipedia.org/wiki/Dictionnaire_Historique_et_Critique) and read several things that help me properly prepare the moderation of the table that I have been asked to coordinate. As you can see, I'm not short of work yet. For this reason, I have not answered you, although I have had you in memory every day. I will do it on the return from Granada, which will be on the 6^th^. In the meantime, I hope you have patience and understanding. For you to enjoy the weekend, I am sending you the text that I will read in Granada, the short one. I hope I don't contribute to you falling asleep.
+ 
+Regarding F., what do you want me to say? I think you express it very well with and in your question: *what do we do with F.?* I have a feeling of intense pain and a small concern for him, but it is very difficult to access and dialogue. A dialectical wall has been built and I am also afraid that it is ideological that distances him from a dialogical attitude. It hurts to say it, but I feel it and think like that, although I wish I was wrong. Frequently, extreme positions on one side become extreme on the other, and this is what I see happening to F.. But I still think and feel that only a few things would glad me more than being wrong. For a long time, he has not even shown up for the Tuesday Café with E. and Ch., whom Ch.’s mate has joined, who is a young man that I would have liked to have had as a mate. It has been a long time since I have not answered the emails that he sends, when they have that tone close to homophobia, if not homophobe, to xenophobia, if not xenophobe and... It worries me, but it is he who has to reconsider regarding his attitudes. Many months ago, he stopped publishing things, for example, on [www.ultimocero.com](http://ultimocero.com/). I think that unemployment and his own family situation are giving him a complicated and difficult bill. But, I insist, Carlos, I hope I'm wrong in everything or, at least, in substance.
+ 
+Well Carlos, I have to get back to homework. I think I will take the old laptop I have to Granada to check the mail, although I don't think it will take much time at all. Have a good weekend.
+ 
+Health, peace and happiness.
+T.
+ 
+--- 
+
+ 
+2014-03-29
+
+I will answer you more appropriately when I have time.
+
+Wish you the best of luck in Granada and tell you that I have read three pages of your text^[An intricate philosophical text on Leibniz.]. It takes a lot of time and patience to understand everything you express and want to express. Also, probably, previous skills and knowledge, which I lack.
+
+Let's hope that the experts from Granada will catch it on the fly. Still, read slowly, since there is a lot to think about.
+
+As for F., faith, hope and Tao.
+
+Peace
+
+
