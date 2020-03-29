@@ -1353,4 +1353,68 @@ Leuven, March 18, 2014
 
 
 
-## 2014
+## 2014-03-18 From F. {-#toF20140319}
+
+2014-03-19
+
+If they arrest you, at least it's for something, not for some gay bullshit.
+
+Carlos, I believe in rock. Rock handles many codes, including those of honor and loyalty. And if an asshole asks you for a couple of blows, well, what is one supposed to do? You have to be generous and serve requests.
+
+You are so candid, Carlos. Yes, there are tensions in life. Violence from which [Bárcenas](https://en.wikipedia.org/wiki/Luis_B%C3%A1rcenas) exercises, to a hippyish with his dog, and rock has always been there. If a rocker doesn't have a mugshot, bad. I could tell you thousands of cases, so this you send me arouses a smile.
+
+It is very eloquent of your naive attitude I would say. Still if you were innocent. But it is that you are missing many kilometers and sometimes when you find something you think you have discovered gunpowder. You can never blame anyone for not knowing. I am the first who does not know. What is required is restraint, caution, questioning. And you go like a motorcycle and you crash once after another.
+
+You could have sent me the suspicion, although I consider it to be pure speculation, but there is no evidence, one way or the other, about [Jagger's](https://en.wikipedia.org/wiki/Mick_Jagger) involvement in [Brian Jones' death in the pool](https://en.wikipedia.org/wiki/Brian_Jones); or the [death in Altamont](https://en.wikipedia.org/wiki/Altamont_Free_Concert#Death_of_Meredith_Hunter) of a follower at the hands of the security team hired by the Stones, no less than the Hell's Angels; or all the arrests they have had, drug possession, etc. From the biggest mess, how curious, an editorial in *The Times* saved them, the most serious newspaper and that of the Queen saved them^[From Wikipedia: * The Times ran the famous editorial entitled "Who breaks a butterfly upon a wheel?" in which conservative editor William Rees-Mogg surprised his readers by his unusually critical discourse on the sentencing, pointing out that Jagger had been treated far more harshly for a minor first offence than "any purely anonymous young man".*]. They should not be put in jail; they were the most valuable thing that the United Kingdom had produced in a century. Sure, I tell you this straight away, but it is a task of days, weeks, months, years, of careful reading of so many things. And you run into one aggression and send it to scandalize me? I recommend you thinking that the other will always know more than you. And if you do not know, then something else, it will not be worth it. But, come on, yes.
+
+The tabloids are not press. They fuck you until you jump. It is a strategy. Sure, you don't know that either. If you fuck a gay the same will shut up. But if the imbecile constantly pesters a rocker... What he is after is aggression very clearly. You may not have thought about it.
+
+Aggressions, many. One of the people who shaped my personality the most and best is [Axl Rose](https://en.wikipedia.org/wiki/Axl_Rose). It is not for giving you a virtual slap – just to see if you cut out that inclination to put everyone in their place and catch them in contradictions, even when you are stepping on rival terrain, dude, how daring - but I send you [a couple]( https://www.youtube.com/watch?v=rrTiSxCWkNs) [of examples]( https://www.youtube.com/watch?v=idvQQqbqk0E) of the great Axl.
+
+Police records have actors, models, musicians and even normal people, check it out.
+
+I remember Paris. 1992. [Warren Beaty](https://en.wikipedia.org/wiki/Warren_Beatty), a very powerful Hollywood hunk, with gangster networks included, was trying to flirt with [Stephanie Seymour](https://en.wikipedia.org/wiki/Stephanie_Seymour), the stunning girl Axl was dating. He waited for a televised concert in Paris worldwide [to send a little message to Warren](https://www.youtube.com/watch?v=KR6KI0h1gbU), who peed like a girl after hearing the veiled threat and being branded a '* mother\*cker*'. Rock is rock, buddy. The most powerful thing there is.
+
+And for me, I don’t care about journalism, huh? There is a song in which two journalists are personally invited to '*Get in the ring*', he gives their names and those of the magazines that published shit about the group. Those are balls. [Here are the lyrics.](https://www.songstraducidas.com/letratraducida-Get_in_the_ring_4254.htm). And if you dare to hear it, [here](https://www.youtube.com/watch?v=8WnTWt_LsgM).
+
+This way you can practice English.
+
+Oh, Carlos.
+
+
+## 2014-03-25 From S. {-#toS20140325}
+
+2014-03-25
+
+Hello Carlitos,
+
+Here my thoughts reflected, they have occupied 3 sheets, I think that here it will be less. I am writing to you from my mother's house, I think I told you, but I have been living with L. for a while. We discussed the other day and well I suppose something went wrong, but it will be solved. It is being a strange year, "*too much changes*". I just try to make it as bearable as possible. I suppose it is a kind of crisis, everyone has their cycles. I am now under one of mine, and as people says out there, "*Crises bring out the best in oneself*", or so it seems. 
+
+Actually, I don't know where to start, I guess, in order, or rather wherever I can, so here I go. I went to live with L. shortly before mid-January, this I did tell you. The house belonged to my father, and it is, in P.^[A gipsy, conflictive neighborhood in a Spanish city.] So, suss the situation out. When we got there, I thought we were going to last two days. But with work, quite hard actually, it has been worth creating a home. It was not easy and now that I look back, I see that all the discussions and everything we have been through was the price to pay to be able to live together. 
+
+Everything is chaos, and when the easy part is supposed to come, this happens. I left because I simply reached my peak. Lack of trust, certain lies at bad moments, paying for something I did not do, or simply trying to carry all the weight, I do not know. But I do know that I was tired of expecting changes doing always the same. So, I decided to change the format, and I have taken this time for me to think, for us to think. So that despite everything, she realizes that she can count on me, And so she realizes that leaving home to think does not mean I have forgotten her. 
+
+I think I just hoped she would take what I said seriously. When I get back I will know. In part, leaving was also because of me, I needed to be alone, and I know that, even if I had tried to explain it, she simply would not understand it. I guess that some people need more time to understand each other. I think this is the way in which we both would better get out, before something really bad happens.
+
+I have been thinking about many things for a while and I have not even had time to meditate on them. I think that above all and what worries me most is my education in every way. After three years in university, I begin to see the differences in my education and the rest of the people around me. I decided, I decided to educate myself. I knew that it was not going to be easy, that it would be sacrificed. I knew that it was not the “*work + home*” happiness formula. Don't ask too much if you don't like hearing the answers. I studied what I studied because I wanted to know how the world worked, I bothered to do it, to learn. And now that I have learned, with each new thing I learn, I am more surprised by how things are. 
+
+I can see how rotten everything is, and all those great ideas that could work and that just won't work, just because there are not enough people willing to make it work or too many trying to make it not work. It's sad. I was interested in learning, and what did I get in return? Nothing. Sometimes, I can't even be calm with that buzzing in my ears, that buzz that is the set of all the people who take the easy path and they only know how to regret their own misery, while the world is like this, while nobody is doing anything for the change. The same buzz that joins together, all those people who say that “*Everything is fine*” while everything goes to hell and give you a pat on the back if you don't have enough of “something” to be able to continue with whatever you want. By the way, I still haven't decided which buzz is worse. Simply, two sides of the same coin. Maybe it's just that you live better in your comfort zone, worrying about what is for dinner tonight or how the soccer match ended up yesterday. But that's not my life, not the one I choose.
+
+Perhaps it is just that the principles by which I have been governed are no longer those that govern the world, and that birds born in cages believe that flying is a disease. I do not know. I look at all those people and few are worth it, who do you have? Who smiles at you and then stabs you? In the end, life is like a space rocket. You start with everything and when you arrive at your destination, you barely have a tenth of what you started with. Or maybe, it is just this city, I don't I know. 
+
+Despite all the chaos, I have a clear conscience. It is as if I know where I am going, although not very well how I am doing it. It is simply being at peace with oneself, I think. I go to bed with my day-to-day work on my back, and that's what counts when you go to bed, having the homework done. 
+
+I also like to think about the future, I like to think that I will continue with L.. That things between us will change for the better, that I will be surrounded by the people I love and that they will not abandon me, and that all those people who have occupied this letter, they just won't be, like the straw that is separated from the grain by the wind (very poetic). I think I will continue dancing and trying to stand out, to be able to do something related to what I have studied that can serve to help people. That is why, I partly asked L. to volunteer somewhere. I do not know. I suppose that everything will be clearer later. For now, I have a clean conscience and time to think. Two essential things since I have gotten to known myself. 
+
+I hope the letter works and it is what you asked me. I just gave you a little update of my thoughts. I know that I can count on you just as you can also count on me. You know that I am a loyal dude regarding friendship. Even if I am a little more absent lately. In general, you can count on me just as I count on you. I think this is it. Surely, I am forgetting something, but if there is more correspondence, I will keep updating you. 
+
+A hug and take care of yourself. 
+
+S.
+
+PS: sorry for the misprints. Hehe. And if there is any cohesion failure, etc. Also, writing was never very good for me.
+
+>*Man is mortal for his fears and immortal for his desires.*
+>
+>[Pythagoras](https://en.wikipedia.org/wiki/Pythagoras).^[S. referred like this in the original. He probably read it somewhere in the Internet in its Spanish translation: “*El hombre es moral por sus temores e inmortal por sus deseos.*” However, is is likely to be a misquote from [Seneca’s](https://en.wikipedia.org/wiki/Seneca_the_Younger): “*[You act like mortals in all that you fear and like immortals in all that you desire.]( https://medium.com/aryas-books/my-thoughts-on-on-the-shortness-of-life-by-seneca-faddc948956)*”[@seneca2004shortness]]
+
