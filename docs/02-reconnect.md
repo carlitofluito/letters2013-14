@@ -1416,5 +1416,44 @@ PS: sorry for the misprints. Hehe. And if there is any cohesion failure, etc. Al
 
 >*Man is mortal for his fears and immortal for his desires.*
 >
->[Pythagoras](https://en.wikipedia.org/wiki/Pythagoras).^[S. referred like this in the original. He probably read it somewhere in the Internet in its Spanish translation: “*El hombre es moral por sus temores e inmortal por sus deseos.*” However, is is likely to be a misquote from [Seneca’s](https://en.wikipedia.org/wiki/Seneca_the_Younger): “*[You act like mortals in all that you fear and like immortals in all that you desire.]( https://medium.com/aryas-books/my-thoughts-on-on-the-shortness-of-life-by-seneca-faddc948956)*”[@seneca2004shortness]]
+>[Pythagoras](https://en.wikipedia.org/wiki/Pythagoras).^[S. referred like this in the original. He probably read it somewhere in the Internet in its Spanish translation: “*El hombre es mortal por sus temores e inmortal por sus deseos.*” However, it is likely to be a misquote from [Seneca’s](https://en.wikipedia.org/wiki/Seneca_the_Younger): “*[You act like mortals in all that you fear and like immortals in all that you desire.]( https://medium.com/aryas-books/my-thoughts-on-on-the-shortness-of-life-by-seneca-faddc948956)*”[@seneca2004shortness]]
 
+
+## 2014-03-26 To L. {-#toL20140326}
+
+2014-03-26
+
+Hi L.,
+ 
+As I already told you, I can see a great improvement in your writing. You express your ideas better and more clearly and it is easy to appreciate the work and time you dedicate to them. Still, check and reread before sending them. Make sure everything is understandable to your reader. Calm down, there is no rush.
+ 
+First of all, I love that you are discovering yourself, that you love yourself and that you face the future in a positive and constructive way. Don't forget that you still have time to decide your life, but it is good that you have a great goal always in mind.
+ 
+I would write to you more broadly about what I think about education but now I am a little tired. I have been writing for over an hour and I just used WhatsApp to answer you and it has dried up my brain. I am becoming more and more aware of how the smartphone absorbs all my energy, and you know that I have a lot… Besides, I am not sure if I want to tell you my ideas about education because I don’t want to influence you. I don't want to alter your ideas, the ones that you can create by yourself, your own theories. I don't want to turn the genius-L. you have inside into a genius that fits my frame. By the way, I have just told you one of my ideas about education, and how learning things from others annihilates individual creativity and inhibits different interpretations and visions of reality. It is an idea full of controversy and nuances, since I recognize that science is built, and art is created. But, does knowledge ... expand? I do not know. Still, I have a lot to think about and work on. With more strength and encouragement, I will write something of higher quality that gathers various points of view but as an individual human being and with finite life, I do not have time to delve into everything I would like. Thus, I may have to sacrifice my ideas about the equation for the experts. Like you, or like my friend S.. S. is a Canarian scout, who on Erasmus in Germany this year. From my point of view, she is a very great potential writer. She is studying, pre-school education and also wants to do an educational theory. I think that getting in touch with each other can be a motivation for both of you. I am sure you can maintain an extremely fruitful correspondence. If you are interested, I have no problem putting you in contact with each other.
+ 
+The third paragraph of your letter is incredible. It is an outline of a mind full of ideas. A mind that beats, in which thoughts boil. A mind that I hope in the future will be elucidated and will be able to produce beautiful intellectual and/or artistic work of incomparable quality. In addition, I sense that you do not write to me, because you use the second person plural ("*excuse the audatcity*"), which makes me think that you no longer need me as a reader. On the contrary, I am a lousy writer, I need "*readers*" to accumulate enough motivation to sit down to write. Please, I ask you to continue working and developing those ideas, each and every one of them. Elucidating, shaping, looking for arguments, reinforcing, nuancing them. If you need "*readers*" to find motivation, you know I am here. But, personally, I would like much more if you shared your educational ideas with S., who could give them a very interesting and complementary critical, academic and professional view. Of course, you can invite her to share her thoughts with you and you can explain your point of view about her ideas. In this way, you can both improve and strengthen certain aspects of your affirmations.
+ 
+ 
+Your reader,
+ 
+Carlos
+ 
+Leuven March 26, 2014
+
+
+
+
+## 2014-03-28 To T. {-#toT20140328}
+
+2014-03-28
+
+T.
+
+What do we do with F.?
+
+I hope that everything goes well. If you do not answer my letter means that you are busy. Don't stress too much and enjoy your retirement. I read your entry from “*Swimming in the Shadows*”. Instructive, like all of them.
+
+Cheers
+
+
+## 2014-03-29 From T. {-#FromT20140329}
