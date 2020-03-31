@@ -1,5 +1,9 @@
 # The depths (October - December) {-#depths}
 
+```{r bike, fig.cap= "I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around However, things went differently... *Leuven (Belgium), 2014-10*", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2014/bike.jpg")
+```
+
 
 ## 2013-11-10. To T. {-#totomas20131110}
 
@@ -91,6 +95,10 @@ A hug.
 T.
 
 ---
+
+```{r room, fig.cap= "The room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug...  *Leuven (Belgium), 2014-10*", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2014/room.jpg")
+```
 
 T., 
 

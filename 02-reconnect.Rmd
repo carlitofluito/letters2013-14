@@ -1469,12 +1469,15 @@ Regarding F., what do you want me to say? I think you express it very well with 
 Well Carlos, I have to get back to homework. I think I will take the old laptop I have to Granada to check the mail, although I don't think it will take much time at all. Have a good weekend.
  
 Health, peace and happiness.
+
 T.
  
 --- 
 
  
 2014-03-29
+
+Greetings T.
 
 I will answer you more appropriately when I have time.
 
@@ -1485,5 +1488,8 @@ Let's hope that the experts from Granada will catch it on the fly. Still, read s
 As for F., faith, hope and Tao.
 
 Peace
+
+## 2014-03-31 To Al. {-#ToAl20140331}
+
 
 
