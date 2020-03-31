@@ -1,12 +1,20 @@
 # The depths (October - December) {-#depths}
 
+
 <div class="figure" style="text-align: center">
-<img src="images/2014/bike.jpg" alt="I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around However, things went differently... *Leuven (Belgium), 2014-10*" width="75%" />
-<p class="caption">(\#fig:bike)I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around However, things went differently... *Leuven (Belgium), 2014-10*</p>
+<img src="images/2014/room.jpg" alt="*Leuven (Belgium). October, 2013*: This is the very beggining of the story, the room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug." width="75%" />
+<p class="caption">(\#fig:room)*Leuven (Belgium). October, 2013*: This is the very beggining of the story, the room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug.</p>
 </div>
 
 
 ## 2013-11-10. To T. {-#totomas20131110}
+
+<div class="figure" style="text-align: center">
+<img src="images/2014/explorer.jpg" alt="*Leuven (Belgium), September, 2013*: The 24^th^. My 20^th^ birthday. I was exploring the center of the city, enjoying the free beers that one gets only by showing your ID and proving that it is your birthday. Fleeting happiness..." width="75%" />
+<p class="caption">(\#fig:explorer)*Leuven (Belgium), September, 2013*: The 24^th^. My 20^th^ birthday. I was exploring the center of the city, enjoying the free beers that one gets only by showing your ID and proving that it is your birthday. Fleeting happiness...</p>
+</div>
+
+Leuven, 11^th^ of October of 2013.
 
 Greetings T.,
 
@@ -22,9 +30,11 @@ Greetings and thanks,
 
 Carlos
 
+
+
 ---
 
-Leuven, 10th of November of 2013.
+Leuven, 10^th^ of November of 2013.
 
 Greetings T.,
  
@@ -98,8 +108,8 @@ T.
 ---
 
 <div class="figure" style="text-align: center">
-<img src="images/2014/room.jpg" alt="The room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug...  *Leuven (Belgium), 2014-10*" width="75%" />
-<p class="caption">(\#fig:room)The room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug...  *Leuven (Belgium), 2014-10*</p>
+<img src="images/2014/bike.jpg" alt="*Leuven (Belgium), October, 2013*: I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around. However, things went differently... " width="75%" />
+<p class="caption">(\#fig:bike)*Leuven (Belgium), October, 2013*: I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around. However, things went differently... </p>
 </div>
 
 T., 
@@ -169,6 +179,8 @@ I attach my answer. It provokes a very hopeful sensation the fact of communicati
 Greetings.
 
 ---
+
+
 
 Leuven, 14th of November of 2013
  
@@ -245,6 +257,11 @@ A warm hug.
  
 Carlos
 
+<div class="figure" style="text-align: center">
+<img src="images/2014/living.jpg" alt="*Valladolid (Spain), January, 2014*: The 6^th^. [The *Three Magic Kings* night](https://www.donquijote.org/spanish-culture/holidays/the-three-kings/). There were no gifts at my house that night, so I picked up several books around the house and place them on the living room." width="75%" />
+<p class="caption">(\#fig:living)*Valladolid (Spain), January, 2014*: The 6^th^. [The *Three Magic Kings* night](https://www.donquijote.org/spanish-culture/holidays/the-three-kings/). There were no gifts at my house that night, so I picked up several books around the house and place them on the living room.</p>
+</div>
+
 ## 2014-01-19 To T. {-#totomas20140119}
 
 Hello T.,
@@ -280,3 +297,9 @@ From 1 to 10, I will be in Morocco, so the letters and the project will be delay
 A huge, excited hug,
  
 Carlos
+
+
+<div class="figure" style="text-align: center">
+<img src="images/2014/smartphone.jpg" alt="*Brugges (Belgium), December, 2013*: Black Mirror's victim was about getting liberated." width="75%" />
+<p class="caption">(\#fig:smartphone)*Brugges (Belgium), December, 2013*: Black Mirror's victim was about getting liberated.</p>
+</div>
