@@ -1,7 +1,7 @@
 --- 
 title: "From my lovers and others. (Letters from 2013-2014)"
 author: "Carlos Alcala a.k.a. Carlito Fluito"
-date: "2020-03-29"
+date: "2020-03-31"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [bibliography.bib]
@@ -13,6 +13,11 @@ description: "This is a compendium of the letters written, sent and received bet
 
 # Preamble {-#preamble}
 
+<div class="figure" style="text-align: center">
+<img src="images/2014/train.jpg" alt="Narcisus drowning in a Belgian. *Leuven (Belgium), 2014-10*" width="75%" />
+<p class="caption">(\#fig:train)Narcisus drowning in a Belgian. *Leuven (Belgium), 2014-10*</p>
+</div>
+
 We are socially fragmented. 
 
 Memory, knowledge, lives, even identities. Everything is dispersed (another argument supporting the non-local consciousness theory). 
@@ -23,3 +28,8 @@ I hope you find something that makes your life more meaningful and satisfactory.
 ## A bit of context {-#context}
 
 In September 2013, I moved to Leuven (Belgium) to study my fourth and last year of Bachelor in Psychology. Many people warned me about the dangers of getting lost in the wild parties of the city, and how much a year as Erasmus student could teach me about the world. However, no one warned me about the perils I would encounter, or about how one given evening could actually change my whole life, being, and spirit… 
+
+<div class="figure" style="text-align: center">
+<img src="images/2014/library.jpg" alt="Before the course started, I went to Leuven to find a place to live during the year. Not only, I found the room, but also a nice bike that still waits for me when I go to Valladolid (Spain). This is the triumphant hunting picture with the prize. *Leuven (Belgium), 2014-07*" width="75%" />
+<p class="caption">(\#fig:library)Before the course started, I went to Leuven to find a place to live during the year. Not only, I found the room, but also a nice bike that still waits for me when I go to Valladolid (Spain). This is the triumphant hunting picture with the prize. *Leuven (Belgium), 2014-07*</p>
+</div>

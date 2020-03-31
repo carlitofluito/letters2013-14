@@ -1,5 +1,10 @@
 # The depths (October - December) {-#depths}
 
+<div class="figure" style="text-align: center">
+<img src="images/2014/bike.jpg" alt="I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around However, things went differently... *Leuven (Belgium), 2014-10*" width="75%" />
+<p class="caption">(\#fig:bike)I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around However, things went differently... *Leuven (Belgium), 2014-10*</p>
+</div>
+
 
 ## 2013-11-10. To T. {-#totomas20131110}
 
@@ -91,6 +96,11 @@ A hug.
 T.
 
 ---
+
+<div class="figure" style="text-align: center">
+<img src="images/2014/room.jpg" alt="The room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug...  *Leuven (Belgium), 2014-10*" width="75%" />
+<p class="caption">(\#fig:room)The room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug...  *Leuven (Belgium), 2014-10*</p>
+</div>
 
 T., 
 
