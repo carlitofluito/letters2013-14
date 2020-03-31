@@ -1,6 +1,6 @@
 --- 
 title: "From my lovers and others. (Letters from 2013-2014)"
-author: "Carlos Alcala a.k.a. Carlito Fluito"
+author: "Carlos Alcala a.k.a. [Carlito Fluito](www.carlitofluitoideas.com)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
