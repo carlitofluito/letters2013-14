@@ -13,11 +13,6 @@ description: "This is a compendium of the letters written, sent and received bet
 
 # Preamble {-#preamble}
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/train.jpg" alt="*Somewhere in Belgium. October, 2013*: Narcisus drowning in the train window." width="75%" />
-<p class="caption">(\#fig:train)*Somewhere in Belgium. October, 2013*: Narcisus drowning in the train window.</p>
-</div>
-
 We are socially fragmented. 
 
 Memory, knowledge, lives, even identities. Everything is dispersed (another argument supporting the non-local consciousness theory). 
