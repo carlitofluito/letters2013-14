@@ -286,9 +286,11 @@ Hello Carlos,
 I'm going to tell you a story. Since years I've been chasing a discontinued book from [Julio Llamazares](https://en.wikipedia.org/wiki/Julio_Llamazares). He started writing poetry. He dried up. He made novel. He has not republished it for the respect it deserves. No verses come out. I had a photocopy of “*The slowness of the oxen*” [@llamazares1985lentitud] and I was waiting to find it one way or another. [*Iberlibro*]( https://www.iberlibro.com/) has brought me closer to no less than the 1975 original edition. Write that one down in favor of suicide technology.
 
 By the way, I acquired the first reissue, from 1985 in [“*Hiperión*”]( https://www.hiperion.com/), which was also there. A certain José González, allegedly in love with a certain Sara, bought it on [Gran Vía]( https://en.wikipedia.org/wiki/Gran_V%C3%ADa,_Madrid) and gave it to her, surely wanting to tell her through those poisonous pages so many things. He dated it as “*7-X-85*” with the decryption '*opos-agricultural'85-*'. Maybe she had abandoned him.
+
 ```{r notas, fig.cap= "*Valladolid (Spain). September, 2013*: The book F. was referring to.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2013/notas.jpg")
 ```
+
 "*The mirrors don't know how to lie anymore*,"^[*Los espejos no saben mentir*] says a song by [Diego Vasallo](https://es.wikipedia.org/wiki/Diego_Vasallo). Judged by the absolutely flawless condition, better than most of newly released books and bought in bookstores, she didn’t even open it. Probably, she must have moved out from her place, why not because of the crisis, to a smaller flat, maybe after a separation, and she would do away with part of her library.
 
 Ellipsis.
@@ -296,17 +298,17 @@ Ellipsis.
 Good luck in your days before the start of Europe.
 
 ```{r poemas, fig.cap= "*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
-knitr::include_graphics("images/2013/notas.jpg")
+knitr::include_graphics("images/2013/poemas.jpg")
 ```
 
 ----- 
-Incredible F., the life of books ...
+Incredible F., the life of books...
 
 And how they know how to walk their own path, remember that you are not the final destination of that book, only a key piece in its progression. :-)
 
 Who has found whom?
 
-I am reading [*100 years of solitude*](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude). Left half finished years ago ... Mastery. I think that the first chapter is quite anti-science, but we will have to wait for him to define his position, if that is what he will do.
+I am reading [*100 years of solitude*](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude). Left half finished years ago... Mastery. I think that the first chapter is quite anti-science, but we will have to wait for him to define his position, if that is what he will do.
 
 Greetings and enjoy your long-awaited and deserved treasure.
 
@@ -314,13 +316,13 @@ I have to make blog posts and, even more than illicit, I will occasionally ask y
  
 >  *And in the memory is the origin of self-destruction*^[*Y en el recuredo está el origen de la autodestrucción*]
 
-Wow…
+Wow...
 
 > *Instead, memories, mirages of fear, are sweet to the tongue, but gnaw the heart like vermin.*^[ *En cambio, los recuerdos, espejismos del miedo, son dulces a la lengua, pero roen el corazón cómo alimañas.*]
 >
 > @llamazares1985lentitud
 
-Pffff ... And I was thinking of imperfect past tenses... Even worse, subjunctive ...
+Pffff... And I was thinking of imperfect past tenses... Even worse, subjunctive...
 
 Carlos
 
