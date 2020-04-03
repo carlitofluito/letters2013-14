@@ -6,6 +6,8 @@ They may not be so relevant nowadays, but I still think that it adds some layer 
 
 ## 2013-09-04 From and to F. {-#fromtoF20130904}
 
+Little fagot things...
+
 [Russian athletes](https://en.wikipedia.org/wiki/Kseniya_Ryzhova#2013_Moscow_kiss) first, [now](http://www.elmundo.es/elmundo/2013/09/03/gentes/1378227703.html) [Delon](https://en.wikipedia.org/wiki/Alain_Delon). France and Russia are resisting They believed in the Revolution, which is a serious thing, and that is why he faces these little fagot things. Let's see if we lose the fear of what correctness. If homosexuals want to exist, they exist, what are they going to do. But do not tell us that it’s normal. The most extended neither, of course not. And in favor of nature, of course neither do they go.
 
 F.
@@ -86,7 +88,7 @@ Forceful low hitting… I guess that you’ll have an unfinished and unfinishabl
 
 Still, it may be that current times are not the right path, but the past wasn't either.
 
-Think of Tomás's father. Let’s believe (1^st^ plural from of the imperative of believe, not recognized in the [RSA]( https://en.wikipedia.org/wiki/Royal_Spanish_Academy) dictionary^[Spanish nuance: *Creamos* can be the imperative from of *creer* [Let’s believe] or present of *crear* [We create] ]) in opportunities. (Goody-goody striking back...)
+Think of T.'s father. Let’s believe (1^st^ plural from of the imperative of believe, not recognized in the [RSA]( https://en.wikipedia.org/wiki/Royal_Spanish_Academy) dictionary^[Spanish nuance: *Creamos* can be the imperative form of *creer* [Let’s believe] or present of *crear* [We create] ]) in opportunities. (Goody-goody striking back...)
 
 ----
 
@@ -149,7 +151,7 @@ Carlos
 >
 > without counting the kisses.
 
-[Original: 
+Original: 
 
 >Llego tarde a mi nombre
 >
@@ -193,23 +195,23 @@ Carlos
 >
 >[@miralpeix2005cuerpo]
 
-]
+
 
 
 ----- 
+
 Carlos, 
 
 Frankly good. It reminds me, based on my readings, aspects admired in [Felix Grande]( https://es.wikipedia.org/wiki/F%C3%A9lix_Grande) and [Caballero Bonald]( https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Caballero). Frankly good. Just the title -or first verse- is already worth the poem.
 
 F. 
+
 ------   
 
 
 Hi F. 
 
 [Page 35](http://www.ccoo.cat/barcelones/documentacio/pdf_diversos/llibre_premi_Valverde_2011.pdf)
-
-Page 35
 
 The poem chose me, it was the day, the place, and the moment ... You know that I only detect and sense ;)
 
@@ -270,6 +272,7 @@ Original
 >
 >principio de su fin, vedado al día.
 >
+>
 > @hernandez1976perito
 
 
@@ -284,7 +287,7 @@ I'm going to tell you a story. Since years I've been chasing a discontinued book
 
 By the way, I acquired the first reissue, from 1985 in [“*Hiperión*”]( https://www.hiperion.com/), which was also there. A certain José González, allegedly in love with a certain Sara, bought it on [Gran Vía]( https://en.wikipedia.org/wiki/Gran_V%C3%ADa,_Madrid) and gave it to her, surely wanting to tell her through those poisonous pages so many things. He dated it as “*7-X-85*” with the decryption '*opos-agricultural'85-*'. Maybe she had abandoned him.
 <div class="figure" style="text-align: center">
-<img src="images/2014/notas.jpg" alt="*Valladolid (Spain). September, 2013*: The book F. was referring to." width="75%" />
+<img src="images/2013/notas.jpg" alt="*Valladolid (Spain). September, 2013*: The book F. was referring to." width="75%" />
 <p class="caption">(\#fig:notas)*Valladolid (Spain). September, 2013*: The book F. was referring to.</p>
 </div>
 "*The mirrors don't know how to lie anymore*,"^[*Los espejos no saben mentir*] says a song by [Diego Vasallo](https://es.wikipedia.org/wiki/Diego_Vasallo). Judged by the absolutely flawless condition, better than most of newly released books and bought in bookstores, she didn’t even open it. Probably, she must have moved out from her place, why not because of the crisis, to a smaller flat, maybe after a separation, and she would do away with part of her library.
@@ -294,7 +297,7 @@ Ellipsis.
 Good luck in your days before the start of Europe.
 
 <div class="figure" style="text-align: center">
-<img src="images/2014/notas.jpg" alt="*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation." width="75%" />
+<img src="images/2013/notas.jpg" alt="*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation." width="75%" />
 <p class="caption">(\#fig:poemas)*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation.</p>
 </div>
 
@@ -305,7 +308,7 @@ And how they know how to walk their own path, remember that you are not the fina
 
 Who has found whom?
 
-I am reading [*100 years of solitude*[(https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude). Left half finished years ago ... Mastery. I think that the first chapter is quite anti-science, but we will have to wait for him to define his position, if that is what he will do.
+I am reading [*100 years of solitude*](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude). Left half finished years ago ... Mastery. I think that the first chapter is quite anti-science, but we will have to wait for him to define his position, if that is what he will do.
 
 Greetings and enjoy your long-awaited and deserved treasure.
 
@@ -316,6 +319,7 @@ I have to make blog posts and, even more than illicit, I will occasionally ask y
 Wow…
 
 > *Instead, memories, mirages of fear, are sweet to the tongue, but gnaw the heart like vermin.*^[ *En cambio, los recuerdos, espejismos del miedo, son dulces a la lengua, pero roen el corazón cómo alimañas.*]
+>
 > @llamazares1985lentitud
 
 Pffff ... And I was thinking of imperfect past tenses... Even worse, subjunctive ...
