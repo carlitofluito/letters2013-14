@@ -1,3 +1,334 @@
+# Arrival (September) {-#arrival}
+
+These are mostly a compilation of the entries of the first (traveling) blog I made, [*Excusas para no Volver*](http://excusasparanovolver.blogspot.com/)^[*Excuses for not coming back*. Not coming back to my home country? Not coming back to the visited country? ]. I hadn’t started writing letters yet, just some spare emails that reflected of my situation. I used to do some online courses; exchange information and links with my friends T. (a philosopher), and F. (a poet); and all those things last year weird university students do. 
+
+They may not be so relevant nowadays, but I still think that it adds some layer of clarity over the person that I used to be. 
+
+## 2013-09-04 From and to F. {-#fromtoF20130904}
+
+[Russian athletes](https://en.wikipedia.org/wiki/Kseniya_Ryzhova#2013_Moscow_kiss) first, [now](http://www.elmundo.es/elmundo/2013/09/03/gentes/1378227703.html) [Delon](https://en.wikipedia.org/wiki/Alain_Delon). France and Russia are resisting They believed in the Revolution, which is a serious thing, and that is why he faces these little fagot things. Let's see if we lose the fear of what correctness. If homosexuals want to exist, they exist, what are they going to do. But do not tell us that it’s normal. The most extended neither, of course not. And in favor of nature, of course neither do they go.
+
+F.
+
+----
+
+
+Cats didn't purr? I only see scratches and bites around here ...
+
+F., analysis, analysis!!!!
+
+I will only make statements:
+
+1. Origin of homosexuality. Mainly, it is believed to have a [genetic origin]( https://en.wikipedia.org/wiki/Homosexuality#Causes). Then it is no longer so against nature, since it’s nature that creates it spontaneously. In fact, in [other species there is homosexuality](https://en.wikipedia.org/wiki/Homosexuality#Homosexual_behavior_in_other_animals), but only in the human species is [homophobia]( https://en.wikipedia.org/wiki/Homophobia).
+
+2. While it is true that it is not something that brings new offspring to the species, as human beings, they must be respected, and offensive comments such as "unnatural" is not respect. Furthermore, the bad thing about these comments is not the words, but the attitudes and the possible consequences and repercussions that these may have in this social sector.
+
+3. The creation of a [law against homosexual propaganda](https://en.wikipedia.org/wiki/Russian_gay_propaganda_law) is a restriction of a right and freedom that is not harmful to the population, and that causes negative discrimination in these citizens.
+
+4. Although it is not the "normal" or the most widespread tendency, homosexuals are human beings in the same way as the others, and they must be treated as such. I know many homosexuals who are beautiful people, and they have taught me to love (love is a very big word, you know) men more even than women, but in a different ways.
+
+And as a typical and topical example, [homosexuality practiced by the Greeks of Classical Greece]( https://en.wikipedia.org/wiki/Homosexuality#Classical_period), the cradle of some of the greatest thinkers in the West.
+
+
+F., do not take the email as an attack on your ideas, I like that you share this information with me, because they connect me with a reality and a society with which I often disconnect. But what I am going to like the most is what T. will answer, and the probable article in [Último Cero](http://ultimocero.com/) that he is going to write.
+ 
+With love from man to man,
+
+Carlos, The goody-goody.
+
+----
+
+Carlos, 
+
+1. Nature also creates cancers.
+
+2. Everyone must be respected. Against nature is equivalent to say that it is not in favor of sustaining the world, it is not in favor of evolution, of conception. Let's take a radical example: tomorrow we all become homosexual. The Earth, after a few years, as long as science doesn't give up creating little children out of nothing, would become extinct. But they are few and we can continue to manage.
+
+3. I notice a gay fashion. I'm not uncomfortable with others taking out a banner against it. I enjoy.
+
+4. I also know excellent homosexuals.
+
+5. Homosexuality in Greece was above all vice, pleasure, sex, desire. Here, it is presented equated to heterosexuality.
+
+Howls.
+
+----
+
+C., with whom in the end you are going to have a lot in common, uses a term that we make us laugh. "*Tree*", he calls a large number of people: *trees*. People without curiosity, with little motivation. Trees like to take root. You water them from time to time, they get the sun, they do photosynthesis and they live so happy wherever you plant them.
+
+He believes that the danger is in the trees, and not in technology or science. It is the trees that are dangerous, those that can misinterpret ideas, and unleash terrible acts. I do not believe in goody-goody philosophies, because I know the enormous human stupidity. That is the real danger of radical and extremist ideas, and more so when they go against a sector of the population.
+
+I am not so scared or too disturbed about educated people with the capacity to defend ideas I don’t share about homosexuality, politics, etc.. It disturbs me more how trees can interpret these ideas. Worst of all, trees here are not fixed to the ground by roots. Their branches have access to a technology that can be very harmful ...
+
+Purrs 
+
+PS: I have [*Old Possum's Book of Practical Cats*](https://en.wikipedia.org/wiki/Old_Possum%27s_Book_of_Practical_Cats) at home [@eliot2014old]. I bought it in London last year. You live less than two minutes distance by bike, and 5 walking. Don’t force me to bring it to you. 
+
+---
+
+> I begin this review with the famous, and polemical, declaration by T. S. Eliot. Although it is only some sixty-seven years since he published, in 1948, his essay Notes Towards the Definition of Culture, when we reread it today, it seems to refer to a very remote era, without any connection to the present.
+>
+>T. S. Eliot assures us that his aim is merely to help define the concept of culture, but, in fact, his ambition is much greater, for, as well as specifying what the term means, he offers a penetrating criticism of the cultural system of his time, which, according to him, is becoming ever more distant from the ideal model that it represented in the past. In a sentence that might have appeared excessive at the time of writing, he argues, ‘I see no reason why the decay of culture should not proceed much further, and why we may not even anticipate a period, of some duration, of which it will be possible to say that it will have no culture.’1 (Anticipating my argument in Notes on the Death of Culture, I will say that the period Eliot is referring to is the one in which we are now living.)
+>
+>That ideal older model, according to Eliot, is a culture made up of three ‘senses’ of the term: the individual, the group or class, and the whole society. While there is some interaction between these three areas, each maintains a certain autonomy and develops in a state of constant tension with the others, within an order that allows the whole of society to prosper and maintain its cohesiveness.
+>
+>T. S. Eliot states that what he calls ‘higher culture’ is the domain of an elite, and he justifies this by asserting that ‘it is an essential condition of the preservation of the quality of the culture of a minority, that it should continue to be a minority culture’ (p. 107). Like the elite, social class is also a reality that must be maintained, because the caste or group that guarantees higher culture is drawn from these ranks, an elite that should not be completely identified with the privileged group or aristocracy from which most of its members are drawn. Each class has the culture that it produces and that is appropriate to it and although, naturally, these cultures coexist, there are also marked differences that have to do with the economic conditions of each. One cannot conceive of an identical aristocratic and rural culture, for example, even though both classes share many things, such as religion and language.
+>
+>Eliot’s idea of class is not rigid or impermeable; rather it is open. A person from one class can move up or down a class, and it is good that this happens, even though it is an exception rather than the rule. This system both guarantees and expresses a social order, but today this order is fractured, which creates uncertainty about the future. The naive idea that, through education, one can transmit culture to all of society is destroying ‘higher culture’, because the only way of achieving this universal democratization of culture is by impoverishing culture, making it ever more superficial. Just as the elite is indispensable to Eliot’s conception of ‘higher culture’, so also it is fundamental that a society has regional cultures that both nurture national culture and also exist in their own right with a certain degree of independence. ‘It is important that a man should feel himself to be not merely a citizen of a particular nation, but a citizen of a particular part of his country, with local loyalties. These, like loyalty to class, arise out of loyalty to the family’ (p. 52).
+
+---
+
+*Notes on the Death of Culture* – Vargas LLosa [@llosa2015notes]
+
+Noted. 
+
+Forceful low hitting… I guess that you’ll have an unfinished and unfinishable list. 
+
+Still, it may be that current times are not the right path, but the past wasn't either.
+
+Think of Tomás's father. Let’s believe (1^st^ plural from of the imperative of believe, not recognized in the [RSA]( https://en.wikipedia.org/wiki/Royal_Spanish_Academy) dictionary^[Spanish nuance: *Creamos* can be the imperative from of *creer* [Let’s believe] or present of *crear* [We create] ]) in opportunities. (Goody-goody striking back...)
+
+----
+
+You have protection, so hits don't hurt. Well seen the title. A title that I have praised as much as criticized. I retire with the angels, who will not visit me tonight.
+
+---
+
+Good evening, and do not underestimate the help of Google (internet, science, technology, society, collaboration, cooperation, community, trees that write empty things in blogs ...), nor overestimate my ability.
+
+I will give your address to the angels, to see if in this way...
+
+## 2013-09-08 To and from F {-#toF20130908}
+
+
+Hi F. 
+
+I think I sent it in your period of not responding emails. Let me know what you think about it. 
+
+Salud,
+
+Carlos
+
+> I'm late for my name
+>
+> next to your name
+>
+> and to the perfect silence of all gazes,
+>
+> to the tireless night of adolescents.
+>
+> I'm late for your dance
+>
+> with bare legs,
+>
+> to the fragile memory of small events,
+>
+> to all the words you left in my belly.
+>
+> I'm late for your face
+>
+> so shy and perfect
+>
+> and to the infinite beach with your body stretched out.
+>
+> I'm late for the space
+>
+> that was waiting in your bed,
+>
+> to the kiss on the cheek
+>
+> with sleeping eyes,
+>
+> to my hand in your winter.
+>
+> I'm late to write you
+>
+> and love you slowly,
+>
+> without doubts and without temples,
+>
+> without counting the kisses.
+
+[Original: 
+
+>Llego tarde a mi nombre
+>
+>al lado de tu nombre
+>
+>y al silencio perfecto de todas las miradas,
+>
+>a la noche incansable de los adolescentes.
+>
+>Llego tarde a tu baile
+>
+>con las piernas desnudas,
+>
+>a la memoria frágil de los hechos pequeños,
+>
+>a todas las palabras que dejaste en mi vientre.
+>
+>Llego tarde a tu rostro
+>
+>tan tímido y perfecto
+>
+>y a la playa infinita con tu cuerpo tendido.
+>
+>Llego tarde al espacio
+>
+>que esperaba en tu cama,
+>
+>al beso en la mejilla
+>
+>con los ojos dormidos,
+>
+>a mi mano en tu invierno.
+>
+>Llego tarde a escribirte
+>
+>y a quererte despacio,
+>
+>sin dudas y sin templos,
+>
+>sin contarnos los besos.
+>
+>[@miralpeix2005cuerpo]
+
+]
+
+
+----- 
+Carlos, 
+
+Frankly good. It reminds me, based on my readings, aspects admired in [Felix Grande]( https://es.wikipedia.org/wiki/F%C3%A9lix_Grande) and [Caballero Bonald]( https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Caballero). Frankly good. Just the title -or first verse- is already worth the poem.
+
+F. 
+------   
+
+
+Hi F. 
+
+[Page 35](http://www.ccoo.cat/barcelones/documentacio/pdf_diversos/llibre_premi_Valverde_2011.pdf)
+
+Page 35
+
+The poem chose me, it was the day, the place, and the moment ... You know that I only detect and sense ;)
+
+Enjoy the second prize.
+
+Carlos
+
+
+
+
+## 2013-09-09 Light subterfuges^[First entry of [*Excusas para no volver*](https://excusasparanovolver.blogspot.com/2013/09/subterfugios-de-luz.html), my first travelling blog.] {-#Excusas20130909}
+
+Surprisingly, [Ryanair](https://en.wikipedia.org/wiki/Ryanair) has arrived 35 minutes early. [Madrid](https://en.wikipedia.org/wiki/Madrid)-[Charleroi](https://en.wikipedia.org/wiki/Charleroi), (1,500 km.) From 6.30 to 8.30. Low-Cost begins its economization with our most vital and valuable resource. There are no limits to savings. If the delays are cumulative, the advances as well. Dozens of passengers may have missed the flight today because the plane was taking off too soon. In sports competitions, it’s advisable to keep the advantage. At 18:00 a plane with more than 9,000 kilometers in less than 12 hours begins to arrive late. The rush produces stumbles. Passengers, queues and impatience. Every river returns to its channel.
+
+The cheapest way to get to Brussels from Charleroi (let no one fool you) is to take the buses from the Walloon area of Belgium, the [TEC company](https://www.infotec.be/) to Charleroi Sud Gare. The buses are at the end of the terminal, you should not leave the terminal directly, but walk towards the end and there we find the vending machines. 5€ per person [CHARLEROI Brussel South Charleroi Airport GOSSELIES (HAINAUT) - CHARLEROI Sud Gare SNCB CHARLEROI (HAINAUT)]. Later, at the South Station, if we are students under 26, we will buy a [GoPass (50€ for 10 trips) and if we are over 26 a RailPass (a bit more than 70€ for 10 trips)]( https://www.belgiantrain.be/en) This way we will get to Brussels for 10€ or 12€ depending on our age. Exquisite punctuality. At the airport we will find taxi drivers who offer the Charleroi-Brussels trip for 13€. A small price difference saves time. To the taste of the consumer.
+
+The customer service of the Belgian train service officials is excellent. Many speak Spanish, in addition to English, French and Dutch (depending on the area); and they have no problem in providing you with a sheet of paper with the itinerary you have to follow to reach your destination. In our case, [Leuven]( https://en.wikipedia.org/wiki/Leuven).
+
+Once in Leuven, we have been surprised by blocked streets and a slight buzz of partying. Arriving at [Grote Markt](https://en.wikipedia.org/wiki/Grote_Markt_(Leuven)) from the train station, along the Bondgenotenlaan (Avenue of the Allies), we find a picturesque scene. A bunch of Belgians, some of them independentists and a kind of parade starting at the town hall (Grote Markt). After having toured the city, a group of international students have come to Sint-Donatuspark to see a firework show. Just something to talk about. Forced introductions that will end in eternal farewells. I do not know the reasons for both, the congregation in Grote Markt and the fires in the park. I should continue investigating. I will not comment on the quality of the show, my Valencian friends would get angry.
+
+I prefer symbolism.
+
+The sky, black, burning and bleeding. No recoils are conceived; now they are tears. Artificial light that forcing the frowning. My face hurts. Squeaking in the calm of nature. That dark peace. Loud applause after twenty minutes of firecrackers. As a way of inauguration of my new life in this country, Belgium. Of my new life in this city, Leuven.
+
+Now a real poem.
+
+>Light subterfuges, lizards, list
+>
+>on top of the palm that creates it,
+>
+>invention of colors in sight,
+>
+>if transitory, blue, piraeus.
+>
+>To the greater glory of the powdermaker,
+>
+>straight the cane, circles plans:
+>
+>a whole fleeting course of geometry,
+>
+>beginning of its end, closed to the day.
+
+Original 
+
+>Subterfugios de luz, lagartos, lista
+>
+>encima de la palma que la crea,
+>
+>invención de colores a la vista,
+>
+>si transitoria, de azul, pirea.
+>
+>A la gloria mayor del polvorista,
+>
+>rectas la caña, círculos planea:
+>
+>todo un curso fugaz de geometría,
+>
+>principio de su fin, vedado al día.
+>
+> @hernandez1976perito
+
+
+
+
+
+## 2013-09-11 To and from F {-#toF20130911}
+
+Hello Carlos, 
+
+I'm going to tell you a story. Since years I've been chasing a discontinued book from [Julio Llamazares](https://en.wikipedia.org/wiki/Julio_Llamazares). He started writing poetry. He dried up. He made novel. He has not republished it for the respect it deserves. No verses come out. I had a photocopy of “*The slowness of the oxen*” [@llamazares1985lentitud] and I was waiting to find it one way or another. [*Iberlibro*]( https://www.iberlibro.com/) has brought me closer to no less than the 1975 original edition. Write that one down in favor of suicide technology.
+
+By the way, I acquired the first reissue, from 1985 in [“*Hiperión*”]( https://www.hiperion.com/), which was also there. A certain José González, allegedly in love with a certain Sara, bought it on [Gran Vía]( https://en.wikipedia.org/wiki/Gran_V%C3%ADa,_Madrid) and gave it to her, surely wanting to tell her through those poisonous pages so many things. He dated it as “*7-X-85*” with the decryption '*opos-agricultural'85-*'. Maybe she had abandoned him.
+<div class="figure" style="text-align: center">
+<img src="images/2014/notas.jpg" alt="*Valladolid (Spain). September, 2013*: The book F. was referring to." width="75%" />
+<p class="caption">(\#fig:notas)*Valladolid (Spain). September, 2013*: The book F. was referring to.</p>
+</div>
+"*The mirrors don't know how to lie anymore*,"^[*Los espejos no saben mentir*] says a song by [Diego Vasallo](https://es.wikipedia.org/wiki/Diego_Vasallo). Judged by the absolutely flawless condition, better than most of newly released books and bought in bookstores, she didn’t even open it. Probably, she must have moved out from her place, why not because of the crisis, to a smaller flat, maybe after a separation, and she would do away with part of her library.
+
+Ellipsis.
+
+Good luck in your days before the start of Europe.
+
+<div class="figure" style="text-align: center">
+<img src="images/2014/notas.jpg" alt="*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation." width="75%" />
+<p class="caption">(\#fig:poemas)*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation.</p>
+</div>
+
+----- 
+Incredible F., the life of books ...
+
+And how they know how to walk their own path, remember that you are not the final destination of that book, only a key piece in its progression. :-)
+
+Who has found whom?
+
+I am reading [*100 years of solitude*[(https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude). Left half finished years ago ... Mastery. I think that the first chapter is quite anti-science, but we will have to wait for him to define his position, if that is what he will do.
+
+Greetings and enjoy your long-awaited and deserved treasure.
+
+I have to make blog posts and, even more than illicit, I will occasionally ask you for information from your huge artistic and literary culture.
+ 
+>  *And in the memory is the origin of self-destruction*^[*Y en el recuredo está el origen de la autodestrucción*]
+
+Wow…
+
+> *Instead, memories, mirages of fear, are sweet to the tongue, but gnaw the heart like vermin.*^[ *En cambio, los recuerdos, espejismos del miedo, son dulces a la lengua, pero roen el corazón cómo alimañas.*]
+> @llamazares1985lentitud
+
+Pffff ... And I was thinking of imperfect past tenses... Even worse, subjunctive ...
+
+Carlos
+
+PS: What is said is debt^[In reference of one of our face to face meetings]. [Why beauty matters](https://en.wikipedia.org/wiki/Why_Beauty_Matters)
+
+
+
+
+
+
 # The depths (October - December) {-#depths}
 
 
@@ -7,7 +338,7 @@
 </div>
 
 
-## 2013-11-10. To T. {-#totomas20131110}
+## 2013-11-10. To T. {-#tot20131110}
 
 <div class="figure" style="text-align: center">
 <img src="images/2014/explorer.jpg" alt="*Leuven (Belgium), September, 2013*: The 24^th^. My 20^th^ birthday. I was exploring the center of the city, enjoying the free beers that one gets only by showing your ID and proving that it is your birthday. Fleeting happiness..." width="75%" />
