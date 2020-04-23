@@ -305,6 +305,7 @@ Good luck in your days before the start of Europe.
 </div>
 
 ----- 
+
 Incredible F., the life of books...
 
 And how they know how to walk their own path, remember that you are not the final destination of that book, only a key piece in its progression. :-)
@@ -384,7 +385,6 @@ The game is over
 We all run for the afternoon snack
 
 Winning doesn't matter anymore
-
 <br/><br/>
 
 It is not for the time, nor for the hunger
@@ -393,7 +393,6 @@ Mom rules
 
 You obey
 <br/><br/>
-
 
 They taught you how to behave
 
@@ -406,7 +405,6 @@ They remind you every birthday
 With amazement
 
 Until it's rude
-
 <br/><br/>
 
 Only the poor eat bread in that way
@@ -416,9 +414,7 @@ With pleasure
 Every bite is new
 
 is life
-
 <br/><br/>
-
 
 Now you travel by train
 
@@ -433,7 +429,6 @@ Where smiles are the (only) most precious asset
 In India they ride on the roof of the wagon
 <br/><br/>
 
-
 Mom rules
 
 You obey
@@ -446,12 +441,12 @@ You always learn something new
 Where is the school
 
 When you look out the window at the PE class
-
 <br/><br/>
 
 Life is going on as normally as ever
 
 ----
+
 Carlos, 
 
 When you email me at three in the afternoon, something will go wrong. "*Reality dwells behind your gaze.*"
@@ -475,9 +470,7 @@ Lo lejos que pudiste estar
 Lo equivocado que siempre estuviste
 
 Hay cosas que no cambian
-
 <br/><br/>
-
 
 La realidad habita tras tu mirada
 
@@ -490,7 +483,6 @@ El juego se ha acabado
 Todos corremos a por la merienda
 
 Ya no importa ganar
-
 <br/><br/>
 
 No es ni por la hora, ni por el hambre
@@ -498,7 +490,6 @@ No es ni por la hora, ni por el hambre
 Mamá manda
 
 Tú obedece
-
 <br/><br/>
 
 Te enseñaron a comportarte
@@ -514,7 +505,6 @@ Con asombro
 Hasta que es descortés
 <br/><br/>
 
-
 Solo los pobres comen pan de esa manera
 
 Con placer
@@ -522,8 +512,6 @@ Con placer
 Cada bocado es nuevo 
 
 es vida
-
-
 <br/><br/>
 
 Ahora viajas en tren
@@ -537,7 +525,6 @@ Hacerse el sueco es válido en Haití
 Donde las sonrisas son el (único) bien más preciado 
 
 En India viajan en el techo del vagón
-
 <br/><br/>
 
 Mamá manda
@@ -547,13 +534,11 @@ Tú obedece
 Sonríes
 
 Siempre aprendes algo nuevo
-
 <br/><br/>
 
 Donde queda el colegio
 
 Cuando miras por la ventana la clase de educación física
-
 <br/><br/>
 
 Life is going on as normally as ever
@@ -579,15 +564,12 @@ they like the company
 for a while
 <br/><br/>
 
-
 they sleep during the day
 
 to make night escapes
 <br/><br/>
 
-
 they enjoy themselves
-
 <br/><br/>
 
 they look for themselves
@@ -597,7 +579,6 @@ and since nothing they find
 they come back with their tails upright
 
 proud of themselves
-
 <br/><br/>
 
 the rest is for dogs
@@ -616,17 +597,14 @@ algunos van en bicicleta
 les gusta la compañia
 
 un rato
-
 <br/><br/>
 
 duermen por el día 
 
 para hacer escapadas nocturnas
-
 <br/><br/>
 
 they enjoy themselves
-
 <br/><br/>
 
 se buscan
@@ -637,7 +615,6 @@ vuelven con el rabo erguido
 
 proud of themselves
 <br/><br/>
-
 
 lo demás es para perros
 
