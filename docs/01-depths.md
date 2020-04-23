@@ -2,7 +2,7 @@
 
 These are mostly a compilation of the entries of the first (traveling) blog I made, [*Excusas para no Volver*](http://excusasparanovolver.blogspot.com/)^[*Excuses for not coming back*. Not coming back to my home country? Not coming back to the visited country? ]. I hadn’t started writing letters yet, just some spare emails that reflected of my situation. I used to do some online courses; exchange information and links with my friends T. (a philosopher), and F. (a poet); and all those things last year weird university students do. 
 
-They may not be so relevant nowadays, but I still think that it adds some layer of clarity over the person that I used to be. 
+They may not be so relevant nowadays, but I still think that it adds some layer of clarity over the person that I used to be and my evolution as a writer. 
 
 ## 2013-09-04 From and to F. {-#fromtoF20130904}
 
@@ -279,6 +279,7 @@ Original
 
 
 
+
 ## 2013-09-11 To and from F {-#toF20130911}
 
 Hello Carlos, 
@@ -329,6 +330,315 @@ Pffff... And I was thinking of imperfect past tenses... Even worse, subjunctive.
 Carlos
 
 PS: What is said is debt^[In reference of one of our face to face meetings]. [Why beauty matters](https://en.wikipedia.org/wiki/Why_Beauty_Matters)
+
+
+
+## 2013-09-16 Buddies program 2013 {-#Excusas20130916}^[Entry of [*Excusas para no volver*](https://excusasparanovolver.blogspot.com/2013/09/buddies-program-2013.html). I remember that I spend the evening with a group of internationals that spoke English in a way that I barely followed the topic of the conversation. I survided, though.]
+
+It is when you open your eyes, you weak up from the dream, from that sweet deception; and you think you’ve already gone to sleep. But you're still at the desk. The novelty is the temperature. Icy when still young. Glacial at sunrise So are the nights. It only congeals when the soil is dry. More forceful the fall then.
+
+But we all like a couple of ice cubes in the drink. "*Spain is different, you know?*" I will save easy jokes about our English. I'm not sure where they are used the most. In Europe, they are merciful, perhaps somewhat protective. Enough we have with our stuff, besides we laugh before they can do it. Originality, we are not lacking.
+
+To the fifth, or sixth beer; when, if you have avoid them, you begin to understand what they say; inhibitions disappear. Lucidity allows to observe. Expectant spectator.
+
+"*What is he saying?*" Yes, another joke about Spain. You looked great when you pretended to be nice to me. The important thing is to participate. Even 5-year-olds say so. We still don't believe it.
+
+You also discover the differences. In Denmark the university is free. Things that are achieved with 60% of the salary in taxes. Ah! 650€ of scholarship every month. For pens, rules, maybe a new iPhone.
+
+Another round of beers. Two more and it's up to the Spanish ... He starts having rough times already. We talk like this in Spain, do we have much more to lose? Yes, pride. Because the Stella Artois at two euros each for 10 people are equivalent to half a week based on rice and pasta. We drink like Belgians, and we eat like Chinese.
+
+"*We are different. A kind of fun mix. A weird one. A stupid one.*” Can't it be possible just sit and talk? Obviously not. Welcome to the twenty-one century. Whoever wants to learn English go and read something else. (Welcome to the twenty-first century.)
+
+So, in those we are. Internationally representing our [great Olympics games]( https://www.youtube.com/watch?v=tctViHyZeJY). *Du yu nou guat ai min?*
+
+Simply disgusting. It is what it is. You cannot make a silk purse out of a pig’s ear.
+
+Let the train take us in second class and with a Go Pass.
+
+
+
+## 2013-09-17 Poem to F. 
+
+
+And recount the times it hasn't happened
+
+About how close you were left
+
+How far you could have been
+
+How wrong you always were
+
+there are things that do not change
+<br/><br/>
+
+Reality dwells behind your gaze
+
+But memories play hide and seek
+
+When you count to one hundred
+
+The game is over
+
+We all run for the afternoon snack
+
+Winning doesn't matter anymore
+
+<br/><br/>
+
+It is not for the time, nor for the hunger
+
+Mom rules
+
+You obey
+<br/><br/>
+
+
+They taught you how to behave
+
+Take the crumbs off your shirt
+
+Aren’t you old enough for nonsense
+
+They remind you every birthday
+
+With amazement
+
+Until it's rude
+
+<br/><br/>
+
+Only the poor eat bread in that way
+
+With pleasure
+
+Every bite is new
+
+is life
+
+<br/><br/>
+
+
+Now you travel by train
+
+Sometimes first class
+
+Until the ticket collector arrives
+
+Looking like Swedish is valid in Haiti^[In Spanish *Hacerse el sueco* means *To play dumb*]
+
+Where smiles are the (only) most precious asset
+
+In India they ride on the roof of the wagon
+<br/><br/>
+
+
+Mom rules
+
+You obey
+
+You smile
+
+You always learn something new
+<br/><br/>
+
+Where is the school
+
+When you look out the window at the PE class
+
+<br/><br/>
+
+Life is going on as normally as ever
+
+----
+Carlos, 
+
+When you email me at three in the afternoon, something will go wrong. "*Reality dwells behind your gaze.*"
+
+Write every day, whenever you can. "And recount the times it hasn’t happened."
+
+I go to sleep. Sweet Europe. You must update me on your course. When are you starting, at least. *Until the ticket collector arrives*. And you get the best grades.
+
+Health.
+
+---
+
+
+
+Y cuenta las veces que no ha ocurrido
+
+De lo cerca que te quedaste
+
+Lo lejos que pudiste estar
+
+Lo equivocado que siempre estuviste
+
+Hay cosas que no cambian
+
+<br/><br/>
+
+
+La realidad habita tras tu mirada
+
+Pero los recuerdos juegan al escondite
+
+Cuando cuentas hasta cien
+
+El juego se ha acabado
+
+Todos corremos a por la merienda
+
+Ya no importa ganar
+
+<br/><br/>
+
+No es ni por la hora, ni por el hambre
+
+Mamá manda
+
+Tú obedece
+
+<br/><br/>
+
+Te enseñaron a comportarte
+
+Quítate las migas de la camisa
+
+No eres ya mayorcito para tonterías
+
+Te lo recuerdan cada cumpleaños
+
+Con asombro
+
+Hasta que es descortés
+<br/><br/>
+
+
+Solo los pobres comen pan de esa manera
+
+Con placer
+
+Cada bocado es nuevo 
+
+es vida
+
+
+<br/><br/>
+
+Ahora viajas en tren
+
+A veces en primera clase
+
+Hasta que llega el revisor
+
+Hacerse el sueco es válido en Haití
+
+Donde las sonrisas son el (único) bien más preciado 
+
+En India viajan en el techo del vagón
+
+<br/><br/>
+
+Mamá manda
+
+Tú obedece
+
+Sonríes
+
+Siempre aprendes algo nuevo
+
+<br/><br/>
+
+Donde queda el colegio
+
+Cuando miras por la ventana la clase de educación física
+
+<br/><br/>
+
+Life is going on as normally as ever
+
+
+## 2013-09-18 Poem to F. 
+
+
+
+**Empty note**
+
+
+
+they are like ghosts
+
+they appear and disappear
+
+some ride a bike
+
+they like the company
+
+for a while
+<br/><br/>
+
+
+they sleep during the day
+
+to make night escapes
+<br/><br/>
+
+
+they enjoy themselves
+
+<br/><br/>
+
+they look for themselves
+
+and since nothing they find
+
+they come back with their tails upright
+
+proud of themselves
+
+<br/><br/>
+
+the rest is for dogs
+
+
+----
+
+**Nota vacía**
+
+son como fantasmas
+
+aparecen y desaparecen
+
+algunos van en bicicleta
+
+les gusta la compañia
+
+un rato
+
+<br/><br/>
+
+duermen por el día 
+
+para hacer escapadas nocturnas
+
+<br/><br/>
+
+they enjoy themselves
+
+<br/><br/>
+
+se buscan
+
+y como no se encuentran
+
+vuelven con el rabo erguido
+
+proud of themselves
+<br/><br/>
+
+
+lo demás es para perros
+
+
 
 
 
