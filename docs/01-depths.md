@@ -271,8 +271,8 @@ Original
 >todo un curso fugaz de geometría,
 >
 >principio de su fin, vedado al día.
->
->
+> 
+> <br/><br/>
 > @hernandez1976perito
 
 
@@ -335,7 +335,8 @@ PS: What is said is debt^[In reference of one of our face to face meetings]. [Wh
 
 
 
-## 2013-09-16 Buddies program 2013 {-#Excusas20130916}^[Entry of [*Excusas para no volver*](https://excusasparanovolver.blogspot.com/2013/09/buddies-program-2013.html). I remember that I spend the evening with a group of internationals that spoke English in a way that I barely followed the topic of the conversation. I survided, though.]
+
+## 2013-09-16 Buddies program 2013^[Entry of [*Excusas para no volver*](https://excusasparanovolver.blogspot.com/2013/09/buddies-program-2013.html). I remember that I spend the evening with a group of internationals that spoke English in a way that I barely followed the topic of the conversation. I survided, though.]  {-#Excusas20130916}
 
 It is when you open your eyes, you weak up from the dream, from that sweet deception; and you think you’ve already gone to sleep. But you're still at the desk. The novelty is the temperature. Icy when still young. Glacial at sunrise So are the nights. It only congeals when the soil is dry. More forceful the fall then.
 
@@ -550,8 +551,7 @@ Life is going on as normally as ever
 
 
 **Empty note**
-
-
+<br/><br/>
 
 they are like ghosts
 
@@ -587,6 +587,7 @@ the rest is for dogs
 ----
 
 **Nota vacía**
+<br/><br/>
 
 son como fantasmas
 
@@ -617,9 +618,6 @@ proud of themselves
 <br/><br/>
 
 lo demás es para perros
-
-
-
 
 
 
