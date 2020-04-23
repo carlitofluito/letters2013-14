@@ -302,7 +302,7 @@ Good luck in your days before the start of Europe.
 knitr::include_graphics("images/2013/poemas.jpg")
 ```
 
------ 
+---
 
 Incredible F., the life of books...
 

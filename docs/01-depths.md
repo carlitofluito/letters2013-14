@@ -304,7 +304,7 @@ Good luck in your days before the start of Europe.
 <p class="caption">(\#fig:poemas)*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation.</p>
 </div>
 
------ 
+---
 
 Incredible F., the life of books...
 
