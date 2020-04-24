@@ -288,10 +288,14 @@ I'm going to tell you a story. Since years I've been chasing a discontinued book
 
 By the way, I acquired the first reissue, from 1985 in [“*Hiperión*”]( https://www.hiperion.com/), which was also there. A certain José González, allegedly in love with a certain Sara, bought it on [Gran Vía]( https://en.wikipedia.org/wiki/Gran_V%C3%ADa,_Madrid) and gave it to her, surely wanting to tell her through those poisonous pages so many things. He dated it as “*7-X-85*” with the decryption '*opos-agricultural'85-*'. Maybe she had abandoned him.
 
-<div class="figure" style="text-align: center">
-<img src="images/2013/notas.jpg" alt="*Valladolid (Spain). September, 2013*: The book F. was referring to." width="75%" />
-<p class="caption">(\#fig:notas)*Valladolid (Spain). September, 2013*: The book F. was referring to.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2013/notas} 
+
+}
+
+\caption{*Valladolid (Spain). September, 2013*: The book F. was referring to.}(\#fig:notas)
+\end{figure}
 
 "*The mirrors don't know how to lie anymore*,"^[*Los espejos no saben mentir*] says a song by [Diego Vasallo](https://es.wikipedia.org/wiki/Diego_Vasallo). Judged by the absolutely flawless condition, better than most of newly released books and bought in bookstores, she didn’t even open it. Probably, she must have moved out from her place, why not because of the crisis, to a smaller flat, maybe after a separation, and she would do away with part of her library.
 
@@ -299,10 +303,14 @@ Ellipsis.
 
 Good luck in your days before the start of Europe.
 
-<div class="figure" style="text-align: center">
-<img src="images/2013/poemas.jpg" alt="*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation." width="75%" />
-<p class="caption">(\#fig:poemas)*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2013/poemas} 
+
+}
+
+\caption{*Valladolid (Spain). September, 2013*: Some poems from the book. Sorry for the lack of translation.}(\#fig:poemas)
+\end{figure}
 
 ---
 
@@ -626,18 +634,26 @@ lo demás es para perros
 # The depths (October - December) {-#depths}
 
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/room.jpg" alt="*Leuven (Belgium). October, 2013*: This is the very beggining of the story, the room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug." width="75%" />
-<p class="caption">(\#fig:room)*Leuven (Belgium). October, 2013*: This is the very beggining of the story, the room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2014/room} 
+
+}
+
+\caption{*Leuven (Belgium). October, 2013*: This is the very beggining of the story, the room where most of these letters were written. I started there to use a fitness ball as a chair. And that lovely [Pangaea](https://www.kuleuven.be/english/studentservices/pangaea) mug.}(\#fig:room)
+\end{figure}
 
 
 ## 2013-11-10. To T. {-#tot20131110}
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/explorer.jpg" alt="*Leuven (Belgium), September, 2013*: The 24^th^. My 20^th^ birthday. I was exploring the center of the city, enjoying the free beers that one gets only by showing your ID and proving that it is your birthday. Fleeting happiness..." width="75%" />
-<p class="caption">(\#fig:explorer)*Leuven (Belgium), September, 2013*: The 24^th^. My 20^th^ birthday. I was exploring the center of the city, enjoying the free beers that one gets only by showing your ID and proving that it is your birthday. Fleeting happiness...</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2014/explorer} 
+
+}
+
+\caption{*Leuven (Belgium), September, 2013*: The 24th. My 20th birthday. I was exploring the center of the city, enjoying the free beers that one gets only by showing your ID and proving that it is your birthday. Fleeting happiness...}(\#fig:explorer)
+\end{figure}
 
 Leuven, 11^th^ of October of 2013.
 
@@ -732,10 +748,14 @@ T.
 
 ---
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/bike.jpg" alt="*Leuven (Belgium), October, 2013*: I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around. However, things went differently... " width="75%" />
-<p class="caption">(\#fig:bike)*Leuven (Belgium), October, 2013*: I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around. However, things went differently... </p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2014/bike} 
+
+}
+
+\caption{*Leuven (Belgium), October, 2013*: I was happy when I settle down. I had my new NorthFace backpack and I was ready to ride around. However, things went differently... }(\#fig:bike)
+\end{figure}
 
 T., 
 
@@ -781,10 +801,14 @@ Mass parties and great mass events anesthetize; the media anesthetize with their
 
 There's one aspect that has really worried me not only in your letter but in my own life. I mean the role of the intellectual and, before all, that of the citizen. Although to some extent I have already answered, I would like to add a brief reflection on this particular issue. The problem is whether the intellectual can and should even settle for doing his work in a professional manner or whether to demand from both the intellectual and any citizen something else, a greater commitment to society. The image of Plato's cavern you quote in your letter is very clairvoyant. The wisest is not the one who leaves the cavern, since he always comes out with the help of other people, the pedagogue, in the case of platonic myth; the wisest, the one who, in [Aristotle's](https://en.wikipedia.org/wiki/Aristotle) words, leads a[ *virtuous life*](https://en.wikipedia.org/wiki/Nicomachean_Ethics), is the one who, in addition to leaving the cavern and walking the way to the contemplation of the sun, the truth, that is, performs the ascending dialectical process, returns to the cavern in order to help other prisoners out of it -descending dialectics-. There [Plato](https://en.wikipedia.org/wiki/Plato) – and the common sense – tells us clearly what the role of the intellectual, the philosopher, and, by extension, the true citizen is. The posture of those who believe that they have left the cavern and stand there, still, satisfied outside of the cavern forgetting its origins, enjoying and reserving for themselves the sweetness of knowledge and art, only deserves reproaches. They are a clear manifestation of the social and personal selfishness that has always occurred and that populates our time. They are antisocial beings because they only want for themselves what belongs to everyone, regardless of their social origin. Here is the foundation of the validity of universal education, of public education, which guarantees access to training to all without distinction. Returning to the cavern is an act of responsibility, a due act, forced from the point of view of moral conscience. Staying out means living in overt irresponsibility. If I am honest with you, here is the rational and moral unifying thread that directed me to teach, instead of focusing on engineering, as my teachers wanted. Do not take me as a hero, because I am not, I do not intend to present myself as an example of anything; after all, I've done what I wanted and I liked, nonetheless, having to overcome very difficult obstacles, but I haven't been the only one in this either. Doing what you like and want contributes to your happiness and thus benefits and enriches society. In short, we would all like to do in life what we like, and I think we should aspire to achieve it. Returning to Plato and those who do not have solidarity and social commitment in their minds, it can be said that they renounce a part or aspect of life that contributes to their own happiness and deprive society of a good that belongs to it.
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/train.jpg" alt="*Somewhere in Belgium. October, 2013*: Narcisus drowning in the train window." width="75%" />
-<p class="caption">(\#fig:train)*Somewhere in Belgium. October, 2013*: Narcisus drowning in the train window.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2014/train} 
+
+}
+
+\caption{*Somewhere in Belgium. October, 2013*: Narcisus drowning in the train window.}(\#fig:train)
+\end{figure}
 
 Following the course of your letter, you end up with a self-incrimination meditation. I don't know if you have to accuse yourself of things. It is one thing to analyze, to stop in the way, to look in the mirror and to draw conclusions that lead to decisions that seem appropriate, another to blame for defects or faults and, worse, that this prosecution process paralyzes us and leads us to a sick situation or even sickness. The first thing must be done from time to time, as any aircraft or boat pilot does, which corrects the course at short intervals, after having done the necessary checks and calculations; self-incrimination is something else, especially when it is easy that certain circumstances outside oneself have been determinants of the personal situation: friends who do not help, personal loneliness, remoteness of family and loved ones, the weather, new companions, language, et cetera. As it happens to all of us, you may be doing something wrong, but this is no reason to fall into a depression, let alone for self-destructive thoughts or feelings to appear. You're finishing the degree you chose in your day because it was the one you liked, you've done your studies brilliantly, you have a supportive family and loyal friends to trust. You have the circumstances in your favor. I think you have a favorable career and personal circumstances for you to finish your studies in Belgium as you have done so far, taking advantage of the opportunity to study abroad, which is still a real opportunity to acquire a more open academic and personal education with broad horizons. It is you who know better than anyone the trap you have built or fallen into. Surely it consists in the aim of encompassing too many areas, widening the circle of interests and obligations beyond the degree you are studying. It is good - and necessary - that you focus on the contents of the degree you are finishing. Psychology is an area of complex knowledge with a future, which deserves full dedication. The fact that you relate and befriend people who quite surpass you in age may have led you to try to live up to their dedication to other areas of knowledge. We would all like to know everything and, moreover, to the maximum degree, but this is not possible. To grow as a person and be a good professional, we have to narrow the area of interests and especially the area to which we are dedicated. As if we were proceeding in circles, the greatest dedication must be in what we have chosen as the scope of priority knowledge; from there, other concentric circles that refer to areas of knowledge compatible with the first and complementary to each other; but key dedication must focus on the priority. The trajectory or the fruits of others' activity should not be magnified. We tend to think that what those close to us, who are moving away from our area of dedication, do is so interesting that we see ourselves in the need to emulate them. Maybe that's where we set ourselves a trap. What others do, painters, musicians, poets or scientists, whatever the branch of science, may be wonderful, but we must understand that this area of knowledge is what they chose in their day and that, precisely because they made it their priority dedication, they excel in it and make contributions to society. But how many of them do not look at others with eyes of admiration; if they were sincere, they would all reveal to us how much they admire people with dedications to an area of knowledge far removed from their own. The limitation of our time and capabilities, coupled with the increasing complexity of knowledge, means that we have to be realistic and delimit the area of knowledge in which we want to be competent and, if possible, with the maximum degree of excellence. It is from there that we gradually build the elements necessary to be happy and contribute as much as possible to the well-being of society. The rest, that we age, for example, is part of the inevitable vital process, and in which we should not think, because it is useless or worthless.
 
@@ -887,10 +911,14 @@ A warm hug.
  
 Carlos
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/living.jpg" alt="*Valladolid (Spain), January, 2014*: The 6^th^. [The *Three Magic Kings* night](https://www.donquijote.org/spanish-culture/holidays/the-three-kings/). There were no gifts at my house that night, so I picked up several books around the house and place them on the living room." width="75%" />
-<p class="caption">(\#fig:living)*Valladolid (Spain), January, 2014*: The 6^th^. [The *Three Magic Kings* night](https://www.donquijote.org/spanish-culture/holidays/the-three-kings/). There were no gifts at my house that night, so I picked up several books around the house and place them on the living room.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2014/living} 
+
+}
+
+\caption{*Valladolid (Spain), January, 2014*: The 6th. [The *Three Magic Kings* night](https://www.donquijote.org/spanish-culture/holidays/the-three-kings/). There were no gifts at my house that night, so I picked up several books around the house and place them on the living room.}(\#fig:living)
+\end{figure}
 
 ## 2014-01-19 To T. {-#totomas20140119}
 
@@ -929,7 +957,11 @@ A huge, excited hug,
 Carlos
 
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/smartphone.jpg" alt="*Brugges (Belgium), December, 2013*: Black Mirror's victim was about getting liberated." width="75%" />
-<p class="caption">(\#fig:smartphone)*Brugges (Belgium), December, 2013*: Black Mirror's victim was about getting liberated.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2014/smartphone} 
+
+}
+
+\caption{*Brugges (Belgium), December, 2013*: Black Mirror's victim was about getting liberated.}(\#fig:smartphone)
+\end{figure}

@@ -1,9 +1,13 @@
 # The re-connection (January - March) {- #reconnect}
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/tao.jpg" alt="*Leuven (Belgium), March, 2014*: It had happened, and it was going to keep happening." width="75%" />
-<p class="caption">(\#fig:tao)*Leuven (Belgium), March, 2014*: It had happened, and it was going to keep happening.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2014/tao} 
+
+}
+
+\caption{*Leuven (Belgium), March, 2014*: It had happened, and it was going to keep happening.}(\#fig:tao)
+\end{figure}
 
 ## 2014-02-11 From P. {-#frompaloma20140211}
 
@@ -74,10 +78,14 @@ Today I feel a little tired, I suppose it is because it is already night, my thr
  
 I am writing to you briefly to tell you about my “successful” completion of the first semester as an Erasmus. At least academically. All passed.
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/study.jpg" alt="*Valladolid (Spain), December, 2013*: I successfully passed the exams thanks to long study sessions in the library like this one." width="75%" />
-<p class="caption">(\#fig:study)*Valladolid (Spain), December, 2013*: I successfully passed the exams thanks to long study sessions in the library like this one.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2014/study} 
+
+}
+
+\caption{*Valladolid (Spain), December, 2013*: I successfully passed the exams thanks to long study sessions in the library like this one.}(\#fig:study)
+\end{figure}
  
 In general, I am in quite a good mood and I have taken this past week to organize my schedule and prioritize my projects. Re-adapting to student life after my trip to Morocco. (There is a chronicle of the journey in hand; hands paralyzed unfortunately ...)^[6 years of paralysis already.] Still, I think I want to do too much and often go overwhelmed. I plan to write down a motivating message about the difference between moments of inspiration and day-to-day work. Maybe it will work. I'm not sure how to carry out everything I want. I have a schedule with almost no breaks, it is somewhat unreal… In moments of euphoria I write down my ideas and fit them into non-existent hours throughout the week.
 
@@ -207,10 +215,14 @@ I would like you to answer me, please. Slowly and sincerely. If you do not want 
  
 Carlos
 
-<div class="figure" style="text-align: center">
-<img src="images/2014/glove.jpg" alt="*Brussels (Belgium), November, 2013*: Taking out a glove to take a selfie. Very smart behavior in Northen Europe." width="75%" />
-<p class="caption">(\#fig:glove)*Brussels (Belgium), November, 2013*: Taking out a glove to take a selfie. Very smart behavior in Northen Europe.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/2014/glove} 
+
+}
+
+\caption{*Brussels (Belgium), November, 2013*: Taking out a glove to take a selfie. Very smart behavior in Northen Europe.}(\#fig:glove)
+\end{figure}
 
 ## 2014-02-22 From T. {-#fromT20140222}
 

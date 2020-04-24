@@ -631,7 +631,7 @@ knitr::include_graphics("images/2014/room.jpg")
 
 ## 2013-11-10. To T. {-#tot20131110}
 
-```{r explorer, fig.cap= "*Leuven (Belgium), September, 2013*: The 24^th^. My 20^th^ birthday. I was exploring the center of the city, enjoying the free beers that one gets only by showing your ID and proving that it is your birthday. Fleeting happiness...", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+```{r explorer, fig.cap= "*Leuven (Belgium), September, 2013*: The 24th. My 20th birthday. I was exploring the center of the city, enjoying the free beers that one gets only by showing your ID and proving that it is your birthday. Fleeting happiness...", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2014/explorer.jpg")
 ```
 
@@ -881,7 +881,7 @@ A warm hug.
  
 Carlos
 
-```{r living, fig.cap= "*Valladolid (Spain), January, 2014*: The 6^th^. [The *Three Magic Kings* night](https://www.donquijote.org/spanish-culture/holidays/the-three-kings/). There were no gifts at my house that night, so I picked up several books around the house and place them on the living room.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+```{r living, fig.cap= "*Valladolid (Spain), January, 2014*: The 6th. [The *Three Magic Kings* night](https://www.donquijote.org/spanish-culture/holidays/the-three-kings/). There were no gifts at my house that night, so I picked up several books around the house and place them on the living room.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2014/living.jpg")
 ```
 
