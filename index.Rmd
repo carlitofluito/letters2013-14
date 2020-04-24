@@ -6,6 +6,10 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: [bibliography.bib]
 biblio-style: apalike
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 2
 link-citations: yes
 github-repo: carlitofluito/letters2013_14
 description: "This is a compendium of the letters written, sent and received between October 2013 and September 2014."
