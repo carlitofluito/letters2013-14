@@ -627,21 +627,21 @@ lo demás es para perros
 
 
 
-## 2013-09-20  ^[Entry of [*Excusas para no volver*](https://excusasparanovolver.blogspot.com/2013/09/from-camerun-to-poland.html). One of those international meetings when I realized the cultural differences that I was so unaware of.] {-#Excusas20130920}
+## 2013-09-20 From Cameroun to Poland^[Entry of [*Excusas para no volver*](https://excusasparanovolver.blogspot.com/2013/09/from-camerun-to-poland.html). One of those international meetings when I realized the cultural differences that I was so unaware of.] {-#Excusas20130920}
 
 The Cameroonian was wrong when speaking about the Belgians, he meant Poles. He was talking about “*lip stick smilings*” to refer to the automatic and ephemeral movement that Belgians make (made) to say good morning twenty years ago. "*What’s wrong with me?*" This “*ruber-band smile*” (the metaphor is still of the African, genetically, an expert in smiles) was unrelated to the Belgian reality that I have encountered so far. However, today I have met a Pole. And there they were, one after another. Seeing his teeth was a great satisfaction for me. "*What’s wrong with me?*" The poor Cameroonian did not remember the legend:
 
 > It is said that in that remote place where the grandfather of the human being was born, more or less in the Gulf of Guinea (yes, yes, Cameroon) about 2.5 million years ago, the smile was created. The purest smiles were there, and everyone took care of them and showed them in the most exaggerated way possible. But little by little, as they distanced themselves from their origins, people began to forget what they were like. Since they weren't sure if they were doing it right, they sometimes made funny faces. Over time, the smile became a quick and insecure fuss to please, rather than to gratify others.
 
 <div class="figure" style="text-align: center">
-<img src="docs/images/2013/sor1.jpg" alt="An original smile." width="75%" />
+<img src="docs/images/2013/sor1.jpg" alt="An original smile." width="50%" />
 <p class="caption">(\#fig:sor1)An original smile.</p>
 </div>
 
 I guess the legend is true. Forgetting about origins is as dangerous as losing your smile. The two ends of the rope are so similar that if it weren't for the smiles, we could get confused.
 
 <div class="figure" style="text-align: center">
-<img src="docs/images/2013/sor2.jpg" alt="Degenerated smile." width="75%" />
+<img src="docs/images/2013/sor2.jpg" alt="Degenerated smile." width="50%" />
 <p class="caption">(\#fig:sor2)Degenerated smile.</p>
 </div>
 
@@ -654,14 +654,14 @@ I keep splashing from side to side, taking some kind of apnea from time to time.
 Conclusion. Beginnings and endings.
 
 <div class="figure" style="text-align: center">
-<img src="docs/images/2013/sor3.jpg" alt="Beginnings." width="75%" />
+<img src="docs/images/2013/sor3.jpg" alt="Beginnings." width="50%" />
 <p class="caption">(\#fig:sor3)Beginnings.</p>
 </div>
 
 Smile. Since, we were dust, and when we are close to the origins we remember them. The ends do not matter if the string is a circumference.
 
 <div class="figure" style="text-align: center">
-<img src="docs/images/2013/sor4.jpg" alt="Endings." width="75%" />
+<img src="docs/images/2013/sor4.jpg" alt="Endings." width="50%" />
 <p class="caption">(\#fig:sor4)Endings.</p>
 </div>
 
