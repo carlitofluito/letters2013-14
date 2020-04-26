@@ -659,7 +659,7 @@ Smile. Since, we were dust, and when we are close to the origins we remember the
 knitr::include_graphics("docs/images/2013/sor4.jpg")
 ```
 
-## 
+
 
 
 
