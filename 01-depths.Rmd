@@ -621,6 +621,48 @@ lo demás es para perros
 
 
 
+
+
+
+
+## 2013-09-20  ^[Entry of [*Excusas para no volver*](https://excusasparanovolver.blogspot.com/2013/09/from-camerun-to-poland.html). One of those international meetings when I realized the cultural differences that I was so unaware of.] {-#Excusas20130920}
+
+The Cameroonian was wrong when speaking about the Belgians, he meant Poles. He was talking about “*lip stick smilings*” to refer to the automatic and ephemeral movement that Belgians make (made) to say good morning twenty years ago. "*What’s wrong with me?*" This “*ruber-band smile*” (the metaphor is still of the African, genetically, an expert in smiles) was unrelated to the Belgian reality that I have encountered so far. However, today I have met a Pole. And there they were, one after another. Seeing his teeth was a great satisfaction for me. "*What’s wrong with me?*" The poor Cameroonian did not remember the legend:
+
+> It is said that in that remote place where the grandfather of the human being was born, more or less in the Gulf of Guinea (yes, yes, Cameroon) about 2.5 million years ago, the smile was created. The purest smiles were there, and everyone took care of them and showed them in the most exaggerated way possible. But little by little, as they distanced themselves from their origins, people began to forget what they were like. Since they weren't sure if they were doing it right, they sometimes made funny faces. Over time, the smile became a quick and insecure fuss to please, rather than to gratify others.
+
+```{r sor1, fig.cap= "An original smile.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("docs/images/2013/sor1.jpg")
+```
+
+I guess the legend is true. Forgetting about origins is as dangerous as losing your smile. The two ends of the rope are so similar that if it weren't for the smiles, we could get confused.
+
+```{r sor2, fig.cap= "Degenerated smile.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("docs/images/2013/sor2.jpg")
+```
+
+The Cameroonian lesson did not end there. “*The only thing permanent in life is change.*” My weakness for paradoxes keeps me ignorant and knowledgeable at the same time, all thanks to Socrates. Life is learning. Movement keeps neurons alert. Adaptation determines survival. These are already repeated things.
+
+But the poetry has to be read calmly. Slow down to admire the surroundings. Dive into each idea. If you are short of breath, then you get closer to the essence. Professional freedivers are burdened with hours of training. The first time you rush to the surface, frantic, and instead of catching air, one starts coughing convulsively. Those who reach the bottom feel calm. The emptiness of needs. The fullness of the abyssal.
+
+I keep splashing from side to side, taking some kind of apnea from time to time. But I don't usually go down beyond the disappearance of the light. At such depths the light emanates from the individual. And I depend on the sun. I think there will be no clouds tomorrow. I will take a photograph so as not to forget that it is faithful to its principles.
+
+Conclusion. Beginnings and endings.
+
+```{r sor3, fig.cap= "Beginnings.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("docs/images/2013/sor3.jpg")
+```
+
+Smile. Since, we were dust, and when we are close to the origins we remember them. The ends do not matter if the string is a circumference.
+
+```{r sor4, fig.cap= "Endings.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("docs/images/2013/sor4.jpg")
+```
+
+## 
+
+
+
 # The depths (October - December) {-#depths}
 
 
